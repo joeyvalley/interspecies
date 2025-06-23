@@ -42,7 +42,6 @@ body {
   font-family: 'Marfa-Thin';
   src: url('/fonts/marfa-thin-italic.woff2') format('woff2');
   font-weight: normal;
-  font-style: italic;
   font-display: swap;
 }
 
@@ -69,6 +68,8 @@ body {
   font-style: normal;
   font-display: swap;
 }
+
+/* Menu */
 
 .menu-bar {
   position: sticky;
@@ -118,6 +119,12 @@ body {
   display: inline-block;
 }
 
+.nav-links .mobile {
+  display: none;
+}
+
+/* Poem ticker */ 
+
 .ticker {
   overflow: hidden;
   background: #8c7251;
@@ -125,25 +132,21 @@ body {
   white-space: nowrap;
   padding: 1rem 0;
 }
-
 .ticker__inner {
   display: inline-block;
   animation: marquee 90s linear infinite;
 }
-
 .ticker__item {
   display: inline-block;
   margin-right: 2rem;
   font-family: 'Marfa-Thin';
   color: #010101;
 }
-
-/* Scroll from 0 → -50% of the inner’s width */
 @keyframes marquee {
   0%   { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
-
+/* HERO TEXT */
 .hero-text {
   padding: 1rem 2rem;
   width: 100%;
@@ -151,19 +154,16 @@ body {
   background: #010101;
   border-bottom: 2px solid #010101;
 }
-
 .hero-text p {
   font-size: 2.25rem;
   color: #fff;
   font-family: 'Slab-Mono-Light';
   line-height: 2.75rem;
 }
-
+/* HERO IMAGE CAROUSEL */
 .hero-slider {
   width: 100%;
 }
-
-/* your existing image slider CSS */
 .hero-image {
   position: relative;
   width: 100%;
@@ -183,17 +183,13 @@ body {
 .hero-image img.visible {
   opacity: 1;
 }
-
-/* caption now a single block under the slider */
 .hero-caption {
   width: 100%;
   padding: 1rem 2rem;
   background: #3366ff;
   border-bottom: 1px solid #010101;
-
-  /* fade in/out if you like */
-  opacity: 1;              /* always present */
-  transition: none;        /* or add transition on color if desired */
+  opacity: 1;              
+  transition: none;
 }
 .hero-caption p {
   margin: 0;
@@ -202,7 +198,7 @@ body {
   font-family: 'Favorit-Mono', sans-serif;
   line-height: 1.6;
 }
-
+/* SECTIONS */
 .section-block {
   width: 100%;
   height: auto;
@@ -244,7 +240,7 @@ body {
   color: #010101;
   line-height: 1.75rem;
   text-align: left;
-  padding: 0.5rem 2rem 2rem 2rem;
+  padding: 0.5rem 2rem 2.5rem 2rem;
 }
 
 .slider {
@@ -269,28 +265,26 @@ body {
 .slider img.visible {
   opacity: 1;
 }
-
+/* Footer */
 .footer{
   width: 100%;
   background: #f1f1f1;
   padding: 1.5rem 2rem;
 }
-
 .footer h3{
   font-family: 'Slab-Mono-Light';
   color: #010101;
   text-align: center;
   font-weight: normal;
 }
-
+/* Writings Image Carousel */
 .hero-image-2 {
   position: relative;
   width: 100%;
-  aspect-ratio: 16/9;        /* or your chosen ratio */
+  aspect-ratio: 16/9;
   overflow: hidden;
-  border-bottom: 1px solid #010101;
+  border-top: 1px solid #010101;
 }
-
 .hero-image-2 img {
   position: absolute;
   inset: 0;
@@ -300,19 +294,14 @@ body {
   opacity: 0;
   transition: opacity 1.5s ease-in-out;
 }
-
 .hero-image-2 img.visible {
   opacity: 1;
 }
-
-/* caption now sits below, not overlaid */
 .hero-caption-2 {
   padding: 1rem 2rem;
   background: orange;
-  border-bottom: 1px solid #010101;
-  /* no position:absolute */
+  border-top: 1px solid #010101;
 }
-
 .hero-caption-2 p {
   color: #fff;
   font-size: 0.9rem;
@@ -334,14 +323,12 @@ body {
   line-height: 1.6;
   margin: 0;
 }
-
 .hero-text-bottom {
   padding: 1rem 2rem;
   width: 100%;
   text-align: left;
   background: #f1f1f1;
 }
-
 .hero-text-bottom p {
   font-size: 1.25rem;
   color: #010101;
@@ -349,7 +336,7 @@ body {
   padding-bottom: 1.5rem;
   text-align: justify;
 }
-
+/* Support Section Text Definitions */
 .ic-text{
   color: blue;
   border-bottom: 2px solid transparent;
@@ -359,18 +346,15 @@ body {
   transition: all ease-in-out 0.3s;
   cursor: pointer;
 }
-
 .nht-text{
   color: #010101;
   transition: all ease-in-out 0.3s;
 }
-
 .nht-text:hover{
   color: #010101;
   background: yellow;
   cursor: pointer;
 }
-
 .rhizome-text {
   color: #010101;
   border-bottom: 2px solid transparent;
@@ -381,7 +365,6 @@ body {
   transition: all ease-in-out 0.3s;
   cursor: pointer;
 }
-
 /* Newsletter */
 .email {
   font-family: "Favorit-Mono";
@@ -399,24 +382,19 @@ body {
   display: inline-block;
   transition: color 200ms ease-in-out;
 }
-
 .email:focus {
   outline: none;
   color: #010101;
 }
-
 .email::placeholder {
   color: #010101;
 }
-
-
 .newsletter form {
   display: grid;
   grid-template-columns: 3fr 1fr;
   grid-column-gap: 0.5rem;
-  padding-bottom: 2.5rem;
+  padding: 2rem 0 3rem 0;
 }
-
 .subscribe {
   font-family: "Favorit-Mono";
   font-style: normal;
@@ -428,17 +406,334 @@ body {
   display: inline-block;
   transition: all 200ms ease-in-out;
 }
-
 .subscribe:focus {
   background: #010101;
   color: #f1f1f1;
   cursor: pointer;
-  /* mix-blend-mode: normal; */
 }
-
 .subscribe:hover {
   background: #010101;
   color: #f1f1f1;
   cursor: pointer;
-  /* mix-blend-mode: normal; */
+}
+/* Mobile Menu */
+.hamburger {
+  display:none;
+}
+.side-menu {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 0;
+  height: 100vh;
+  width: 250px;     
+  background: #010101;
+  box-shadow: -2px 0 8px rgba(0,0,0,0.2);
+  border-left: 1px solid #010101;
+  transform: translateX(100%); 
+  transition: transform 0.3s ease-in-out;
+  z-index: 1000;         
+}
+.side-menu.open {
+  transform: translateX(0);
+}
+.side-menu ul {
+  flex: none;
+  list-style: none;
+
+}
+.side-menu li {
+  padding: 0.5rem;
+  border-bottom: 1px solid #f1f1f1;
+  font-family: 'Favorit-Mono';
+  font-size: 1.25rem;
+}
+.side-menu a {
+  text-decoration: none;
+  color: #f1f1f1;
+  font-size: 1.25rem;
+}
+.side-menu .close-btn {
+  background: transparent;
+  border: none;
+  font-family: 'Favorit-Mono';
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #f1f1f1;
+  padding: 0;
+}
+.side-menu ul {
+  flex: none;
+}
+
+/* 3. Logo container grows to fill remaining vertical space */
+.logo-container {
+  flex: 1;                      
+  display: flex;                      
+  justify-content: start;
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+  padding: 0 2rem 1.5rem 0;
+}
+
+.logo-container img {
+  height: 100%;
+}
+.side-menu .close-btn:hover {
+  color: #000;
+}
+/* ------ */
+/* ------ */
+/* Mobile */
+/* ------ */
+/* ------ */
+@media (max-width: 768px) {
+.menu-bar {
+  position: sticky;
+  top: 0;
+  height: 86px;
+  width: 100%;
+  background-color: #f1f1f1;
+  border-bottom: 1px solid #010101;
+  display: flex;
+  align-items: left;
+  z-index: 100;
+}
+.nav {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 0 0.75rem;
+height: 100%;
+width: 100%;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  list-style: none;
+  font-family: 'Favorit-Mono';
+  font-size: 1.25rem;
+  height: 60px;
+}
+.nav-links a {
+  text-decoration: none;
+  color: #010101;
+}
+.nav-links a:hover {
+  border-bottom-color: #010101;
+}
+.nav-links .logo-image {
+  height: 3rem;
+  vertical-align: middle;
+  display: inline-block;
+}
+.nav-links .text {
+  display: none;
+}
+.nav-links .mobile {
+  display: inline-block;
+}
+/* Poem ticker */ 
+.ticker {
+  overflow: hidden;
+  background: #8c7251;
+  color: #fff;
+  white-space: nowrap;
+  padding: 0.75rem 0;
+}
+.ticker__inner {
+  display: inline-block;
+  animation: marquee 90s linear infinite;
+}
+.ticker__item {
+  display: inline-block;
+  margin-right: 2rem;
+  font-family: 'Marfa-Thin';
+  color: #010101;
+}
+@keyframes marquee {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+/* Hero Text */
+.hero-text {
+  padding: 1rem 0.5rem 1rem 0.75rem;
+  width: 100%;
+  text-align:left;
+  background: #010101;
+  border-bottom: 1px solid #010101;
+}
+.hero-text p {
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: 'Slab-Mono-Light';
+  line-height: 2.25rem;
+}
+/* Hero Image Captions */
+.hero-caption {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  background: #3366ff;
+  border-bottom: 1px solid #010101;
+  opacity: 1;              
+  transition: none;
+}
+.hero-caption p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #fff;
+  font-family: 'Favorit-Mono', sans-serif;
+  line-height: 1.6;
+}
+/* SECTIONS */
+.section-block {
+  width: 100%;
+  height: auto;
+  padding: 1.5rem 0 0 0;
+  border-bottom: 1px solid #010101;
+  background: #f1f1f1;
+}
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.75rem;
+}
+.section-header h2 {
+  font-size: 1.4rem;
+  margin: 0;
+  color: #010101;
+  font-family: 'Favorit-Mono';
+}
+.section-header a {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #010101;
+  font-family: 'Favorit-Mono';
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+.section-header a:hover {
+  border-bottom-color: #010101;
+}
+.section-description {
+  font-size: 1rem;
+  font-family: 'Slab-Mono-Light';
+  color: #010101;
+  text-align: left;
+  padding: 0.5rem 0.75rem 2rem 0.75rem;
+}
+.hero-caption-2 {
+  padding: 0.5rem 0.75rem;
+  background: orange;
+}
+.hero-caption-3 {
+    width: 100%;
+    margin: 0;
+    padding: 0.5rem 0.75rem;
+    background: #5c854e;
+    border-top: 1px solid #010101;
+}
+.hero-text-bottom {
+  width: 100%;
+  background: #f1f1f1;
+    padding: 0.5rem 0.75rem 2rem 0.75rem;
+}
+.hero-text-bottom p {
+  font-size: 1rem;
+  font-family: 'Slab-Mono-Light';
+  color: #010101;
+  text-align: left;
+}
+/* Newsletter */
+.email {
+  font-family: "Favorit-Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1rem;
+  color: var(--black);
+  background: none;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #010101;
+  width: 100%;
+  padding: 0px;
+  display: inline-block;
+  transition: color 200ms ease-in-out;
+}
+.email:focus {
+  outline: none;
+  color: #010101;
+}
+.email::placeholder {
+  color: #010101;
+}
+.newsletter form {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-column-gap: 0.5rem;
+  padding: 2rem 0 1rem 0;
+}
+.subscribe {
+  font-family: "Favorit-Mono";
+  font-style: normal;
+  font-size: 1rem;
+  padding: 0.25rem;
+  color: #010101;
+  background: #FF69B4;
+  border: 1px solid #010101;
+  border-radius: 0;
+  display: inline-block;
+  transition: all 200ms ease-in-out;
+}
+.subscribe:focus {
+  background: #010101;
+  color: #f1f1f1;
+  cursor: pointer;
+}
+.subscribe:hover {
+  background: #010101;
+  color: #f1f1f1;
+  cursor: pointer;
+}
+.footer{
+  width: 100%;
+  background: #f1f1f1;
+  padding: 1rem 3rem 0.75rem 3rem;
+}
+.footer h3{
+  font-family: 'Slab-Mono-Light';
+  color: #010101;
+  text-align: center;
+  font-weight: normal;
+  font-size: 1rem;
+}
+.hamburger {
+  display:inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50px;      
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  margin-top: -12px;
+  margin-left: -55px;
+  background: transparent;
+}
+.hamburger span {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #010101;
+  border-radius: 1px;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
 }
