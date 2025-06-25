@@ -468,8 +468,6 @@ body {
 .side-menu ul {
   flex: none;
 }
-
-/* 3. Logo container grows to fill remaining vertical space */
 .logo-container {
   flex: 1;                      
   display: flex;                      
@@ -479,12 +477,66 @@ body {
   overflow: hidden;
   padding: 0 2rem 1.5rem 0;
 }
-
 .logo-container img {
   height: 100%;
 }
 .side-menu .close-btn:hover {
   color: #000;
+}
+/* Newsletter Page */
+.newsletter-container {
+  padding: 2rem;
+  width: 100%;
+  margin: 0;
+  background: #f1f1f1;
+  border-bottom: 1px solid #010101;
+  display: flex;
+  justify-content: center;
+}
+.newsletter-page{
+    width: 100%;
+    max-width: 800px;
+    font-family: 'Favorit-Mono';
+}
+/* Headings */
+.newsletter-page .markdown-body {
+  line-height: 1.6;
+  color: #010101;
+}
+.newsletter-page .markdown-body p {
+  margin-bottom: 2rem;
+}
+.newsletter-image {
+  padding-bottom: 2rem;
+}
+.newsletter-image img {
+  width: 100%;
+  border: 1px solid #010101;
+  margin: 0;
+}
+.newsletter-image .drawing {
+  width: 100%;
+  border: none !important;
+  margin: 0;
+}
+.newsletter-caption {
+  font-family: 'Slab-Mono-Light';
+  font-size: 0.7rem;
+}
+.newsletter-title{
+  align-items:baseline;
+  margin-bottom: 1.5rem;
+}
+.newsletter-title h1{
+  font-family: 'Slab-Mono-Light';
+  font-size: 2.5rem;
+  line-height: 3rem;
+  font-weight: normal;
+}
+.newsletter-title h2{
+  font-family: 'Favorit-Mono';
+  font-size: 1.2rem;
+  font-weight: normal;
 }
 /* ------ */
 /* ------ */
@@ -591,7 +643,7 @@ width: 100%;
   font-family: 'Favorit-Mono', sans-serif;
   line-height: 1.6;
 }
-/* SECTIONS */
+/* Homepage Sections */
 .section-block {
   width: 100%;
   height: auto;
@@ -651,7 +703,7 @@ width: 100%;
   color: #010101;
   text-align: left;
 }
-/* Newsletter */
+/* Newsletter Section */
 .email {
   font-family: "Favorit-Mono";
   font-style: normal;
