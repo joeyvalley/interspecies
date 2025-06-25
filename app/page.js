@@ -8,11 +8,8 @@ import Newsletter from './components/Newsletter.jsx';
 import MenuBar from './components/MenuBar.jsx';
 import Footer from './components/Footer.jsx';
 
-
-
 export default function Home() {
-
-
+  
   return (
     <div className="container">
       {/* MENU BAR */}
