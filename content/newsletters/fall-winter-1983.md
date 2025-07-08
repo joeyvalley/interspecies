@@ -18,7 +18,7 @@ We have taken the expressed ideas of that conference to heart; and so have begun
 3. In mid-June, members of IC joined a project at Great Sand Ridge off Grand Bahama Island, to participate in a weeklong enchange with resident spotted dolphins. This expedition involved on-sight sharing of methodology with members of *Project Interlock* from New Zealand; and *Friends of the Sea*, based in Connecticut. IC's participation was made possible through a grant from *Friends of the Sea*.
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/IN0002-1.png" alt='Drawing'/>
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992475/IN0002-1_z2gbt5.png" alt='Drawing'/>
 </div>
 
 4. During last August IC sponsored *The Orca Project*, marking our sixth continuous year spent with the wild orcas of British Columbia. All participants went into this trip with the understanding that it was to be a prototype for an ongoing exercise in interspecies community. Subsequently, the most important feeling to emerge from the expedition, was a genuine committment by a family of people who are already working to continue the collaboration.
@@ -34,7 +34,7 @@ I played a single glissando phrase, usually from E to C, and the orcas would dup
 It was at that point that I signaled project members Raymond Maurice, Gigi Coyle, and Christof Enderlein to take out the dinghy and attempt to approach the whales with acoustic flute music. This they did, and within five minutes they were drifting very close to the three orcas. But the whales uncharacteristically retreated before the small boat, and in fact has left the area entirely within ten more minutes. This behavior was a dramatic change from past years when the orcas would often frolic around a small boat as music was transmitted into the water. In fact, just the night before a single ore a had breached several times just yards from our boat, called to it from the other side of the straits. Yet all attempts on my own part to reestablish contact with either the three whales or with any of the rest of the larger congregation, failed to generate any response whatsoever. 
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/IN0002-2.png" alt='Drawing'/>
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992274/IN0002-2_ffb2fg.png" alt='Drawing'/>
 </div>
 
 Three days later, we were visited by a group of scientists who were undertaking their own orca behavioral study from a research base just up the coast from us. They informed us that on Thursday afternoon, salmon fisherman had been seen shooting at some of the orcas. A female had been shot through the lower dorsal fin; a juvenile male, through the head. Both whales were still alive. Moreso, the "cocktail party" that we had heard was, in fact, an aggregation of all the local pods inhabiting the entire general area. It was the first time this year that such a large group had been seen together. That not only explains the size of the groups we heard, it also points out an explanation of why the sounds were so unusual. 
@@ -164,7 +164,7 @@ Sheldrake, Rupert, *A New Science of Life*, Paladin, New York, 1983<br />*If She
 Watson, Lyall, *The Lightning Bird*, Dutton, 1982<br />*Watson is one of the very best writers of man and nature, and this may be his best book yet. It is the biography of Adrian Boshier, anthropologist and shaman. The background is the South African bush lands and its natives.* 
 
 <div class="newsletter-image">
-<img class="drawing" src="/assets/newsletters/IN0002-3.png" alt='Drawing'/>
+<img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992388/IN0002-3_ythayw.png" alt='Drawing'/>
 </div>
 
 There lies the imprint of a single cloven hoof. A tracker squats easily down beside it on his haunches, examines the depth and shape of the spoor, feels the texture of the soil, and notes the direction and extent to which the surface has been disturbed by the passage of the animal. He concludes that it was made by a kudu antelope, a yound female, injured in her left front leg by an unsuccessful attack by a crocodile, two hours ago as she drank at a nearby pool. This we call science.

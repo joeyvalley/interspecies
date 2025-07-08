@@ -7,51 +7,51 @@ export default function RecordingsSlider({interval = 3000 }) {
 
   const slides = [
   {
-    src: '/assets/tapes/1.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992202/1_ady4qn.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/2.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992203/2_ht4p2z.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/3.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992203/3_fdmd48.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/4.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992203/4_trbghy.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/5.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992204/5_hdgdu2.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/6.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992205/6_osatu9.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/7.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992206/7_g4jlhe.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/8.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992201/8_nbchzp.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/9.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992206/9_ivebho.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/10.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992207/10_ddfqrq.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/11.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992199/11_gfanoy.jpg',
     alt: 'Interspecies Music master tapes',
   },
   {
-    src: '/assets/tapes/12.jpg',
+    src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992208/12_rgqyu5.jpg',
     alt: 'Interspecies Music master tapes',
   }
 ];

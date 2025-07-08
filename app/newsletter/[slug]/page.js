@@ -8,7 +8,7 @@ import remarkParse from 'remark-parse';
 import remarkRehype from 'remark-rehype';
 import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
-import MenuBar from '@/app/components/MenuBar.jsx';
+import NewsletterMenuBar from '@/app/components/NewsletterMenubar';
 import Footer from '@/app/components/Footer';
 
 export default async function NewsletterPage({ params }) {
@@ -37,11 +37,12 @@ export default async function NewsletterPage({ params }) {
   // 3. Render
   return (
     <div className="container">
-      <MenuBar />
+      <NewsletterMenuBar />
       <div className="newsletter-container">
         <div className="newsletter-page">
+          {/* <h1>INTERSPECIES COMMUNICATION</h1> */}
           <div className="newsletter-title">
-            <h1>{data.title}</h1>
+            <h1>INTERSPECIES COMMUNICATION</h1>
             <h2>{data.date}</h2>
           </div>
           <div

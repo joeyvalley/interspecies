@@ -10,7 +10,7 @@ This newsletter is an attempt to answer the many hundreds of enquiries generated
 INTERSPECIES COMMUNICATION promotes an interdependent, biocentric relationship with planet earth. Music is communication. Interspecies music expresses the clear and simple example of humans attempting to communicate with other living creatures, even plants. Animals are other local populations of beings sharing the resources of a limited planet, and interacting each in its own way. Like any music, Interspecies Music attempts to communicate the energy exchange of harmony. Like any successful harmony, it can be sustained as long as the participants co-exist in the here and now. What this implies in actual practice is that the human being must first acknowledge the other animal as his or her equal. In many cases the human must actually sit with the animal as a student sits with a teacher. Each species brings its own unique character to a session. Wolves will stop howling if the human is out of tune. The limitations of dolphin communication seem always to originate from the human end. Such a sensitivity to other creatures can no longer be viewed as another aesthetic or philosophical pursuit. Unless, we, as a species, begin to expand our "being awareness", we may not survive. Interspecies Communication holds a valuable lesson for the late twentieth century. 
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/interspecies-newsletter-0000/IN0000-1.png" alt='Jim Nollman on Japanese Television.'/>
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992267/IN0000-1_nxosxw.png" alt='Jim Nollman on Japanese Television.'/>
 <span class="newsletter-caption">Jim Nollman on Japanese Television.</span>
 </div>
 
@@ -22,7 +22,7 @@ In 1980, due to the dolphin caper of Dexter Cate, the films of Hardy Jones, and 
 IC applauds all supporters of the Iki Project including the Animal Welfare institute, the Animal Protection Institute, Greenpeace, Project Jonah, the Institute for Delphinid Research, Threshold Foundation. We thank the International Whaling Commission for giving an opportunity to deliver a paper on the important issues at a recent session in Washington. We thank Japanese government officials for giving us a forum to present the issues in the Japanese Foreign Ministry. And lastly, we thank our Liaisons: Nancy Jack in San Francisco, Christine Genotal in Tokyo, Christine Stevens in Washington DC, Michael Taylor in New Zealand, and Sandy Walker in Australia.
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/interspecies-newsletter-0000/IN0000-2.png" alt='Russell Frehling testing sounds for "The Iki Machine" from an lki fishing boat.'/>
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0000-2_m0i5xh.png" alt='The Iki Machine'/>
 <span class="newsletter-caption">Russell Frehling testing sounds for "The Iki Machine" from an lki fishing boat.</span>
 </div>
 
@@ -33,7 +33,7 @@ Various environmental groups within the country, including Project Jonah and Gre
 Lastly, we will travel up to tropical Queensland to witness and participate in an Aborigine dolphin Totem Ceremony. Traditional instruments are played at the shore and in the water which attracts the dolphins who drive schools of fish within reach of the humans. The dinner is shared by both species.
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/interspecies-newsletter-0000/IN0000-4.png" alt="The Whalesinger: A musical instrument used to attract grey whales." />
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0000-4_hxcx1z.png" alt="The Whalesinger: A musical instrument used to attract grey whales." />
 <span class="newsletter-caption">The Whalesinger: A musical instrument used to attract grey whales.</span>
 </div>
 
@@ -45,7 +45,7 @@ We are on the verge of a major statement of interspecies communication that coul
 Good books to read about the subject include: *Thinking Dolphins, Talking Whales* by Frank Robson and available through Tuttle Company in Rutland, Vermont; *Communication Between Man and Dolphin* by John Lilly; *Never Cry Wolf* by Farley Mowat; *The Plague Dogs* by Richard Adams; anything by Colin Wilson and Olaf Stapledon.
 
 <div class="newsletter-image">
-<img class="drawing" src="/assets/newsletters/interspecies-newsletter-0000/IN0000-3.png" alt='Drawing by Gaby Jones'/>
+<img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992264/IN0000-3_bbqntk.png" alt='Drawing by Gaby Jones'/>
 <span class="newsletter-caption">by Gaby Jones</span>
 </div>
 

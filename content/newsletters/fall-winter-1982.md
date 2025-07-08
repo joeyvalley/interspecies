@@ -19,7 +19,7 @@ The kayak used in our work is quite a unique piece of equipment. Donated to I.C.
 Our new guitar, the Peavey T-Jr. looks as if a normal sized electric guitar had given birth. Previous trips had made it only too clear that a standard electric was too large to maneuver inside a kayak. Likewise, they were too low-pitched to reach the high notes vocalized by some of the whales. The new guitar is tuned an octave above a standard guitar-a contribution from the Peavey Company. By next summer we hope to join our new sound to some unique voice modulation gear that will allow us to phase our own notes into two voices at once.
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/interspecies-newsletter-0001/IN0001-1.png" alt='Drawing.'/>
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992275/IN0001-1_uzfsby.png" alt='Drawing.'/>
 </div>
 
 Interspecies Communication acoustic engineer Richard Ferraro has theorized that when we begin to delay the echo-location clicks sent out by the whales, we shall, in effect, be creating a kind of acoustic "hallucination". Orcas normally "see" by the way the sound echos off an object. Now, that echo will possess an echo of its own. We have already learned, through much direct experience, that if we keep our own sound transmissions playful and inventive, the whales respond with a similar imaginative enthusiasm. We believe that the areas will respond to this echo delay by inventing a sound/image game which will do us one better; thus expanding the acoustic relationship into previously unchartered dimensions. Whether or not we will ever be able to actually "talk" to the areas someday, using mutually understood "words" is still over the horizon. However, we are well on the way to establishing a complex musical rapport. Likewise, we have firmly established a call/silence/ respond/silence/call format which can be considered a true dialogue in form. We have played and invented acoustic games with the areas for hours on end. Sometimes it sounds like interspecies jazz. Other times it goes so far as to muddle up our preconceptions of the area as an "animal". Most importantly, every session still ends with the startling realization that the whales are every bit as interested in pursuing the dialogue form as we are. But why is it that so many of the limitations to expand communication develop from the human end? 
@@ -52,5 +52,5 @@ Angus Matthews, Sea/and, 1327 Beach Drive, Victoria, B.C., Canada VBF2NY
 Pat Burton, Fisheries & Oceans Communication Branch, 240 Sparks Street, Ottawa, Ontario, Canada K1 A0E6.
 
 <div class="newsletter-image">
-<img src="/assets/newsletters/interspecies-newsletter-0001/IN0001-2.png" alt='Drawing.'/>
+<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992667/IN0001-2_yn1ofx.png" alt='Drawing.'/>
 </div>

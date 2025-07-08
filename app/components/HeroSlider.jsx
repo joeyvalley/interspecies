@@ -6,12 +6,12 @@ export default function HeroSlider({ interval = 5000 }) {
   const [current, setCurrent] = useState(0);
 
   const slides = [
-    { src: '/assets/hero/jim-orca-waterphone.jpg',      alt: 'Jim Nollman with Orca', caption: 'Interspecies founder Jim Nollman playing metallophone with an orca pod, 1980.' },
-    { src: '/assets/hero/audio-dolphin-deterrent.jpg',  alt: 'Dolphin Audio Deterrent System', caption: 'Custom "dolphin deterrent" electronics developed for Iki Island project, 1991.' },
-    { src: '/assets/hero/orca-kayak.jpg',               alt: 'Orca Kayak Interaction', caption: 'Interacting with orca in the Hiro Strait, 1992.' },
-    { src: '/assets/hero/campsite.jpg',                 alt: 'Orca Project Campsite', caption: 'Campsite for Orca Project in Vancouver Island, Canada, 1988.' },
-    { src: '/assets/hero/whale-drum.jpg',               alt: 'Whale Drum', caption: 'Custom-made "whale drum" and flotation device for interacting with whales, 1974.' },
-    { src: '/assets/hero/jim-boat.jpg',                 alt: 'Jim on Boat', caption: 'Playing guitar with vocalizing humpback whales, 1994.' },
+    { src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992063/jim-orca-waterphone_xpehkq.jpg',      alt: 'Jim Nollman with Orca', caption: 'Artist Jim Nollman playing the waterphone with an orca pod, 1978.' },
+    { src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992063/audio-dolphin-deterrent_blo8yq.jpg',  alt: 'Dolphin Audio Deterrent System', caption: 'Custom "dolphin deterrent" electronics system developed with Greenpeace on Iki Island, Japan, 1980.' },
+    { src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992062/orca-kayak_s04xzm.jpg',               alt: 'Orca Kayak Interaction', caption: 'Katy Nollman kayaking among the orcas in Johnstone Strait, Canada, 1986.' },
+    { src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992131/campsite_gsmcef.jpg',                 alt: 'Mackenzie River Delta Campsite', caption: 'Campsite on the Mackenzie River Delta in search of beluga whales.' },
+    { src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992061/whale-drum_me74xd.jpg',               alt: 'Whale Drum', caption: 'One-of-a-kind "whale drum" used in communicating with spotted dolphins, 1981.' },
+    { src: 'https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992066/jim-boat_erxyp6.jpg',                 alt: 'Jim on Boat', caption: 'Attracting humpback whales with improvised guitar music transmitted underwater, Frederick Sound, southeast Alaska.' },
   ];
 
   useEffect(() => {
