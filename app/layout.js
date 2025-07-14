@@ -13,6 +13,9 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Interspecies Communication",
+  icons: {
+    icon: '/assets/favicon.png', 
+  }
 };
 
 export default function RootLayout({ children }) {

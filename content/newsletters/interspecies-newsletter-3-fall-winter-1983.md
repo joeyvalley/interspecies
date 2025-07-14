@@ -167,9 +167,9 @@ Watson, Lyall, *The Lightning Bird*, Dutton, 1982<br />*Watson is one of the ver
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992388/IN0002-3_ythayw.png" alt='Drawing'/>
 </div>
 
-There lies the imprint of a single cloven hoof. A tracker squats easily down beside it on his haunches, examines the depth and shape of the spoor, feels the texture of the soil, and notes the direction and extent to which the surface has been disturbed by the passage of the animal. He concludes that it was made by a kudu antelope, a yound female, injured in her left front leg by an unsuccessful attack by a crocodile, two hours ago as she drank at a nearby pool. This we call science.
+*"There lies the imprint of a single cloven hoof. A tracker squats easily down beside it on his haunches, examines the depth and shape of the spoor, feels the texture of the soil, and notes the direction and extent to which the surface has been disturbed by the passage of the animal. He concludes that it was made by a kudu antelope, a yound female, injured in her left front leg by an unsuccessful attack by a crocodile, two hours ago as she drank at a nearby pool. This we call science."*
 
-The tracker stands over the hoofprint and points at it, palm down with his fingers folded back and thumb spread out at right angles, to hold the spoor in place and keep the antelope from fleeing too far. Then he reaches out to strip a single white ,thorn from an acacia growing alongside the trail and plunges this down into the imprint to aggravate the animals wound. This we call magic.
+*"The tracker stands over the hoofprint and points at it, palm down with his fingers folded back and thumb spread out at right angles, to hold the spoor in place and keep the antelope from fleeing too far. Then he reaches out to strip a single white ,thorn from an acacia growing alongside the trail and plunges this down into the imprint to aggravate the animals wound. This we call magic."*
 
 -From **The Lightning Bird** by Lyall Watson, Pg 22
 

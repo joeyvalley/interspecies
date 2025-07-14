@@ -14,10 +14,11 @@ export default function MenuBar() {
           <ul className="nav-links">
             <li className="logo"><a href="/"><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></a></li>
             <li className="text"><a href="/history">History</a></li>
-            <li className="text"><a href="/writings">Writings</a></li>
-            <li className="text"><a href="/recordings">Recordings</a></li>
+            <li className="text"><a href="/writing">Writings</a></li>
+            <li className="text"><a href="/music">Music</a></li>
             <li className="text"><a href="/support">Support</a></li>
             <li className="text"><a href="/contact">Contact</a></li>
+            <li className="text"><a href="/blog">Blog</a></li>
             <li>
               <button className={`hamburger ${open ? 'open' : ''}`} onClick={toggle} aria-label="Toggle menu">
                 <span />
@@ -31,10 +32,11 @@ export default function MenuBar() {
           <ul>
             <li><button className="close-btn" aria-label="Close menu" onClick={() => setOpen(false)}>X</button></li>
             <li><a href="/history">History</a></li>
-            <li><a href="/writings">Writings</a></li>
-            <li><a href="/recordings">Recordings</a></li>
+            <li><a href="/writing">Writing</a></li>
+            <li><a href="/music">Music</a></li>
             <li><a href="/support">Support</a></li>
             <li><a href="/contact">Contact</a></li>
+            <li><a href="/blog">Blog</a></li>
           </ul>
         </div>
       </section>
