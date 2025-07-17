@@ -536,6 +536,8 @@ body {
 .newsletter-caption {
   font-family: 'Slab-Mono-Light';
   font-size: 0.7rem;
+  display: block;
+  text-align: center;
 }
 .newsletter-title{
   align-items:baseline;
@@ -593,6 +595,27 @@ body {
   color: #010101;
   text-align: left;
 }
+.inset-text{
+  display: flex;
+  width: 100%;
+  margin-bottom: 2rem;
+  font-family: 'Marfa-Thin';
+  font-size: 0.9rem;
+  color: #010101;
+  padding: 0 2rem;
+  text-align:center;
+  justify-content: center;
+}
+
+.footer-text{
+  font-size: 0.7rem;
+  color: #010101;
+}
+
+hr {
+  margin-bottom: 1rem;
+}
+
 
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */

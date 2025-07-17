@@ -14,7 +14,7 @@ export default function MenuBar() {
           <ul className="nav-links">
             <li className="logo"><a href="/"><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></a></li>
             <li className="text"><a href="/history">History</a></li>
-            <li className="text"><a href="/writing">Writings</a></li>
+            <li className="text"><a href="/writings">Writings</a></li>
             <li className="text"><a href="/music">Music</a></li>
             <li className="text"><a href="/support">Support</a></li>
             <li className="text"><a href="/contact">Contact</a></li>
