@@ -33,7 +33,7 @@ export default function Home() {
           <a href="/writings">View more →</a>
         </div>
         <p className="section-description">
-          The Interspecies Communication newsletter was published quarterly for over 25 years. Many articles were later edited and published as books, including <em>The Man Who Talked to Whales</em>, <em>Spiritual Ecology</em>, <em>Why We Garden</em>, and <em>The Beluga Cafe</em>, among others. Other articles about the development of a true interspecies music have appeared in numerous published anthologies and publications internationally.
+          The Interspecies Communication newsletter was published quarterly for over 25 years. Many articles were later edited and published as books, including <a href="https://www.betterworldbooks.com/product/detail/the-man-who-talks-to-whales-the-art-of-interspecies-communication-9780971078628" target="_blank">The Man Who Talked to Whales</a>, <a href="https://www.betterworldbooks.com/product/detail/spiritual-ecology-a-guide-for-reconnecting-with-nature-9780553348231" target="_blank">Spiritual Ecology</a>, <a href="https://www.betterworldbooks.com/product/detail/why-we-garden-cultivating-a-sense-of-place-9781591810254" target="_blank">Why We Garden</a>, and <a href="https://www.betterworldbooks.com/product/detail/the-beluga-cafe-my-strange-adventure-with-art-music-and-whales-in-the-far-north-9781578050871" target="_blank">The Beluga Cafe</a>, among others. Other articles about the development of a true interspecies music have appeared in numerous published anthologies and publications internationally.
         </p>
       <WritingsSlider />
       </section>
@@ -46,7 +46,7 @@ export default function Home() {
         <p className="section-description">
           Interspecies musical output includes techno, field recordings with turkeys, wolves, and tropical birds, underwater music, old time mandolin, and songs. </p>
            <p className="section-description">
-          Recordings have been issued with various labels around the world including Smithsonian Folkways Recordings (<em>Playing Music with Animals</em>), Other Minds (<em>Music for Swimming and Flying</em>), and Rural Situationism (<em>Oropendola</em>), among others.
+          Recordings have been issued with various labels around the world including Smithsonian Folkways Recordings (<a href="https://folkways.si.edu/playing-music-with-animals-interspecies-communication-of-jim-nollman-with-300-turkeys-12-wolves-and-20-orcas/contemporary-electronic-sounds/album/smithsonian" target="_blank">Playing Music with Animals</a>), Other Minds (<a href="https://webstore.otherminds.org/collections/the-jim-nollman-collection/products/jim-nollman-music-for-swimming-and-flying-1" target="_blank">Music for Swimming and Flying</a>), and Rural Situationism (<a href="https://ruralsituationism.bandcamp.com/track/oropendola" target="_blank">Oropendola</a>), among others.
         </p>
         <RecordingsSlider />
       </section>

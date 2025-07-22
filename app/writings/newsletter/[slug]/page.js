@@ -40,15 +40,12 @@ export default async function NewsletterPage({ params }) {
       <NewsletterMenuBar />
       <div className="newsletter-container">
         <div className="newsletter-page">
-          {/* <h1>INTERSPECIES COMMUNICATION</h1> */}
           <div className="newsletter-title">
             <h1>INTERSPECIES COMMUNICATION</h1>
             <h2>{data.date}</h2>
           </div>
-          <div
-            className="markdown-body"
-            dangerouslySetInnerHTML={{ __html: contentHtml }}
-          />
+          <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}/>
+          <hr />
         </div>
       </div>
       <Footer />

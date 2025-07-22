@@ -48,7 +48,7 @@ Perhaps the most heartening news related to oceanariums and captive animals come
 Recent books to emerge from the human/dolphin connection include Behind the Dolphin Smile by Richard O'Barry (Algonquin Books) which describes the author's years of interactions with bottlenose dolphins. Working first as the trainer of Flipper, O'Barry's book moves from an explanation of dolphins as show business, into an account of his attempts to illegally liberate dolphins, and concludes with his role aspart of the team who recently retrainedand then released the captive dolphins, Joe and Rosie, back to the sea.
 
 <div class="newsletter-image">
-<img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0009-3_oqz0yp.png" alt="Illustration by Jim Nollman" />
+<img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0009-3_oqz0yp.png" alt="Illustration by Jim Nollman" />
 </div>
 
 **Pictures In the Dolphin Mind**, (Sheridan House) is Frank Robson's personal account of his own lifelong association with dolphins. It extends from his use of telepathy to train captive dolphins in New Zealand, to a collaboration with Aborigines at Monkey Mia in Australia where wild dolphins swim right up the beach to interact with humans, and finally over to lki Island where Frank worked closely with the crew from IC.
@@ -65,7 +65,7 @@ A more organic attitude is taken by Franck Chaltelre (BP 2337, 13213 Marseilles 
 
 And lastly, through the eyewitness account of Sam LaBudde, and the promotional fortitude of The Marine Mammal Fund, (Fort Mason Bldg E, San Francisco, CA, 94118) as well as Greenpeace and the Earth Island Institute, a video document has finally been produced which clearly demonstrates what many of us have intuited for years: that the US tuna industry is brutally exterminating tens of thousands of dolphins per year in the cause of a tuna fishing technique that may catch more dolphins than tuna. There may be no solution to the problem other than an outright ban on the use of purse seine nets by the tuna industry. Since the industry, itself, seems outrageously irresponsible in its disregard for what is called "the incidental kill of dolphins", IC joins many other groups within the environmental community in supporting a boycott of all canned tuna fish products.
 
-In conclusion, the most noteworthy development to emerge from all of this recent correspondence is a trend toward the establishment of human/cetacean communities at various places around the world, but especially in Hawaii and Australia. These are interspecies testing grounds where humans may comfortably convene while also interacting directly with dolphins in the open environment of the ocean. The species of choice seems to be tursiops truncatus, the bottlenose dolphin, although one center will also focus on stenella, the spinner dolphin. IC remains in correspondence with several of these fledgling centers, and will continue to report on them as their doors open wider to a public forever intrigued by the lure of the dolphins.
+In conclusion, the most noteworthy development to emerge from all of this recent correspondence is a trend toward the establishment of human/cetacean communities at various places around the world, but especially in Hawaii and Australia. These are interspecies testing grounds where humans may comfortably convene while also interacting directly with dolphins in the open environment of the ocean. The species of choice seems to be *Tursiops truncatus*, the bottlenose dolphin, although one center will also focus on stenella, the spinner dolphin. IC remains in correspondence with several of these fledgling centers, and will continue to report on them as their doors open wider to a public forever intrigued by the lure of the dolphins.
 
 
 <div class="newsletter-image">
@@ -74,7 +74,9 @@ In conclusion, the most noteworthy development to emerge from all of this recent
 
 # IC Field Projects
 
-IC sponsors two field projects this summer. The Beluga Peace Project occurs this July along the channels and mudflats of the MacKenzie River Delta of Arctic Canada. The project is noteworthy for several reasons including:
+IC sponsors two field projects this summer. The Beluga Peace Project occurs this July along the channels and mudflats of the MacKenzie River Delta of Arctic Canada. 
+
+The project is noteworthy for several reasons including:
 
 • Our attempts to encourage the 10,000 or more belugas to interact with us through the two-way window of musical communication develops as one of the first behavioral studies ever conducted on this Arctic species. Since the MacKenzie belugas have been hunted by native peoples for centuries with almost no contact from friendly humans, the IC crew will effectively operate as human ambassadors, representing an entirely benign method of interaction.
 

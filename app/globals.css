@@ -256,6 +256,17 @@ body {
   padding: 0.5rem 2rem 2.5rem 2rem;
 }
 
+.section-description a{
+  color: #010101;
+  text-decoration: none;
+  font-style: italic;
+}
+.section-description a:hover{
+  color: #010101;
+  text-decoration: underline;
+  font-style: italic;
+}
+
 .slider {
   position: relative;
   width: 100%;
