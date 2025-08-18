@@ -3,7 +3,7 @@ title: "Newsletter #2"
 date: "Fall/Winter 1982"
 ---
 
-## Contact
+# Contact
 
 Welcome to the Interspecies Communication – the concept as well as the organization. The concept itself is very old; the so-called "primitives" have been communicating with animals since before the dawn of recorded history. Our work of contacting various species of animals should be thought of as an update, fit for the times we live in.
  
@@ -18,9 +18,9 @@ The kayak used in our work is quite a unique piece of equipment. Donated to I.C.
 
 Our new guitar, the Peavey T-Jr. looks as if a normal sized electric guitar had given birth. Previous trips had made it only too clear that a standard electric was too large to maneuver inside a kayak. Likewise, they were too low-pitched to reach the high notes vocalized by some of the whales. The new guitar is tuned an octave above a standard guitar-a contribution from the Peavey Company. By next summer we hope to join our new sound to some unique voice modulation gear that will allow us to phase our own notes into two voices at once.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992275/IN0001-1_uzfsby.png" alt='Drawing.'/>
-</div>
+</div> -->
 
 Interspecies Communication acoustic engineer Richard Ferraro has theorized that when we begin to delay the echo-location clicks sent out by the whales, we shall, in effect, be creating a kind of acoustic "hallucination". Orcas normally "see" by the way the sound echos off an object. Now, that echo will possess an echo of its own. We have already learned, through much direct experience, that if we keep our own sound transmissions playful and inventive, the whales respond with a similar imaginative enthusiasm. We believe that the areas will respond to this echo delay by inventing a sound/image game which will do us one better; thus expanding the acoustic relationship into previously unchartered dimensions. Whether or not we will ever be able to actually "talk" to the areas someday, using mutually understood "words" is still over the horizon. However, we are well on the way to establishing a complex musical rapport. Likewise, we have firmly established a call/silence/ respond/silence/call format which can be considered a true dialogue in form. We have played and invented acoustic games with the areas for hours on end. Sometimes it sounds like interspecies jazz. Other times it goes so far as to muddle up our preconceptions of the area as an "animal". Most importantly, every session still ends with the startling realization that the whales are every bit as interested in pursuing the dialogue form as we are. But why is it that so many of the limitations to expand communication develop from the human end? 
 
@@ -32,7 +32,7 @@ People are always writing us, asking how they too might get involved in the work
 We seek a continuous and continuing sponsorship. We need a creative fundraiser. And we need you as a supporting member. 
 _-Jim Nollman_ 
 
-## President's Note
+# President's Note
 
 There has been a good deal of media coverage, these last months, in the Pacific Northwest regarding the capture of two killer whales for Sealand Aquarium in Victoria. The Canadian Department of Fisheries and Oceans issued a permit for the captures last summer and Sealand set up nets in Pedder Bay, B.C. Volunteers from Greenpeace and Orca Survey (a Washington state based research group) successfully steered the killer whales from the area and no captures took place.
  
@@ -43,14 +43,28 @@ winter to decide and without responsible pressure will more than likely vote in 
 
 Below are names of those that might be able, with understanding, to deter the final outcome.
  
-Interspecies Communication welcomes your active participation in this matter and is grateful to those of you that choose to write letters of responsible protest. It is a small circumstance in a world where it seems often the wrongs outdo the rights. Thank you for your concern. _-Sandra Fuller Wilson_
+Interspecies Communication welcomes your active participation in this matter and is grateful to those of you that choose to write letters of responsible protest. It is a small circumstance in a world where it seems often the wrongs outdo the rights. Thank you for your concern.
 
-Individuals to write to: 
-Stephen Rogers, Minister of the Environment, British Columbia Provincial Government, Victoria, B.C., Canada VBV1 X4
-Pierre DeBane, Minister of Fisheries and Oceans, 240 Sparks Street, Ottawa, Ontario, Canada K1 A0E6 
-Angus Matthews, Sea/and, 1327 Beach Drive, Victoria, B.C., Canada VBF2NY 
-Pat Burton, Fisheries & Oceans Communication Branch, 240 Sparks Street, Ottawa, Ontario, Canada K1 A0E6.
+*Sandra Fuller Wilson*
 
-<div class="newsletter-image">
+Individuals to write to:
+
+**Stephen Rogers, Minister of the Environment**
+<br />British Columbia Provincial Government
+<br />Victoria, B.C., Canada VBV1 X4
+
+**Pierre DeBane, Minister of Fisheries and Oceans**
+<br />240 Sparks Street
+<br />Ottawa, Ontario, Canada K1 A0E6 
+
+**Angus Matthews, Sealand**
+<br />1327 Beach Drive
+<br />Victoria, B.C., Canada VBF2NY
+
+**Pat Burton, Fisheries & Oceans Communication Branch**
+<br />240 Sparks Street
+<br />Ottawa, Ontario, Canada K1 A0E6.
+
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992667/IN0001-2_yn1ofx.png" alt='Drawing.'/>
-</div>
+</div> -->

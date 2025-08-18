@@ -9,10 +9,10 @@ This newsletter is an attempt to answer the many hundreds of enquiries generated
 
 INTERSPECIES COMMUNICATION promotes an interdependent, biocentric relationship with planet earth. Music is communication. Interspecies music expresses the clear and simple example of humans attempting to communicate with other living creatures, even plants. Animals are other local populations of beings sharing the resources of a limited planet, and interacting each in its own way. Like any music, Interspecies Music attempts to communicate the energy exchange of harmony. Like any successful harmony, it can be sustained as long as the participants co-exist in the here and now. What this implies in actual practice is that the human being must first acknowledge the other animal as his or her equal. In many cases the human must actually sit with the animal as a student sits with a teacher. Each species brings its own unique character to a session. Wolves will stop howling if the human is out of tune. The limitations of dolphin communication seem always to originate from the human end. Such a sensitivity to other creatures can no longer be viewed as another aesthetic or philosophical pursuit. Unless, we, as a species, begin to expand our "being awareness", we may not survive. Interspecies Communication holds a valuable lesson for the late twentieth century. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992267/IN0000-1_nxosxw.png" alt='Jim Nollman on Japanese Television.'/>
 <span class="newsletter-caption">Jim Nollman on Japanese Television.</span>
-</div>
+</div> -->
 
 Director Jim Nollman has been to Iki Island, Japan three times over the past two winters, working to devise methods to communicate to both dolphins and local fishermen. Working together with acoustic engineer Russell Frehling, and electronic engineer Larry Freeman; the three have focused on developing hardware that would create an acoustic "fence" around individual fishing boats during the brief periods that the dolphin migrate through the area. Such hardware, if properly deployed, would allow the fishermen to fish, and the dolphins to move through the area unmolested. Later, at high level meetings in Tokyo, and in Washington DC, Jim articulated the dire need to conduct environmental impact studies at Iki, and especially, to eradicate the notorious bounty that actually pays fishermen to exterminate the dolphin population. This bounty was initiated under the false assumption that dolphins are the major problem of the Fishery, and that a systematic roundup will solve the problem. In fact, neither is true. Overfishing and offshore pollution are the major causes of the decline in fish resources with dolphins as a convenient scapegoat.
  
@@ -21,10 +21,10 @@ But the fishermen do, at present, have a very localized problem of marauding dol
 In 1980, due to the dolphin caper of Dexter Cate, the films of Hardy Jones, and the international environmental network of Jim Nollman-the criticism against the killings became a bigger problem to the Japanese than the dolphins ever were. We are optimistic about efforts to eradicate the bounty system, to be replaced by a "dolphin damage compensation". We are presently seeking the active support of governmental agencies within Japan, to continue our work at Iki next winter; but only if there is a moratorium on the needless slaughters. 
 IC applauds all supporters of the Iki Project including the Animal Welfare institute, the Animal Protection Institute, Greenpeace, Project Jonah, the Institute for Delphinid Research, Threshold Foundation. We thank the International Whaling Commission for giving an opportunity to deliver a paper on the important issues at a recent session in Washington. We thank Japanese government officials for giving us a forum to present the issues in the Japanese Foreign Ministry. And lastly, we thank our Liaisons: Nancy Jack in San Francisco, Christine Genotal in Tokyo, Christine Stevens in Washington DC, Michael Taylor in New Zealand, and Sandy Walker in Australia.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0000-2_m0i5xh.png" alt='The Iki Machine'/>
 <span class="newsletter-caption">Russell Frehling testing sounds for "The Iki Machine" from an lki fishing boat.</span>
-</div>
+</div> -->
 
 In October 1980 INTERSPECIES COMMUNICATION ventures to Australia. The Australian government has issued an invitation for us to research a method to separate fishermen and orcas in a territorial conflict off the coast of Tasmania. Unlike Iki, where the dolphins were slaughtered, the Australian government has told fishermen to cease fishing until a solution fair to both species could be worked out. Tasmania gives us a rare recording the first true interspecies record album with opportunity to research several new avenues of communication including an unorthodox approach utilizing the orcas' own food-getting calls played back as the first we were the subject of an hour-long Japanese TV stage in a true communicated warning signal. 
 
@@ -32,11 +32,10 @@ Various environmental groups within the country, including Project Jonah and Gre
 
 Lastly, we will travel up to tropical Queensland to witness and participate in an Aborigine dolphin Totem Ceremony. Traditional instruments are played at the shore and in the water which attracts the dolphins who drive schools of fish within reach of the humans. The dinner is shared by both species.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0000-4_hxcx1z.png" alt="The Whalesinger: A musical instrument used to attract grey whales." />
 <span class="newsletter-caption">The Whalesinger: A musical instrument used to attract grey whales.</span>
-</div>
-
+</div> -->
 
 Our major benign project of the moment involves recording the first true interspecies record album with orcas up in the Canadian Wilderness. Last summer, working with musicians Paul Winter and Mel Gregory, we were the subject of an hour-long Japanese TV documentary about musical communication with wild orcas. In one incredible ten minute sequence, a pod of orcas takes the time to teach a song. When the human guitarist flubs one of the notes, the orca repeats the sequence at half-time, and later at quarter-time. Eventually, the guitarist (using an underwater speaker) learns the entire phrase, prompting the orca to add another phrase added to the first.
 
@@ -44,9 +43,9 @@ We are on the verge of a major statement of interspecies communication that coul
 
 Good books to read about the subject include: *Thinking Dolphins, Talking Whales* by Frank Robson and available through Tuttle Company in Rutland, Vermont; *Communication Between Man and Dolphin* by John Lilly; *Never Cry Wolf* by Farley Mowat; *The Plague Dogs* by Richard Adams; anything by Colin Wilson and Olaf Stapledon.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992264/IN0000-3_bbqntk.png" alt='Drawing by Gaby Jones'/>
 <span class="newsletter-caption">by Gaby Jones</span>
-</div>
+</div> -->
 
 INTERSPECIES COMMUNICATION is a non-profit corporation registered in the State of California funded solely by individuals and grants. Please help support our work.

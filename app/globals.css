@@ -524,11 +524,14 @@ body {
 }
 /* Headings */
 .newsletter-page .markdown-body {
-  line-height: 1.6;
+  line-height: 1.75rem;
   color: #010101;
 }
 .newsletter-page .markdown-body p {
   margin-bottom: 2rem;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 1rem;
+  margin: 0.5rem 0.5rem 1rem 0;
 }
 
 .newsletter-image {
@@ -553,31 +556,31 @@ body {
 .newsletter-title{
   align-items:baseline;
   justify-content:space-between;
-  margin-bottom: 2rem;
   display: flex;
   border-bottom: 1px solid #010101;
 
 }
 .newsletter-title h1{
-  font-family: 'Slab-Mono-Light';
+  font-family: 'Times New Roman', Times, serif; 
   font-size: 2rem;
   line-height: 3rem;
   font-weight: normal;
 }
 .newsletter-title h2{
-  font-family: 'Favorit-Mono';
+  font-family: 'Times New Roman', Times, serif;
   font-size: 1rem;
   font-weight: normal;
 }
 .markdown-body h1{
-  font-family: 'Slab-Mono-Light';
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5rem;
   text-align: center;
   font-weight: bold;
   display: block;
-  margin-bottom: 1rem;
+  margin: 2rem 0 1rem 0;
 }
 .markdown-body h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.2rem;
   font-weight: bold;
   display: block;
@@ -602,7 +605,7 @@ body {
 }
 .page-header h2 {
   font-size: 1rem;
-  font-family: 'Slab-Mono-Light';
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: #010101;
   text-align: left;
 }
@@ -610,7 +613,7 @@ body {
   display: flex;
   width: 100%;
   margin-bottom: 2rem;
-  font-family: 'Marfa-Thin';
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 0.9rem;
   color: #010101;
   padding: 0 2rem;
@@ -625,6 +628,23 @@ body {
 
 hr {
   margin-bottom: 1rem;
+}
+
+.inset-quote{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #eeeeee;
+  border: 1px solid black;
+  padding: 0.5rem;
+  margin-bottom: 2.5rem;
+  font-style: italic;
+  font-size: 0.9rem;
+  box-shadow: 5px 5px 0px rgba(1,1,1,1);
+}
+
+.inset-quote-footnote{
+  text-align: left;
+  font-size: 0.7rem;
+  margin-top: 1rem;
 }
 
 
