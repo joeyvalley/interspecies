@@ -45,7 +45,9 @@ export default async function NewsletterPage({ params }) {
             <h2>{data.date}</h2>
           </div>
           <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}/>
-          <hr />
+          <div className="newsletter-image">
+            <img className="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-6_zfdjxv.png" alt="Interspecies Logo" />
+          </div>
         </div>
       </div>
       <Footer />
