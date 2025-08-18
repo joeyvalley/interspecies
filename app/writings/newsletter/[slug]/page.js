@@ -40,10 +40,10 @@ export default async function NewsletterPage({ params }) {
       <NewsletterMenuBar />
       <div className="newsletter-container">
         <div className="newsletter-page">
-          <div className="newsletter-title">
+          {/* <div className="newsletter-title">
             <h1>INTERSPECIES COMMUNICATION</h1>
             <h2>{data.date}</h2>
-          </div>
+          </div> */}
           <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}/>
           <div className="newsletter-image">
             <img className="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-6_zfdjxv.png" alt="Interspecies Logo" />

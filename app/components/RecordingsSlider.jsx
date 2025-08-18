@@ -79,9 +79,9 @@ export default function RecordingsSlider({interval = 3000 }) {
       </div>
 
       {/* caption below */}
-      <div className="hero-caption-3">
+      {/* <div className="hero-caption-3">
           <p>Selected master tapes, 1978 - 1985.</p>
-        </div> 
+        </div>  */}
     </section>
   );
 }

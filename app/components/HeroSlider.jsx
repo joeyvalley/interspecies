@@ -36,9 +36,9 @@ export default function HeroSlider({ interval = 5000 }) {
       </section>
 
       {/* SINGLE caption container */}
-      <div className="hero-caption">
+      {/* <div className="hero-caption">
         <p>{slides[current].caption}</p>
-      </div>
+      </div> */}
     </div>
   );
 }

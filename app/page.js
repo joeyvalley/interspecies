@@ -67,6 +67,7 @@ export default function Home() {
             This website serves as a legacy of what once was a vibrant community of artists, scientists, and activits. The <span className="ic-text">interspecies.com</span> archive is proudly brought to you by <span className="nht-text">Nonhuman Teachers</span> with the generous support of <span className="rhizome-text">Rhizome</span>. 
           </p>
       </section>
+      </section>
       <section className="section-block">
         <div className="section-header">
           <h2>Contact</h2>
@@ -78,7 +79,6 @@ export default function Home() {
           </p>
           <Newsletter />
         </section>
-      </section>
     </section>
       {/* FOOTER  */}
       <Footer />

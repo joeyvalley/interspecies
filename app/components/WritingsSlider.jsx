@@ -61,9 +61,9 @@ export default function WritingsSlider({interval = 6000 }) {
       </div>
 
       {/* caption below */}
-      <div className="hero-caption-2">
+      {/* <div className="hero-caption-2">
         <p>{slides[current].caption}</p>
-      </div>
+      </div> */}
     </section>
   );
 }

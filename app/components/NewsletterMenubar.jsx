@@ -15,9 +15,10 @@ export default function NewsletterMenuBar() {
             <li className="logo"><a href="/"><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></a></li>
             <li className="text"><a href="/history">History</a></li>
             <li className="text"><a href="/writings">Writings</a></li>
-            <li className="text"><a href="/recordings">Recordings</a></li>
+            <li className="text"><a href="/music">Music</a></li>
             <li className="text"><a href="/support">Support</a></li>
             <li className="text"><a href="/contact">Contact</a></li>
+            <li className="text"><a href="/blog">Blog</a></li>
             <li>
               <button className={`hamburger ${open ? 'open' : ''}`} onClick={toggle} aria-label="Toggle menu">
                 <span />
