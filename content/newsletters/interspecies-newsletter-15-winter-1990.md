@@ -5,9 +5,9 @@ date: "Winter 1990"
 
 # A Winter's Tale 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0014-1_hewt0w.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## I. The Writhing Hotbed 
 
@@ -43,9 +43,9 @@ The deer obviously disagreed with this two-legged elitists' policy. Her every ac
 
 Being a normal, Westernized, human being, I found it impossible to abide by her four-legged land policy. Everytime she ravaged my tulips, I consistently redounded by fantasizing ingenious punishments. Multiply these petty fantasies of mine by the everyday reality of elephant herds tromping through plantations in Zimbabwe and it soon becomes apparent how this gardener's dilemna also describes the mass extinction of species in a world overpopulated by human beings.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0014-2_zoxy3m.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 I soon noticed a pattern to the deer's predation. One night she bounded up onto the rocky knoll and banqueted her way through an unfenced bed of yellow and red "Juan" tulips rimmed with sweet william and primroses. Someone in her entourage obviously enjoyed the repast because they all returned the very next night to continue browsing through another tulip and sweet william bed. What was it about these specific plants?
 
@@ -71,9 +71,9 @@ I chose the dog. So commenced a campaign to ease the idea of a new canine family
 
 Good question, If one thet not enough of my neighbors ever ask themselves. Stories circulate around town about individual dogs who have been trained to keep deer out of gardens. They skulk off at midnight to fonn packs, reverting to their feral ancestry, hamstringing half-starved deer before finally tearing them to pieces. It seems a classic case of our pets inadvertantly generating a savage metaphor about how we humans exploit and devour nature: the big bad human poorly disguised as the big bad wolf.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0014-3_i7gb0i.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 There are even a few of my neighbors who honestly believe that a deer accrues more value dead than alive. Som~ of them go so far as to declare, by deed if not by self-incriminating words, that certain animals like deer and ducks and rabbits necessarily exist as a function of that strange tenn: game. Game is a game is a game. A living deer gets redefined as a living target, best met with a loaded gun, and oftentimes, whether it officially be deer
 season or not.
@@ -97,10 +97,10 @@ Unfortunately, revelation is not the same thing as solution. In this case, the d
 But as I say, I was noticing that she never touched certain plants. She avoided the entire ranunculus genus, including the anemones, delphinium, peony, and columbine to name just a few of the better known species. Neither would she eat rhododendrons, marigolds, lillies, tomatoes, potatoes; in fact, a veritable country garden full of flowers and vegetables. This observation provided a glimpse into a more farsighted strategy for replanting my ravaged beds. For instance, because the potatoes seemed safe, (the leaves also made me feel queasy when I tried one) I pl~nted them outside the garden fence. Likewise, I surrounded my young fruit trees with the nearly pharmaceutical aroma of self-seeding poppies and wormwood.
 
 What I had stumbled upon was the first tentative stages of what is properly known as a permaculture garden. This is a horticulture that favors the permanent approach by minimizing artificial primping by a human overseer. Choose the garden to fit both the contours as well as the predators of the land. Tend to the soil and let the garden grow itself. With luck, my great-great-great-great-great-grand-children will still be gardening alongside the progeny of that little doe. Consider permaculture as agricuJture fit to feed the seventh future generation down the line.
-
+<!-- 
 <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0014-4_oz1kpy.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 As you can see, my attitude was jumping through firey hoops. Last January, with fruit overflowing my family's winter larder, I went so far as to lay an entire bushel of half-turned apples beside one of the deer paths. I snickered to think she might get tipsy from eating too many. Actually, she ate every last one of them within 48 hours.
 
@@ -148,9 +148,9 @@ By comparison, the spirituality of the native cultures, (including the disguied 
 
 And all together, these three books written by three different authors, each working under three different publishers, offer the very best background anywhere for comprehending how and why the environmental crisis ever developed. Actually, somebody should figure out a way to get the three of these books reissued as an inexpensive boed set. Most of all, let's make sure that they get smuggled into every high school history class in North America.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0014-5_x2nke0.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # IC News
 
@@ -161,4 +161,3 @@ Not surprisingly, this unorthodox recipe also means that IC has been falling thr
 This organization has flourished for twelve years now, mostly because it operates on a shoesring while continuing to engage a small number of private sponsors who support our programs and field projects. But longevity is always going to be a relative term as it applies to the relationship between non-profits and sponsors. That means that we are currently in need of finding a few new angels to bolster the IC operating budget for 1990.
 
 On that note, we wondered, why not ask you our readership for suggestions? After all, you already hold an understanding about our programs. You also represent just about every state as well as 25 foreign countries. This newsletter is also sent out gratis to well over a hundred environmental groups, animal rights groups, art groups, media, magazine, and scientific institutions. If anyone can recommend possible sources of funding for IC's patently non-categorizable program, it will be much appreciated.
-

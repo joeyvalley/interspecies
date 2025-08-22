@@ -8,9 +8,9 @@ date: "Fall 1988"
 *"Steal a little and they throw you in jail, steal a lot and they make you king."*<br />
 *- Bob Dylan* 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0010-1_yrroas.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Seventeenth Century Europe conceived nature as a maintenance-free machine designed, constructed, and finally set a-spin by a perfect male God as a fitting tribute to his personal favorite, the human race. So the learned males of that day spent an inordinate amount of energy churning out anthropocentric arguments to explain away what less of a believer might just as easily have construed as ungodly flaws in the divine handiwork. The physician George Cheyne explained that the Creator made the horse's excrement smell sweet, because he knew that men would often be in its vicinity. Horse flies, said the Virginian William Byrd had been created so "that men should exercise their wits in order to guard against them." 
 
@@ -24,9 +24,9 @@ As those who went before us were blinded by the light of an anthropocentric God 
 
 But a change seems to be in the air. Whereas ten years ago information gathering was easily justified in and of itself; today a new generation of biologists has decided to first ask whether or not any study helps to heal the planet. It is the difference between the Specimen biology that separates us from nature, and Shamanic Biology that heals the planet by bringing us back into the fold of nature.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0010-2_jfofah.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Those of us who just returned from the IC Orca Project witnessed about half the number of whales as we ordinarily encounter in Johnstone Strait. Many within the local research community blamed this paucity of areas on the fact that 1988 was also an exceptionally bad year for salmon. Contrarily, some sports fishermen thought it to be an exceptionally good year for salmon. Yet even if someone else was able to convince himself that the salmon were depleted; do 10 million salmon impact 150 areas more than, say, 15 or even 20 million?
 
@@ -42,9 +42,9 @@ The question of saving the rain forest is tricky, because who is the enemy here,
 
 Herein lies the larger-than-life riddle inherent in the parable of the rainforest: We can not sustain our population growth unless we tame every critical geographic and metabolic aspect of the Earth. But our unbridled presence already impacts every control mechanism the planet has to.offer. Thus, we can not effectively control entities such as rain forests until we first learn to control ourselves. As it stands, we control everything and nothing. Quite a trick if you can get away with it. We can not. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0010-3_tjuc7n.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Adherents to science's 20th century biological paradigm sincerely believe that they are discovering and gathering information that leads to knowledge and truth about the natural world. Yet from the hindsight of the year 2300, it may very well seem obvious if not utterly tragic that this logical and objective methodology had instead, invented a mechanical description of the Earth that exists nowhere in nature outside the 20th century mind. Here was a mind controlled by an invisible Western God who refused, even at that late date, to consider masquerading in any other image but our own. As we invented him, so he invented us: a civilization disconnected from any sense of equality or collaboration with all other beings. 
 
@@ -60,10 +60,10 @@ Why is it that only the mystics among us ever seem to heed the wisdom of traditi
 
 *- Jim Nollman* 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0010-4_wyv0dv.png" alt="Illustration by Jim Nollman" />
 <span class="newsletter-caption">Lone Wolf Circles</span>
-</div>
+</div> -->
 
 # The Beluga Peace Project 
 
@@ -85,9 +85,9 @@ Two weeks later the Soviet film maker dropped down in the Seattle airport for a 
 
 Ultimately, the Beluga Peace Project seems a good idea getting better; already picking up momentum for July of 1989. If any of our readers have any ideas about documenting this future rendition, please drop us a line.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0010-5_hsn08t.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # The Pacific Bridge Event
 
@@ -109,6 +109,6 @@ This, our tenth year of the IC orca project was an attempt to go back to the roo
 
 IC puts out a call to its membership to help us locate a 30-50 foot boat, moored in the Pacific Northwest, for our use during the Orea Project of August 1989. We prefer a motor boat over a sailboat, but will consider anything that floats. We can provide our own experienced skipper, but will consider suggestions for other participants as well. IC offers a tax deduction, and possibly some cash, in trade for its use. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0010-6_ylrjwi.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->

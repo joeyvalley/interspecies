@@ -16,9 +16,9 @@ Gosh this is great stuff. Real Nature, real drama.<br />
 -Seattle Times 
 </div>
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0011-1_by8se9.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 In October of 1988, I was invited by Greenpeace to join an effort to rescue three Grey Whales stuck in an ice hole a few miles outside the town of Barrow Alaska. Because Interspecies Communication Inc., (IC) has developed a sound system that permits humans to transmit sound and music directly to whales underwater, it was hoped that I would be able to develop some acoustic method to coax the whales out of their hole and towards the open sea again. Yet despite the obvious connection, it still took three phone calls from the Greenpeace representative in Barrow to coax me away from the balmy Fall weather of the Pacific Northwest, and up to this Eskimo village where the pre-halloween thermometer was already hovering around minus fifteen degrees fahrenheit. Simply put, I was simply not convinced that the whales ought to be saved.
 
@@ -32,7 +32,7 @@ The media insists that it reports and never createsthe news. But this state of a
 
 Unfortunately, the machinery of the news business sometimes clogs when events choose not to develop at the news' own speed. So the rescuers were coerced to implement ever more newsworthy metaphors, known in the trade as *sound-bites*, until even the project's most ardent supporters noted that the rescue had deflated into a parody of a rescue. Perhaps unfairly, that subtle shift in mood was not lost on all the articulate op-ed columnists whose job it is to analyze the tone and grist of the news. These men and women tend to pounce whenever they perceive even an atom of newsmaking insincerity. Predictably, they pounced upon the rescue operation of the Russell Glacier; never pleading accoundtable to the fact that they are another cog of the very same news generating machine that set the operation spinning in the first place. IT was a bad moment that turned into a bad media event. Or vice versa.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0011-2_zvllyg.png" alt="Illustration by Jim Nollman" />
 </div>
 
@@ -42,7 +42,7 @@ Unfortunately, the machinery of the news business sometimes clogs when events ch
 
 <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0011-4_eg0xr2.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 For its own part, the glacier acted very glacier-like if not also like a superhero. It receded, rescuing sea mammals, rescuers, and journalists in one fell swoop. Ironically, none of the entrapped seals or porpoises seemed very interested to take advantage of what the humans interpreted as a positive swing 
 

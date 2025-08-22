@@ -15,9 +15,9 @@ I will ask you other questions, as I ask myself, but these are to take us to a d
 # The Orca Project 1985 
 We are always trying to improve and fine tune the ways in which we humans interact with each other and with animals. This past summer a group of twenty-three from Interspecies Communication committed ourselves to creatively pursue such communication within our community and with the whales at Johnstone Strait, British Columbia. The realm of communication often extended deeply within each individual; silently and invisibly into areas that we have difficulty acknowledging and articulating. We so often try to qualify each experience, wanting very much to be accurate and precise in our perceptions. These qualities however become elusive and impossible to control outside laboratory doors. Yet indeed our work is research. The laws of nature are elusive and even though we try to codify them, in truth they are valid only to the individuals who learn to perceive them as they are. The Orea Project outlines a format that arouses experience and invites personal interpretation of the undomesticated natural world.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-1_luduy8.png" alt="Illustration by Jim Nollman." />
-</div>
+</div> -->
 
 ## August 23, 1985 
 Sitting still, fully within the present moment listening excitedly to the subtle nuances of whale vocalizations, a piercing spasm of sound hits me through the electronic gear. Tearing the headphones off my head I feel mixed feelings of surprise and anger. It was only a short blast of electronic feedback noise transmitted into the water but the whales and everyone listening through the hydrophones clearly heard it. A long pause of silence follows. The noise had been unpleasant in volume and sound.
@@ -40,7 +40,7 @@ This year's expedition produced a series of tape recordings that were the best e
 IC is now in the process of editing the ten hours of master tapes, with the ultimate intention of creating a cassette to be made available to our members and the public at large. Please see the final page of the newsletter for details. 
 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-2_k9rmmo.png" alt="Illustration by Raymond Maurice" />
 <span class="newsletter-caption">Sighthorn and Orea by Raymond Maurice</span>
 </div>
@@ -48,7 +48,7 @@ IC is now in the process of editing the ten hours of master tapes, with the ulti
 <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-3_vym02n.png" alt="Illustration by Colleen Kelley" />
 <span class="newsletter-caption">The Great Mother, The Goddess Devi by Colleen Kelley </span>
-</div>
+</div> -->
 
 With gratitude IC would like to acknowledge Symetrix Co. for audial equipment, the Threshold Foundation, the sponsors of the Orea Trip, and H. S. Dakin Co. 
 At this time I would like to dedicate this newsletter to all the individuals who have supported our work over the years, and to offer a prayer and a blessing to those who work to protect the Great Mother, our 
@@ -58,9 +58,9 @@ planet. *- SFW*
 "Australian Aborigines hold that every plant and· animal has a centre where performance of the proper rituals will release kurunba, the life essence, and help support the natural order. They believe that man has a special responsibility in the business of maintaining a harmonious universe and that he can fulfil his obligations best by reference to the 'dreamtime.' This is a kind of timeless mythical past during which super-beings, now identified by totems such asicangaroos or watersnakes, traveled from place to place across the earth performing creative acts." 
 <br />from *Gifts of Unknown Things* by Lyall Watson
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-4_phlffg.png" alt="Illustration by Jim Nollman." />
-</div>
+</div> -->
 
 Jim Nollman has recently published a book that describes his fifteen year involvement with animals. Dolphin Dream.time describes the author's experiences of communicating with creatures as varied as mosquitoes, turkeys, buffalo, and orcas. The book also explores such important subjects as animal consciousness, ecology, and scientific ethics; offering many dramatic examples of how we can relate to wild animals for the benefit of all species. Dolphin Dream.time is published by Anthony Blond in London, and is presently being distributed in every English speaking country in the world except the USA, all for lack of an American distributor. However, for now, IC is able to offer this book to our members. Please refer to the last page for details. Here is an excerpt from the book:
 
@@ -188,9 +188,9 @@ We came here bearing many visible
 <br />- Dotty Ormes
 </div>
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-5_effkfe.png" alt="Illustration by Lama T'ai Situ Rinpoche" />
-</div>
+</div> -->
 
 Q. "Lama T'ai Situ Rinpoche, what makes a Tibetan Buddhist from your tradition become interested in Interspecies Communication?"
 
@@ -224,9 +224,9 @@ More starling, Carlson had also treated twenty acres of soy beans in a much larg
 
 When Carlson took the dried bean plants to the large "Ag-Days" agricultural fair held at Pennsylvania State University, he hung the plants upside down on a clothes line so the farmers could count the beans. Many of them were at first unimpressed because they felt that if a plant had been "forced" to produce so many beans, then consequently the nutrient value of the beans in terms of protein content had to be very low.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-6_rb8okd.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 With that, a special analyzer capable of reading out the protein content of soybeans on the spot was wheeled over from the university. Whereas usual soybeans have an average of fifteen to sixteen percent protein, Dan Carlson's treated beans had twenty-eight percent.
 
@@ -274,9 +274,9 @@ Every year, for thirty-three years, I have gone into Wild Nature alone ... for a
 
 Some of you reading these words would probably like to connect with "the stone people," as our Native American sisters and brothers call this life. The guidelines are simple: go alone, go light, go with an Open Heart, and go with a clear and empty awareness. Pick a wild, rocky place that feels sacred to you. Give your love to the Earth, to the Stone People, to all of Nature and to the Universal Spirit in ways that are intimate and natural to you. Don't worry about the forms; it is the sincere and loving Heart that counts. Encounter all experience as the play of inner/outer, interconnected Being. Do this for at least four days and three nights; and listen, for the Voices of the Stones. *- John P. Milton*
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0005-7_hrwepe.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 <br />"For weeks, beavers had been rebuilding their darn on my lake property in such a way that the water level was too high for my purposes. I rationalized their doings, talked to them nicely, tore the dam down time after time. The more anxious I became, the more anxious they became. I set some traps. My autonomic nervous system short circuited-I broke out in a sweat. Later that day I spoke with Grandfather in the sweat lodge. "My instincts say that the beavers' actions are causing me trouble. I respect that they are going with their instincts-and if they want to sacrifice themselves in my traps for the sake of their instincts - I will respect them for that action." There was no sign of beaver activity for a whole week! Then just a twig or two - to let me know that they were around. And maybe as a gift to say we respect you too when you get serious."
 

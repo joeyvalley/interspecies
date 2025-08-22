@@ -5,9 +5,9 @@ date: "Fall 1989"
 
 # When Whales Vanish
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-1_vjcton.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## I: The Abundance 
 
@@ -28,9 +28,9 @@ But saving the rainforest demands a vastly different set of social tools than fi
 
 In all seriousness I have to wonder if the best we can hope for is to promote a double standard. Our so-called success in North America has to be represented as their inimitable failure in South America. We should be telling them this: as long as Brazil tries to catch up with the US economy, as long as the Brazilian people try to live like the overly-consumptive Americans who killed the passenger pigeon and the Carolina parakeet, the rainforest does not stand much of a chance. Yet it seems utterly naive to even imagine the World Bank promoting such an attitude.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-2_uhvjzt.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Meanwhile a species per minute goes extinct. And if the Brazilian problem is, as I submit, a global problem, then you and I, dear reader can help save the rainforest by making the change in the way we lead our own lives. Go tell a neighbor.
 
@@ -53,9 +53,9 @@ Meanwhile, reports from Antarctica report that the minke stocks, the Japanese' c
 
 I emphasize that it is not just Japan and whales, Brazil and rainforests. Wherever the concept of national pride promotes an expanding gross national product, we find a war against nature. In this case, the Japanese are best represented as re-enacting an instant replay of the same moves we made against the buffalo, the same moves that the Australians are currently making against kangaroos, and the Brazilians make against rainforests. Only the species change. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-3_gkvcbz.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## III: The Unexpected 
 
@@ -75,9 +75,9 @@ Because IC has sent expeditions into the heart of this beluga country during bot
 
 Our green boat didn't help matters. More than one Eskimo accused us of being eco-guerillas from "Greenpeace", which they used as a kind of generic term that referred to any person or group who wanted to protect animals to the detriment of human hunters and trappers. Hadn't "Greenpeace" closed down the trapping business just a few years earlier? There was also the issue of our own advance man, expedition member Jonathan Churcher, playing a copy of IC's human/area rnusic, Orca's Greatest Hits, over Arctic Radio that past winter. His intent had always been to enlist some of the hunters_ to come join our project as musical guests. The plan obviously backfired. Orcas would easily scare belugas out of the delta. And even if we didn't plan to actually play that particular tape, our guitar and keyboard sounds must obviously sound quite a bit like areas or the areas would never had responded in the first place.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-4_ccurqy.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## IV: The Art of Myth 
 

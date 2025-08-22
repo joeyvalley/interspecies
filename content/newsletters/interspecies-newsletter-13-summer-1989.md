@@ -5,9 +5,9 @@ date: "Summer 1989"
 
 # Dreaming about Ant Communication 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0012-1_grxu6s.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Weaver ants have developed a language based upon upper body movements. Two examples spring to mind. Firstly, they utilize a distinct side-to-side, face-to-face, antennae waggling dance when communicating"the presence of nearby food to other workers. And secondly, when a weaver ant chances upon an intruder, even at a considerable distance from the nest, she stops foraging for food and releases a pheromone (an alarm scent) into the air which attracts reinforcements. If the adversaries are numerous, some of the summoned weavers soon break off from the fight and immediately return to the nest, all the while laying a pheromone trail to and from the battleground. Back at the nest, these messengers now recruit other workers to the fight by jerking their faces back and forth, toward and away from the nestmate. 
 
@@ -43,9 +43,9 @@ So instead, I spray gasoline on the surface of the mound and simply set it afire
 
 Personally, I find myself prey to the most uncomfortable of fantasies whenever I step inside the ten foot radius of an ant colony's sel(-aware, personal space. Is this a case of the heebiejeebies, or has my relationship to the colony turned me super-sensitive to the hypnotic spell being cast by a telepathic queen? I sense that the colony has tacked up a psychic signal inside the billboard of my own mind: beware you fool, inner sanctum, you trespass at your own risk. One part of my own mind seems to fear that it might actually get taken over by ant commands causing me to start jerking my head from side to side in recognition of the enemy. That enemy is, of course, myself. Furthermore, this risk is double-edged because the enemy I face is also a real-time confrontation with my own worst fantasies about swarming ants. What if a sudden stiff gust of wind should pick me up bodily and drop me onto the mound?
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0012-2_t1blwl.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Even as I dream up this nightmare of ants as a violation of my own personal space, so the living, breathing ants insist upon going about their business of swarming outside of my own dreamt up fear of them. What irony! When it comes to human/ant relations, violation and interspecies communication are starting to sound like variations on the same theme. 
 
@@ -55,9 +55,9 @@ Actually, my own relationship to the local thrashing ants seems more than a bit 
 
 //// PAGE THREE
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0012-3_scb7xu.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 
 # Beluga Project 
@@ -74,10 +74,10 @@ This project has recently been invited to locate along the Anadyr River Delta in
 
 # Human/bird Communication
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0012-4_wmdj5v.png" alt="Illustration by Jim Nollman" />
 <span class="newsletter-caption">Greater Honeyguide, illustration by Constance Perenyi </span>
-</div>
+</div> -->
 
 # Living Green 
 
@@ -188,9 +188,9 @@ This project has recently been invited to locate along the Anadyr River Delta in
 <br />
 </div>
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0012-7_jvwzu0.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # Valdez Journey
 <div class="inset-text">

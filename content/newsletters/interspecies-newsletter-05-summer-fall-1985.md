@@ -39,9 +39,9 @@ Lake Tyers Dolphin Protection Group
 *"Don't give a wild dolphin any food. This seems to be the biggest factor that holds back the communication between humans and dolphins. If you're trying to teach a child something, you don't give it a lolly every time it succeeds. After a while, it wants the lolly first. I believe that you can communicate much more when you speak with love."* 
 <br />- Frank Robson 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img  src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1752160417/IN0004-1_pe3goc.png" alt='Artwork'/>
-</div>
+</div> -->
 
 3. Alaska: As mentioned in our last newsletter, IC is involved in the issue of whether or not Seaworld of San Diego should be allowed to capture 100 and keep 10 areas from Alaskan waters over the next 5 years. Fortunately, the Governor of Alaska has come out in behalf of the whales. Those who have been watching this issue from the beginning, believe that this political decision marks a turning point in the matter. Governor William Sheffield addressed his comments to the Secretary of Commerce, Malcolm Baldridge, who also administers the National Marine Fisheries, the Bureau responsible for the original capture permit despite much opposition. Sheffield wrote:
 

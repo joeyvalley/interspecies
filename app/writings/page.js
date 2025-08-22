@@ -12,15 +12,19 @@ export default function Home() {
       {/* MENU BAR */}
       <MenuBar />
       <div className="page">
-        <div className="page-header">
-          <h1>Writings</h1>
-          <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+        <section className="hero-text">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </section>
+        <section className='section-block'>
+        <div className="section-header">
+          <h2>Newsletter</h2>
         </div>
-        <div className="page-header">
-          <h1>Newsletter</h1>
-          <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+          <p className="section-description">The Interspecies Communication newsletter was published quarterly for over 25 years. Many articles were later edited and published as books, including The Man Who Talked to Whales, Spiritual Ecology, Why We Garden, and The Beluga Cafe, among others. Other articles about the development of a true interspecies music have appeared in numerous published anthologies and publications internationally. 
+          </p>
           <NewsletterDropdown />
-        </div>
+        </section>
       </div>
       {/* FOOTER  */}
       <Footer />

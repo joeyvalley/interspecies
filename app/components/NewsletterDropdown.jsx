@@ -35,7 +35,7 @@ export default function NewsletterDropdown() {
         className="newsletter-picker"
       >
         <option value="" disabled>
-          Select issue...
+          Select issue
         </option>
         {posts.map(({ slug, date, title }) => (
           <option key={slug} value={slug}>

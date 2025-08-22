@@ -14,9 +14,9 @@ IC is sending two representatives up to the Bering Strait area of Wes tern Alask
 
 3. The careful promotion of this projectthrough film, print, and presentationsalso provides a fresh impetus to educate the rest of the world about the beluga as well as the entire Bering Strait ecosystem. As in all of our projects, we shall transmit live music from a boat set upas a recording studio. The belugas will be able to come and go as they please, without any harassment whatsoever from the human end. And yet, despite the fact that the belugas are currently being hunted by native peoples, it is not our intent to prosyletize any "correct" relationship with the whales. Instead, we serve best by focusing our attention entirely on the human/beluga interface, thus permitting our example to generate a forum for discussion and change. IC thanks the Slifka Foundation, Patagonia, The Alaska Performing Artists for Peace, Christine Stevens, Marlowe Hotchkiss, Harry James, and the Nome Chamber of Commerce for various levels of assistance in this upcoming project. Wehave also received consulting help and endorsements from: Greenpeace, The Esalen Soviet/ American Exchange, JLH Productions, and the Earthtrust Foundation. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0007-1_qf7sv5.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # Second Phase: Exploration Complete 
 
@@ -28,10 +28,10 @@ During our long flyover of the coast-250 miles of ice and water viewed at 500 fe
 
 We are committed to return to the Arctic next year. This coming fall crystallizes as a time of engaging Soviet contacts through the diplomatic channels that have already been activated on our behalf. If the Soviets are interested, and if we are able to access the Siberian coastline, we will return to the Bering Strait come spring. And, if not, we are still committed to working with beluga whales. However, in that case, we will head further north and east into Canada; to the delta of the MacKenzie River, where we've been told 10,000 belugas congregate by mid-July. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0007-3_ngqrss.png" alt="Illustration by Brigit Lehman" />
 <span class="newsletter-caption">Drawing by Brigit Lehman</span>
-</div>
+</div> -->
 
 # Human/Dolphin Community
 
@@ -44,10 +44,10 @@ Recently, in April of 1987, we returned to Mexico once again; this time to Bahia
 We saw dolphins nearly every morning of our stay. These were mostly bottlenose, with a smaller pod of porpoise (possibly the very rare vaquita). On one occasion we sighted a pod of large black dolphins, probably pseudorcas. It is possible as in Careyes, that during the winter months, pods of humpback whales migrate past the bay where their singing can be heard in all its glory. 
 Our trip to Banderas was a total success; so much so that IC now has plans to rent a house overlooking the bay for two months next winter. At that time, we shall commence an acoustic as well as a swimming relationship with the local pods of dolphins and whales. If any of our members would like to participate, please let us know. IC thanks Mela Leavell, Kyle Hence, Dean Fleming and Cynthia Darden for helping to orchestrate phase one of this project. 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img  src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0007-2_jrb7o0.png" alt="Illustration by Kim Straitiff" />
 <span class="newsletter-caption">Drawing by Kim Straitiff</span>
-</div>
+</div> -->
 
 # The IC Computer 
 Our last newsletter included a solicitation for a computer system to help us better meet the challenge of this expanding organization. The response to that call was nothing short of overwhelming. Now, six months later, IC is up and running on its own system, and well along in the process of transferring many of its operational tasks onto disk. We would especially like to offer thanks to our corporate donors of software: Microsoft, The Software Group, Mouse Systems, and Norton, Inc. 
@@ -72,9 +72,9 @@ Actually, I feel as if I may have already lost my way. What to do but return to 
 
 *- Jim Nollman* 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img  src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0007-4_q8mdqa.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # IC Philosophy: An Overview 
 

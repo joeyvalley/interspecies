@@ -5,9 +5,9 @@ date: "Spring 1990"
 
 # For Earthday
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0015-1_da1usk.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## I. Carnival Mirrors
 
@@ -31,9 +31,9 @@ Some call it a hopeless insanity and so turn their back on the entire system. Ot
 
 Earth Day teaches us to declare: "I beg to differ." The  symptoms of our crisis cut right across all aspects of culture: including legislators, commercial interests, the experts, you and I. And like the Buddhist concept of the Boddhisattava, no one is going to get out of here unscathed until everyone gets enlightened. The environmental crisis set before us is a crisis in perception. It begins and ends inside each one of us. We act connected when we get connected. We get connected when we act connected.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0015-2_mu3tor.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## II. The Seventh Generation
 
@@ -79,9 +79,9 @@ The seventh generation begs you to change your stationary. And while you're at i
 
 This newsletter is sent out to the editors of at least 50 other journals and magazines. Listen up. Earthday implores each of you publishers to make that same pledge to the trees. I also must confess here to being especially tired of all those animal rights and environmental magazines printed on glossy paper. Get with it. There is simply no excuse for not making the switch. And while you're making the switch, get rid of those plastic mailing wrappers.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0015-3_juzqzo.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## IV. Everywhen
 
@@ -115,9 +115,9 @@ Although we must incorporate parts of the surrealistic spiritual wisdom of the A
 
 *Indeed, there is a level at which our consciousness must be neither poetry nor science, but a transcendence of both into a new realm of theory and practice, an artfulness that combines fancy with reason, imagination with logic, vmon with technique ... Poetry and imagination must be integrated with science and technology, for we have evolved beyond an innocence that can be nourished exclusively by myths and dreams.*
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0015-4_yjswym.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 ## VI. The Woodcutter's Mask
 
@@ -151,9 +151,9 @@ Listen closely. Their singing is really not much more than a low whisper, a low 
 <br/>*The Green Synthesis Newsletter*, Box 1858, San Pedro CA 90733
 <br/>*The New Catalyst Journal*, PO Box 99, Lillooet BC Canada, V0K 1 VO
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0015-5_rwfuqc.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # IC News
 

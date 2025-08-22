@@ -5,9 +5,9 @@ date: "Spring 1988"
 
 # Yellowjacket Saints 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-1_ycl5oc.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 It's been a dry summer here, a dry year, a dry two years; the kind of weather that persuades the wasps to arrive in full force. I was cutting a joint into a board with a Japanese saw: a kind of wide, flat, sharp-toothed spatula-shaped tool that permits one to slice through wood with extraordinary precision. The yellowjackets were obviously attracted by the sweet smell of fir sawdust. One at a time they buzzed right up to my sawing arm, right through the invisible boundaries of my personaispace until "swish", some reflex causes me to start wielding the saw as a weapon. My ears register the slightest "tick" as springy metal whips up against the hard cuticle of insect skin; "hzzz", the saw blade momentarily vibrates into song before, "thud!" it slams against the dry mossy ground. Finally after four or five blows, I pause a moment to peruse the results of my vengeance. There, just beyond the frontier of my bare feet, lie six yellowjackets in disarray. Two have been dismembered, wings and body sections strewn across a foot or more of ground. Two more lie whole but unmoving, their skin broken, a dark amber liquid beading out from the tear in the thorax. The last two are yet alive, quivering at a rate beyond the ability of my eyes to capture. They seem stunned, but still healthy.
 
@@ -25,9 +25,9 @@ Later that same day, in retelling the story of tl1e saintly yellowjackets to a f
 
 Genuinely confused by this alteration in my perspective, I decide to call upon the expertise of an entomologist, an insect scientist. Introducing myself over the phone as an insect aficionado, I ask him to please interpret my description of observed yellowjacket behavior. He pauses as I conclude my tale, clears his throat, and then scolds me for attributing human qualities to the motives of an insect. "Wasps do not care about one another as we humans sometime do. Nor do they exhibit compassion. In fact compassion is not even a term within the biological lexicon."
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-2_ecr5xg.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Instead, the entomologist chooses to lay the entire incident at the feet of pheromones, those chemical smells and tastes that make up the form and content of yellowjacket communication. Certain pheromones mean defense, others mean food, so on and so forth. When I swatted those yellowjackets out of the sky, the blows indubitably caused them to expel a chemical field. The original pheromone meant food ( the sweet fir sawdust). This primary smell was then coupled with an alarm aroma sent off by those wounded during the subsequent assault. "Yum Yum! Help! Help!" wafted the aroma of the pheromones. 
 
@@ -50,15 +50,15 @@ I have read that some researchers, addressing the incredible challenge of transl
 
 *- Jim Nollman*
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-3_n8jcbz.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # Beluga Peace Project - An Update 
 IC sent two representatives up to the Bering Strait last June to implement phase one of a commm1ication project with the beluga whales who inhabit the Arctic environment. Our exploratory visit to the Strait proved productive, helping to familiarize the project members with the logistics of mounting an acoustic and ocean-based study from within that often inclement environment. It also verified our basic assumption of developing a longterm· commm1ication relationship with this very vocal and social species of cetacean. This, despite the fact that our expedition also verified that the Bering Strait is certainly not the optimum locale for creating an interface with beluga whales.
 
 IC's ongoing exploration with the belugas was conceived from the start as a platform for Soviet/American collaboration. Any such venture between musicians, scientists, and native people from our two cmmtries seems an especially worthwhile event for the times we live in. Furthermore, because tl1is collaboration focuses entirely upon tl1e creation of a dialogue with another species, the metaphor of a "peace bridge" becomes tremendously potent. Towards this end, we have learned that the belugas tend to congregate at the deltas of certain large rivers along the Arctic coast of Siberia and Canada. For one example, the huge MacKenzie delta of Arctic Canada is known to be the temporary home for as many as 15,000 migratory belugas during the brief ice-free period of mid-summer. Significantly, IC's consultants within the network of Soviet/American citizen diplomacy have strongly recommended that before we submit a proposal to the Soviets, we first gather more experience in direct contact with tl1e belugas. As such, IC has decided to sponsor its 1988 expedition up to the MacKenzie river during the first two weeks irrJuly. This period of time will be spent developing the actual teclmiques needed to establish a communication dialogue with the belugas. We are also preparing to go directly into the water if appropriate. 
-
+<!-- 
 <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-4_mxpogi.png" alt="Illustration by Jim Nollman" />
 <span class="newsletter-caption">The arrow points to the vicinity of our project site in the Canadian Arctic.</span>
@@ -67,7 +67,7 @@ IC's ongoing exploration with the belugas was conceived from the start as a plat
 <div class="newsletter-image">
 <img  src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-5_dvzr1u.png" alt="Illustration by Jim Nollman" />
 <span class="newsletter-caption">Detail of the MacKenzie River Delta. Our project site is highlighted.</span>
-</div>
+</div> -->
 
 IC has recently received a scholarship to pay for the participation of a Soviet citizen during this summer's Canadian work. We are now in the process of networking our contacts to find and invite a Soviet participant who can join the expedition in the spirit of its longterm goals. IC is also involved in networking the Beluga Peace Project among film production companies, potential long-term sponsors, citizen diplomacy advocates, and the whale research community. In fact, one of our prime Soviet candidates for the scholarship is also a distinguished film maker who has already made a film about Shamanism in the Siberian Arctic.
 
@@ -83,9 +83,9 @@ Stub stopped parallel to the boat with his head to the bow, his left eye about a
 
 Once, with Stub's upper jaw against the bottom of the bow, I placed two fingers on his head, just above the line of the mouth. In response he ducked and then moved forward, only to stop and then reverse direction. I made no other attempts to touch him while out of direct line of sight. Would he have reacted differently to a warm, flat palm? 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-6_ypbbaz.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Because every part but Stub's flukes were within a meter from me at some point, any moderate action could have hit me. Yet while I considered the chance of such a mistake, I also felt no concern. I never made the whales responsible for my safety, nor did I limit their own control of the event. 
 
@@ -122,9 +122,9 @@ Lastly, IC offers a special humble thank you to Sandra Wilson, who recently resi
 
 3. Orca's Greatest Hits, produced and distributed by IC, includes the best selections from our own orca projects between the years 1978-1985.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0008-7_dkmz2w.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 <div class="inset-text">
 There is an old legend that when the Gods made Man they fell to arguing where to put the Answers to Life so that Man would have to search for them.<br /><br />
@@ -139,10 +139,3 @@ After a while, another God spoke, "We can put the Answers to Life within Man. He
 And so they did...<br /><br />
 - suggested by Carolyn Forman
 </div>
-
-
-
-
-
-
-

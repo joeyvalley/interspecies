@@ -444,6 +444,21 @@ body {
   color: #f1f1f1;
   cursor: pointer;
 }
+.newsletter-select{
+  width: 100%;
+  padding: 0rem 2rem 2rem 2rem;
+}
+.newsletter-picker{
+  width: 100%;
+  font-family: 'Favorit-Mono', monospace;
+  font-size: 1.25rem;
+  color: #010101;
+  background-color: white;
+  border: 1px solid black;
+  padding: 1rem;
+  cursor: pointer;
+}
+
 /* Mobile Menu */
 .hamburger {
   display:none;
@@ -513,11 +528,10 @@ body {
 }
 /* Newsletter Page */
 .newsletter-container {
-  padding: 0 2rem;
+  padding: 1rem 2rem 2rem 2rem;
   width: 100%;
   margin: 0;
   background: #f1f1f1;
-  border-bottom: 1px solid #010101;
   display: flex;
   justify-content: center;
 }
@@ -528,15 +542,16 @@ body {
 }
 /* Headings */
 .newsletter-page .markdown-body {
-  color: blue;
+  color: #010101;
 }
 .newsletter-page .markdown-body p {
   margin-bottom: 2rem;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 1rem;
+  font-weight: 400;
   margin: 0.5rem 0.5rem 1rem 0;
+  word-spacing:-10%;
 }
-
 .newsletter-image {
   padding: 2rem 0 1rem 0;
 }
@@ -560,29 +575,34 @@ body {
   align-items:baseline;
   justify-content:space-between;
   display: flex;
-  border-bottom: 1px solid #010101;
-  margin-bottom: 4rem;
+  flex-direction: column;
+  border-bottom: 4px solid #010101;
+  margin: 1rem 0 2rem 0;
 }
-.newsletter-title h1{
+.newsletter-title h1 {
   font-family: Arial, Helvetica, sans-serif; 
-  font-size: 2rem;
+  font-size: 3rem;
   line-height: 3rem;
   font-weight: bold;
+  display: block;
+  width: 100%;
+  text-align: justify;
+  text-align-last: justify;   /* 👈 forces the last line */
 }
 .newsletter-title h2{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: normal;
+  display: block;
+  text-align: right;
+  width: 100%;
 }
 .markdown-body h1{
   font-family: Arial, Helvetica, sans-serif;
-  text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-align: center;
-  text-decoration: underline;
   font-weight: bold;
   display: block;
-  margin: 2rem 0 1.5rem 0;
 }
 .markdown-body h2{
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -594,7 +614,7 @@ body {
 
 /* Secondary Pages */
 .page {
-  background: red;
+  background-color: #f1f1f1;
   min-height: calc(100dvh - 164px);
   border-bottom: 1px solid #010101;
 }
@@ -617,24 +637,16 @@ body {
 .inset-text{
   display: flex;
   width: 100%;
-  margin-bottom: 2rem;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 0.9rem;
+  font-family: 'Times New Roman', Times, serif;
   color: #010101;
-  padding: 0 2rem;
-  text-align:center;
-  justify-content: center;
 }
-
 .footer-text{
   font-size: 0.7rem;
   color: #010101;
 }
-
 hr {
   margin-bottom: 1rem;
 }
-
 .inset-quote{
   font-family: Georgia, 'Times New Roman', Times, serif;
   background: #eeeeee;

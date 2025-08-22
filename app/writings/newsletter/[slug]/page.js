@@ -37,20 +37,19 @@ export default async function NewsletterPage({ params }) {
   // 3. Render
   return (
     <div className="container">
-      <NewsletterMenuBar />
       <div className="newsletter-container">
         <div className="newsletter-page">
-          {/* <div className="newsletter-title">
+          <div className="newsletter-title">
+            <h2>NEWSLETTER - {data.date}</h2>
             <h1>INTERSPECIES COMMUNICATION</h1>
-            <h2>{data.date}</h2>
-          </div> */}
-          <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}/>
-          <div className="newsletter-image">
-            <img className="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-6_zfdjxv.png" alt="Interspecies Logo" />
           </div>
+          <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}>
+          </div>
+          {/* <div className="newsletter-image">
+            <img className="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-6_zfdjxv.png" alt="Interspecies Logo" />
+          </div> */}
         </div>
       </div>
-      <Footer />
     </div>
   );
 }

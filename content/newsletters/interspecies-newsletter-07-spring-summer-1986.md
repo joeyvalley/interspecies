@@ -15,9 +15,9 @@ Yet, despite the anti-climactic ending, we had learned some very valuable lesson
 In the three years since Careyes, LC. has sponsored at least one project every winter in search of a new site from which to instigate a Human/Dolphin community. Southeast Florida, the Bahama Banks, Hawaii, and the Great Barrier Reef in Australia have all been explored. In many cases I.C. listens for the best way to support and encourage the interactions between dolphins and humans already taking place in various parts of the world. Such was the case in our visits to Lake Tyers and Monkey Mia, Australia where pods of dolphins have interacted with humans on the shore. LC. members have also spent time with American Indian and Aboriginal teachers learning both of their relationships with dolphins and of their sacred places of dreaming. However, for the purpose of our research and vision, we seek an area where the human factor is not already overwhelming. We seek a warm water sandy beach on a protected bay in proximity to resident dolphins where there is no evidence of a prior relationship between species.
 
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0006-1_ynxbkd.png" alt="Interspecies Star" />
-</div>
+</div> -->
 
 Nine  members  of  I.C. have  just  returned from two weeks in Baja. On the desert sea environment north of la Paz, we explored the area's potential for interspecies community. It was a time spent sailing from island to island, bay to bay, walking beaches and kayaking through . mangrove estuaries. We learned the capricious power of the local winds and the environmental concerns of the local people. We enjoyed a single strong interaction with bottlenose dolphins, and had two other such experiences with sea lions. We took care to explain our motives to Mexican collaborators, who expressed a strong concern to initiate a project that will speak to the preservation of the local wildlife. A total of eleven human beings living with tight quarters but good spirits for two weeks aboard a forty-six foot sailboat, reminded us again of the importance in our work of developing and maintaining open and clear human communication.
 
@@ -25,9 +25,9 @@ After two weeks, we succeeded in locating two promising sites. Joined with an in
 
 The Sea of Cortez is a vast and fecund wilderness area, and the seasonal home to many species of whales, dolphins, reptiles, and birds that are endangered in other parts of the world. Unfortunately, this is all changing as developers and tourists discover its incredible richness and natural beauty. Furthermore, much illegal and indiscriminate fishing and poaching occurs (we heard explosions from dynamite fishing several times); and thus the turtles, sea lions, and marlin are fast disappearing. I.C.'s program of benign research in the area of direct communication between humans-and dolphins, sea lions, and whales hopes to be a means of promoting careful preservation of this region.
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0006-2_hwxmho.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 # Two Turtles Episodes
 
@@ -65,9 +65,9 @@ And significantly, none of us is able to shake the phantom presence of the old t
 
 *- Jim Nollman*
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0006-3_lvr1xi.png" alt="Illustration by Jim Nollman" />
-</div>
+</div> -->
 
 Jim Nollman's book, *Dolphin Dreamtime*, originally published in England, will be available through Bantam Books this coming fall.
 
@@ -83,10 +83,10 @@ Over the years the interest in an open-gate situation and release program seemed
 
 Questions needed answers or at least closer consideration. What were the barriers to the Human/Dolphin community concept? Why hadn't it happened with Joe and Rosie? Was money the only limitation or were the difficulties of the Careyes project reappearing? Was the open-gate and release approach something to truly benefit bt>th dolphins and humans as well as future interactions with other species?
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0006-4_eb8mxd.png" alt="Illustration by Jim Nollman" />
 <span class="newsletter-caption">from a painting by Colleen Kelley</span>
-</div>
+</div> -->
 
 A variety of circumstances, including the closing of Marine World (home of Human/Dolphin Community Joe and Rosie) and the recent death of Toni Lilly, led to the termination of the HDF research program. At the request of the foundation, Coyle, Slifka, Jim Hickman and Carol Ely undertook a sixmonth study of possible futures for Joe and Rosie to insure their continued wellbeing.
 
@@ -157,9 +157,9 @@ For me her passing is an opportunity to rethink how we deal with the loss of ani
 
 *- Linda Tellington-Jones*
 
-<div class="newsletter-image">
+<!-- <div class="newsletter-image">
 <img class="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0006-5_zvmxsi.png" alt="Illustration of an elephant" />
-</div>
+</div> -->
 
 Linda is a regular contributor to the I.C. Newsletter and part of the I.C. family. She is best known for her work with horses (T.E.A.M. or Tellington-Jones Equine Awareness Method) and has become established as a knowledgeable therapist working with zoo animals. Her work has brought her international acclaim and numerous invitations to teach in various parts of the world, including the Soviet Union. She began an outreach program called Animal Ambassadors International to help people express the importance of animals in their own lives and to open avenues of communication between people and nations. The program has been successful in facilitating correspondence between Soviet and American animal lovers. For more information about Linda's work, please contact her at: 
 
