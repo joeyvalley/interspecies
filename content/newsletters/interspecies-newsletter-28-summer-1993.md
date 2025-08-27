@@ -1,0 +1,167 @@
+---
+title: "Newsletter #28"
+date: "Summer 1993"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0028"
+---
+
+# On Exploring
+
+This newsletter is late. Sorry. I've been editing my third book: Why We Garden-acquiring a sense of place in a transient world to be published next spring by Henry Holt. IC has also been busy although, alas, preparing/or two problematic arctic expeditions. The first was scheduled for early July-to the ice floes off Baffin Island to work with narwhals. But the TV producer who won our commitment never found her funding and the expedition collapsed mere weeks before departure. The second expedition, slated/or mid-august and sponsored by a Dutch foundation, is still Shakey as this news-letter goes to press. But it is quite special, even in concept, and well worth reporting about. If not now, then surely later.
+
+*- Jim Nollman*
+
+Our Arctic expeditions traverse the same polar latitudes encountered by Vitus Bering, Samuel Hearne, and even the ill-fated John Franklin. Our expeditions retain much of the romance that has always attached itself to Arctic travel. Once a trip is set, the volunteers seem to come out of the woodwork; willing to do just about anything for a chance to join us working with whales in the high Arctic.
+
+Yet the physical risks we encounter are mild in comparison to any nineteenth century exploration. It sometimes seems to make our own calling cry out for some new word beside explorer to describe it. Compared to the polar treks of Admiral Peary and Roald Amundsen-or for that matter a normal day in the life of a contemporary Inuit walrus hunter-IC's most rugged Arctic expedition must seem like a mere jaunt into the countryside. Compared to the much earlier privations endured by the crews of John Cabot, Verazzano, and even Lief Erikson, any of our member's chances of dying during a trip would probably be far more likely if instead, we'd somehow been transported back in time to experience daily life on one of the Renaissance or medieval estates that these explorers considered princely.
+
+Our camp food is tasty, nutritional and lightweight. It keeps fresh forever. Our hiking boots are warm, waterproof, and breathable. They support our ankles in a manner Knud Rassmussen could have only fantasized about. When I compare the coldest night, I ever spent in my all-season sleeping bag with its four-inch loft, it's difficult to imagine John Muir wrapping his body around a tree for warmth during the long nights he spent in Glacier Bay. Easy access to maps, air transport, synthetic fabrics, and accessible radio contact assures that we shall always be in moderate control of our own destiny. We always know just where we are. And how to leave if need be.
+
+Few would question that this organization, Interspecies Communication Inc, sponsors expeditions of exploration. It is the very format of our ongoing work with animals in wilderness. 
+
+It is not only the inherent lack of hardship that distinguishes our post-modem brand of exploration from most of what came before. There is a qualitative difference as well. We seek neither the experience nor the prestige of unveiling new geographies-the yearning for conquest, riches, and honors that obsessed so many of the people history remembers as explorers. 
+
+The recent controversy over the anniversary of Columbus' discovery of America indicates that many people now believe that the old explorers no longer deserve honoring. Although their courage was irreproachable, most of them actually journeyed outward on errands of rape, slavery, and pillage. They treated the land as ore, the animals as heating oil, and the native peoples as savages to be molded into the prevailing European or American image.
+
+Even the best of the explorers tended to confuse the map with the territory. Great expeditions were planned, fortunes made, and lives lost seeking the substantial rewards that awaited any person able to fill in a few more lines on the map. These men seemed to share something essential with the stereotypical vacationer more interested in taking photographs of a special place than experiencing it directly. During the days of polar exploration, the greatest honor was accorded men who traveled far enough off the beaten track to stumble upon some geographical feature never before seen by Caucasian eyes, The prize was naming a new strait, a new peninsula, a new plateau, after themselves or one's patron. That is the meaning found in Pearyland, the Bering Strait, Melville Bay, Lancaster Sound, so on, so forth.
+
+We are, today, the heirs to all the brutal conquests enacted throughout history. The earth is ours. Native peoples are everywhere subdued. The mineral deposits have all been pinpointed, the most remote forests cut down, many of the large mammals pushed to the brink of extinction. We know the height of every mountain. All the ecosystems are mapped in ten different ways.
+
+Knowing that we live in a wounded environment, we also know that we can no longer afford to aggrandize the old explorational zeitgeist. The verdict is in. Traditional exploration always had its dark side. The old human desire to conquer the earth was never as beneficial as we always believed it was. All the knowledge we gained, all the manifest destiny we achieved has transmuted into something dangerous to the planet's future. With the luxury of hindsight, the old mindset of exploration now seems a statement of societal neurosis rather than glory. Only one troubling question remains. Why couldn't we recognize the human drive to conquer as self-defeating while a few places on earth still remained unconquered? Was the momentum to finish the job too hard to resist? We remain the curious species.
+
+# No Story 
+
+Although there is very little left to conquer in this world, human ingenuity goes to great lengths to retain the old explorational mindset. What passes for exploration today is mostly recreational-a kind of geek exploration. Someone motorcycles alone to the North Pole. Or someone sails a boat singlehandedly through the Northwest passage. Honors await such deeds?
+
+In much the same manner, our culture upholds the mythos of old-style exploration by repackaging it in the form of conquering mountains. We honor the first woman to climb Mount Everest, the youngest person to climb Everest, and the first person to climb Everest without oxygen. But let us recognize these feats for what they are -the last gasp of the old glory machine -long on fitness, short on communion; long on individual celebrity, short on any new vision of the planet.
+
+For many years I wondered why no IC project ever piqued the interest of the editors at Outside or National Geographic, even though we've worked with many of the freelancers who photograph for those magazines. Finally, two years ago, when we traveled to the High Arctic to work with beluga whales, outside got interested. They paid some expenses and sent along a duo to photograph and write about the event.
+
+But no story resulted. As the writer explained it, in his own eyes nothing occurred worth writing about. Our expedition did not accentuate the athleticism of a long trek. Nor did it exhibit the zestful joie de vivre of high-tech recreational camping in an exotic location. We never experienced real danger. We never conquered adversity, either real or imagined. And although the beluga whales ventured close enough to get one in the same photograph with me, it was only the back of a whale. Because belugas don't have a dorsal fin, that rolling back was hardly a payoff shot. There was no spy-hopping. No breaching. I told them their "payoff" was trivial; that their entire story hinged on a shot that made me look like a geek.
+
+I don't deny it. I was disappointed the journalist wrote no story. Only much later did I recognize that The Outside version of exploration looked like a repackaging of old-style exploration. The differences between the old style and the repackaging seem worth mentioning. Whereas the old version told the story of a progress-minded civilizing influence entering the heart of darkness, the repackaged version substitutes the word fun for progress. Whereas the old exploration told a tale of heroes gone off to expand the limits of knowledge, the repackaged version seeks to test the limits of human endurance. Whereas the old version tried to avoid the dragons we were all led to believe live in every undiscovered environment, the dragons of the repackaged version-including bad weather, wild beasts, enormous deserts-are not so much endured as they are sought after. Sometimes the repackaged dragon takes the face of a ticking clock by which the repackaged explorers keep score of who's on first. Nor are entire geographies the aim. Repackaged exploration seeks to conquer specific land forms: cliff faces, swift rivers, Everest for the hundredth time. And bring home good photos.
+
+IC's expedition seemed, in many ways, the antithesis of the recreational credo. The beluga trip was deemed effete because it only proved interesting (at best) on a conceptual, a metaphysical, and possibly an ethical level. 
+
+As a reality check, here's a few of the high points that the writer from Outside found so unworthy of his pen. The beluga whales were getting -hunted by Inuit outside the bay, and viciously radio-tagged by Canadian government scientists inside the bay. Yet despite the violence waged upon the belugas from all directions, the whales still ventured close to my own music-making efforts although, as already mentioned, they remained underwater. One day I confronted the leader of the scientific team, who explained to me that any animal experiment heeding established scientific methods-no matter how violent-is ultimately worthy. Nonscientists have no right to pass moral judgements on science. And finally, this chestnut: non-scientists do not deserve to have access to whales in the wild.
+
+Moreover, something was occurring within our camp far more important than any of these so-called high points. Our expedition members were constantly experiencing epiphanies with the exotic plants and animals of the area including polar bears, jaegers, stag Hom fungus, and even a long-dead musk oxen. When I suggested to the writer that these Arctic mini-epiphanies underscored an important message -that the ongoing interactions were critical to a sense of communion with that strange polar landscape man just grimaced, indicating that such interactions were commonplace to being in wilderness -no matter where we might be.
+
+I agreed with him up to a point. Such experiences may indeed be commonplace, but they are also missing from too many magazine stories and nature films. Certainly, the best nature writers have always included the Mini epiphanies and we thank them for it. Contrarily, our mass media adventure stories and nature films may seem daring and even informative, but they are often flat simply because they leave us with a false sense of what's important about venturing into nature.
+
+Even as big media insists on sticking to its formula of larger-than-life thrills cojoined to a ubiquitous search for data, our culture continues to lose its immediate connection to nature. Yet feeling that connection, and then communicating it to others, may be the perception most missing from our lives.
+
+In other words, there is a lesson to be learned here. Discovering how to document the mini-epiphanies that we all encounter in nature may hint at a new transformative vision of how humans might interact with nature. If so, then it obviously demands a new vision of both discovery and exploration. At this late date, there may be no other valid reason left for anyone to go ahead and venture into wilderness.
+
+Just for the record, I eventually wrote up my own account of that trip. Entitled "Talking to Beluga", it was published in this newsletter and then later reprinted in New Age magazine.
+
+# The New Exploration
+
+Exploration is still a valid calling, although we do well to perceive it anew. If there is ever to be such a thing as a "new exploration" then let its practitioners seek the opposite of what their predecessors sought; the opposite of what the repackages still seek. Let the new explorers ameliorate or even extinguish the indomitable sense of human mastery over land for which so many earlier explorers lusted. Let them teach us, not how to conquer, but how to belong to this planet. Let them travel to wild places, not to lay claim to the resource~ and convert the locals, but to witness and uphold wildness. Let them explore with a spirit of pilgrimage rather than glory. Let them revitalize the sense of place that has been lost just about everywhere-although it is nowhere forgotten. Let the new explorers help the rest of us to redefine our nest so that it includes the whole earth. Let them reaffirm a spirit of humility to the land and sea, as well as to the native peoples who dwell therein.
+
+Let the new explorers bring home, not spoils, but rather some precious sign that the land is not merely geographical, but that it is sacred as well. This exotic sense of the earth being sacred has been misplaced by our culture for far too long. We have been led astray; taught to believe that the sacred is not in nature, but is only the province of some faraway heaven. Let the new explorers show us that the sacred is more down to earth than we ever realized. Let them set out to rediscover this misplaced legacy. And finally, let them report to us all the ways this view is the common heritage of all traditional peoples.
+
+In a culture that still hands out too many of its limited explorer stipends to people planning kayak descents of wild rivers, long walks in harsh climates, and new ascents of old peaks, the new explorers need our support.
+
+But how do we recognize them? In fact, they are the ones who have no wish to meet some pre-ordained "challenge", or to test the limits of their own endurance. They are the ones who long to sit down in wilderness rather than march across it. They seek to interact with the land, although never to subdue it. They are the ones who strive to find some critical perception of wildness as a gift to carry back to the culture they left. And when they encounter this wildness head on, they are the ones who know enough to leave the place of that discovery unmarked by their presence. Their objective is never mineral-driven, missionary, scientific, or recreational. It is rather a psychological and spiritual pledge to rejuvenate our society's long-lost perceptions about living harmoniously upon the earth. 
+
+There are many precedents to guide the initiates of the new exploration. Here are just three of them.
+
+The Lakota of the Northern Plains have a term, wakonda, sometimes defined as the life force of nature, and other times defined as the process people undergo to invoke this life force. It is often translated into English as making medicine which, oddly, seems more vaguely analogous to our modem sense of prayer than our sense of healing. 
+
+Making medicine involves a bit more than simply supplicating with some Native American God, more than repeating certain set words and phrases. The Lakota make medicine by taking sweats, smoking herbs, sitting squarely on the ground, and conducting specific ceremonies at specific locales. They believe that invoking the life force at certain locales links them directly to the healing spirits who reside in that place. Because the Lakota view human beings as pieces of the earth, the act of healing a person, either oneself or someone else, is the same act as healing the earth. The two can never occur separately. 
+
+Or second, the Romans named the life force: numen. As Paul Devereux reports in his book, Earth mind, numen is the essence of the intangible spirit of place. The Roman biographer, Plutarch, wrote that numen exists most strongly in the wild regions free from human habitation. Preserving this vitality is absolutely essential to preserving the vitality of the earth.
+
+And third, in the ancient Chinese geomancy known as Feng Shui, the land is said to shape the people who dwell upon it. Literally meaning 'wind-water', Feng shui might be understood as the Chinese version of the Lakota' s Wakanda: an ancient healing art that harmonizes chi-the life force of the land and atmosphere-with the chi of humanity. 
+
+There are many ways our explorers might reinvigorate these three versions of geomancy. Here's just one idea. 
+
+Environmentalists have long promoted the preservation of the Brazilian rainforest for the undiscovered drugs it may contain. Although this idea has merits, its rationale is so woefully anthropocentric that it will unlikely ever save anything. Sensing the planet only as a bundle of resources may be the perception that most needs to change. Nothing tangible in our relationship to nature starts to alter until first, we alter our fundamental perception of the human place within the web of nature. In such a manner, regard the new explorers as our seekers of the web. They explore Wakanda, numen, Feng shui, and all the other terms men and women invented long ago to insure a suppliant attitude towards the earth. Regard the new explorers as our dreamers of an earth medicine stronger than any potential rainforest drug. 
+
+# Bringing It All Home 
+
+This organization, Interspecies Communication Inc. explores, although not for recreation, not for riches, not to discover new drugs, or to further any other outmoded ideas about progress. We do not seek to conquer dragons, test our endurance, map real estate, or set records. Rather, we seek something very old and long lost to our culture-an intangible interdependence with the land itself.
+
+More precisely, IC explores the limits of kinship with those few unexploited animals that still survive on this planet. But how far we must travel today to even find those communicative beings who still live unimpeded by human interference! Nearly as far as Peary traveled when he conquered the Pole. We shall continue to travel to the far polar reaches to find the long-lost wild heart that only exists there. And although, indeed, we travel very far to find it, we do not forget that clear relations between humans and animals existed just about everywhere before the conquerors laid the land bare for the rest of us to settle. 
+
+# The GM Pole
+Summer expeditions that stutter and falter cause this subject of exploration to weigh heavy on my mind lately.
+
+In mid-August, IC hopes to participate in its most northern expedition yet. Our group travels to the High Arctic, nearly to the eightieth parallel, to a place called Kane basin; a strait bounded by Greenland on the east and Ellesmere Island on the west. Kane Basin may be the most northern stretch of open water in the world, although the ice retreats there no more than six weeks a year. During that short period, the strait plays host to belugas and narwhals, who venture to the very edge of the polar ice cap to feed on Arctic herring. The nearest Inuit village lies a hundred miles south of the Basin, strongly suggesting that these whales are rarely hunted. As always, communication works best when the whales have not yet had to contend with the killing ways of human beings. If we find the whales, they are almost certain to be friendly and outgoing. 
+
+IC was invited to participate in this project, co-sponsored by the Bethany Foundation of Holland and ZEGG Universität of Germany for two reasons. First, ZEGG is currently planning several projects to interact with whales and wants IC to provide direction.
+
+And second, just inland from the Greenland shore of Kane Basin lies the Geomagnetic North Pole. This is the CenterPoint of the atmospheric oval within which the aurora borealis originates. The GM Pole seems a magical destination, an otherworldly place, a true earth power spot; a geomancer' s dream. In physical terms, it is a kind of funnel through which vast electro-magnetic energies are generated when the solar winds become charged and mingle with air molecules as they pass through the earth's magnetic field. The result is the greatest light show on earth, the multi-colored, shifting glow that can be seen for thousands of miles in every direction. 
+
+Although the Northern Lights are best known for their visual pyrotechnics; they evidently create sounds as well. But what those sounds actually sound like is a mystery. Although there are literally hundreds of accounts by native people and northern explorers hearing the rustle of papers, crackles, and hissing, scientists have, so far, been unable to make any recording of the phenomenon. 
+
+All their attempts have been done with microphones pointing up towards the sky. We shall try a different approach suggested to us by audio explorer, Michael Theroux. A two-foot length of rebar is prepared by soldering a wire to it. The other end of the wire has a phone jack attached which allows it to be plugged into the microphone input of any tape recorder. The rebar is then pounded into the ground, which in effect, turns the earth itself into a giant microphone. Theroux has had good luck recording earthquakes and other sounds not all of which have yet been identified. He believes that the energy generated by the northern lights probably makes the ground vibrate. If so, the sounds should be recordable from the rebar. 
+
+We are now exploring the possibility of designing a few unique musical instruments that will actually be played by the energy itself. One idea is a kind of guitar/fence. Three tuned wires, each one of them several hundred yards in length, each one with its own pickup, will be strung up on fence posts in such a way as to cause sympathetic vibrations when effected by the aurora.
+
+The story of this expedition actually begins last March when IC received a letter from ZEGG University in eastern Germany, requesting our presence at a "Haven Arctica" conference being held in the desert of southwest Portugal. This was evidently the second in a series of international meetings focusing on solutions for protecting the Arctic by promoting ecological and artistic research leading to political action. The guiding symbol of the conference was an image of the Arctic as a crown chakra-a place where ethereal energies enter the body and are transformed into mental and material form. How this transformation might actually occur was one of the research questions for the attendees. 
+
+The geomagnetic pole, its relationship to the northern lights, the way it channels the sun's sub-atomic particles, the way the Earth's magnetic field charges this so-called solar wind as it passes through the Earth's atmosphere, the way the process illuminates the northern sky, and the way this electro-magnetic process must affect the humans and animals who visit the area was the common interest of all the participants. There was also some emphasis on the GM pole as special place for healing which, not coincidentally, carries us headlong back to the issues presented by Wakanda, numen, and Fengshui. IC has added the extra dimension of potential relations between humans and whales. 
+
+The participants who eventually committed to going to Greenland during August of 1993 included a biological researcher from the Library of Congress, Christopher Dodge, who is currently conducting research with so called "Earthquake sensitives" -people with abilities to predict tremors before they occur. Dr. Frank Griffiths teaches international relations at the University of Toronto, and works in a Canadian government think tank working on solutions for demilitarizing the Arctic. Johan Boswinkel runs a Dutch foundation with a particular interest in the links between electromagnetism, geomancy, and acupuncture. Johan has been a longtime student of the effects of using voltage rather than needles for healing, and chose to focus on the GM pole to conduct research to measure its healing properties. Monica Alleweldt is German, and a member of the ZEGG staff. Peter Koll is Swiss, and a member of Aktion Perestroika, which networks environmental groups in Western Europe and the former Soviet Union. The geomancer and author, Nigel Pennick, was present at the earlier meeting. One other invited participant of our expedition who was not present in Portugal but attended the first "Haven Arctica" conference was Finn Lynge, Danish minister for Greenland affairs and an Inuit priest. 
+
+If all falls into line, there will be a full report of this expedition in the next Interspecies newsletter.
+
+Book Reviews The three books and a magazine reviewed here are re/event to any discussion of new exploration. Notably, the first two books discuss the work of JC in some depth. The magazine has published accounts of past IC projects. 
+
+*- editor*
+
+# The Fruitful
+
+**Darkness Reconnecting with the Body of the Earth** (1993)<br />
+by Joan Halifax<br />
+Harper Collins
+
+Joan Halifax is a spiritual leader with many parts: part Buddhist teacher, part Albigensian heretic, part aboriginal bridge builder, part new age mother figure, part shamanic scholar, part varsity player in the fields of the Lord.
+
+This is her story, overflowing with powerful and enlightened characters, sometimes nearly too full of wonderfully exotic events, too full of sentences that start out: I remember a story that so -and so once told me ... Could any of this be true? In fact, this editor knows her well enough to vouch that it is. Her unique account of two IC orca trips adds a few intriguing twists to what has become a much-retold story.
+
+*...The Tibetan Lama sang mantras to them, and Linda Tellington-Jones and I sang "whale" to them, and they were singing right back, no amplification needed. This was live! Then a giant orca slowly rose out of the depths between three of our kayaks, her great body shimmering with phosphorescence in the moonless night. I was struck with more than a little respect as she slid almost soundlessly back into the water less than fifteen feet from us. The night's finale was a mother whale and baby whistling and growling within touching distance.*
+
+*... Meeting creatures in the wild is a powerful experience. It awakens that bittersweet nostalgia for a time when all creatures spoke together and were held in the common embrace of creatureliness. It also stirs up the stuff of trust when encountering a being who is quite capable of eating you for dinner and doesn't. I have had close contact and even communication with snakes, lizards, jays, and hawks, dolphins, and coyotes, but whales cannot help but awaken in us the sense of being part of the great natural sangha, the community of all creation. Indeed, these old beings are our companions in awakening.*
+
+**Playing By Heart: The Vision and Practice of Belonging** (1993)<br />
+by O. Fred Donaldson<br />
+Health Communications Inc.
+
+Fred Donaldson is another longtime friend of IC. We first heard about his work years ago when he was using his mastery of Aikido as a means to communicate with wolves. His writing about the human/wolf exchange remains one of the most powerful expressions of interspecies communication, and it can be found described in much greater detail in his new book.
+
+*Playing By Heart* provokes us to reconsider the meaning of play in our lives. The connection between playing and belonging seems especially profound for these times of deep alienation; our own culture's overbearing manner of linking play to competition actually destroys the unifying lessons found in play. This book should be mandatory reading for all soldiers, psychologists, professional athletes, educators ... and explorers.
+
+*... A child's grasp of my finger, a dolphin's touch, the trust felt in the nuzzle of a coyote are all such invitations to play. One autumn day I rested on a sun-warmed carpet of sycamore leaves in an enclosure at Wolf Haven. I was enjoying the large yellow leaves as they drifted to the ground, trying to guess which one would let go next. My reverie was soon shattered by Little Guy, a young coyote, pouncing on my chest and nibbling my beard. Suddenly, like the sweeping strokes of master swordsmen, we rotated together entwined in a tight spiral of motion.*
+
+*... When playing with children, wolves, or dolphins, I often have the sensation of being surrounded even when I have only one playmate. They seem to be sinuous Mobius strips, weaving a three-dimensional ying-yang symbol in which there is no up or down, no back or front, no left or right. In these circles movement and stillness are blended. The essence of one is born in the extreme of the other. I seem like a stick figure compared to them. I am relearning with their help that the energy of the universe moves in curves, circles and spirals.*
+
+**Earth Mind** (1989)<br />
+by Paul Devereux, John Steele, and David Kubrin<br />
+Harper and Row
+
+One of the best books yet written that delves into the whole issue of Gaia and its implications. The authors make the ironic case that most societies throughout history were well aware of Gaia; and it is, rather, our own society that is unique for not recognizing it. For that reason, the authors choose to describe the current scientific explanation of Gaia as a recovery from cultural amnesia.
+
+Most of the first half of the text is a history of human relations to the earth which includes an in-depth discussion of the great religions and their teachings about the planet, the life force, and nature. This is also the source of my own understanding of Wakanda, numen, and Jeng shui. There is an especially illuminating account of some of the less well-known works of Sir Isaac Newton, who considered himself primarily an alchemist. 
+The second half of the book focuses more on the subjects for which these authors are known including ley lines, biomagnetism, (including the northern lights), and finally, the earth and certain of its parts as functional organisms.
+
+In general, it is the attitude of the authors which makes this book so interesting. They tend to take things at face value, and avoid making judgements even if the described phenomena don't always fit our standard views of reality.
+
+*... Water also seems responsive to sound. In Bavaria, for example, there is the old tradition of Tons Ingen or tone singing. Towards evening each day in the growing season, the farmers sing ascending notes as they stir a little clay into a bucket of water in an anticlockwise motion and descending notes as they swish the mixture around in a clockwise direction. The buckets are then left overnight in the dark and the contents sprinkled over the crops early next day.*
+
+*... Whales and dolphins are now believed to use 'magnetic stripes' on the ocean floor as navigational aids on their long submarine journeys. The cetacean seems to use areas of high magnetism as geomagnetic 'landmarks', and the long troughs of low geomagnetism, the stripes, as routeways. These mammals have both fine and coarse magnetic materials embedded in their bodies, but researchers feel that their refined magnetic sensitivity may be due to large magnetic particles in the inner ear.*
+
+*... There can be little doubt that of all the methods of producing altered states, dreaming is the most practical and effective. Two types of sites are likely to be most appropriate for this method: magnetic stones at stone circles -or rock outcrops at non-engineered places of power-and ancient sacred wells.*
+
+**Orion Magazine - "People and Nature"**<br />
+Published by the Myrin Institute<br />
+136 E 64th St, New York, NY, 10021
+
+The inside front cover of this very elegant nature journal states well the publisher's credo: *To help us deepen our personal connection with the natural world as a source of enrichment and inner renewal.*
+
+*Orion* is simply the best forum for excellent nature writing in the English-speaking world. Nothing else comes close. The fact that a magazine that pays its contributors so little money is able to accrue and keep such a well-honed literary character says much about its stature among writers. 
+
+Each issue has a theme. Recent themes have included: "Animals of the Heart", T"he Living Soil", "Doing Ecology", "Land Use and Human Values", "Nature in Literature". The magazine is rarely academic-sounding. Almost everything inside is readable, and much of it is downright provocative. Orion is the place to look to encounter a worldview where our own perceptions about the earth may soon mean as much or more to our survival than economics, technology, or politics. The blend of writing, photography, layout, and illustrations makes this a worthwhile read for anyone interested in exploring ideas about our common future.
+
+*... In the earliest human account of this landscape (Belize), the limestone sponge is said to be the flat back of a crocodile resting in lily pads. The people telling the story are made of maize dough after attempts to fashion them in mud, wood, and flesh each failed. Itzamna the lizard god, links heaven to earth; a young man with almond eyes is the perennial god of maize,; frogs and tortoises sing to help the chacs bring rain; the unfaithful moon, Ix Che/, weaves and heals. The people love chocolate, and its beans are money.*
