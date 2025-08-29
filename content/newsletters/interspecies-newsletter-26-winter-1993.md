@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #26"
 date: "Winter 1993"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0026"
 ---
 
 # The Wild Heart

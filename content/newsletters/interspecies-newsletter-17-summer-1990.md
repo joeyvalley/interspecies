@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #17"
 date: "Summer 1990"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0017"
 ---
 
 # What Interspecies Is

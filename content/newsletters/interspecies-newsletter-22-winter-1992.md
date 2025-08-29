@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #22"
 date: "Winter 1992"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0022"
 ---
 
 # One on One

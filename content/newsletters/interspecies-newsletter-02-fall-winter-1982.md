@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #2"
 date: "Fall/Winter 1982"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0002"
 ---
 
 # Contact

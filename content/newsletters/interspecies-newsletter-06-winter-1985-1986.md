@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #6"
 date: "Winter 1985 - 1986"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0006"
 ---
 
 # Editor's Note 

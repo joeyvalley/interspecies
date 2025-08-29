@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #3"
 date: "Fall/Winter 1983"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0003"
 ---
 
 <!-- <div class="newsletter-image">

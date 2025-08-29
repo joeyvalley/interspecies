@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #18"
 date: "Fall 1990"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0018"
 ---
 
 # The Wild Bunch

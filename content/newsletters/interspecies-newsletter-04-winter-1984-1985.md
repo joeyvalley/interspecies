@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #4"
 date: "Winter 1984 - 1985"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-04"
 ---
 
 # Live Music with Killer Whales 

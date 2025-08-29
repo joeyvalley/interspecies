@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #21"
 date: "Summer 1991"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0021"
 ---
 
 # Interspecies Protocol 

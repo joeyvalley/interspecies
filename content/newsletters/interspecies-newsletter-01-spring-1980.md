@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #1"
 date: "Spring 1980"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0001"
 ---
 
 INTERSPECIES COMMUNICATION was formed in 1978 to develop techniques for communication between human and other animals. So far, our methods have been mostly acoustic and musical. We have sponsored "interlocks" with animals as varied as turkeys and kangaroo rats. Much of our current research revolves around the multifunctional aspects of communication with whales and dolphins. We are environmentalists, actively seeking long-term solutions to burgeoning human-animal territorial conflicts through benign research and activist political mediation.

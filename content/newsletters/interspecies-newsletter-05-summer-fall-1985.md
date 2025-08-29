@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #5"
 date: "Summer/Fall 1985"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0005"
 ---
 
 # Contact: 

@@ -1,6 +1,7 @@
 ---
 title: "Newsletter #16"
 date: "Spring 1990"
+pdf: "https://archive.org/details/interspecies-communication-newsletter-0016"
 ---
 
 # For Earthday
