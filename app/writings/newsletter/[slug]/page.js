@@ -38,17 +38,22 @@ export default async function NewsletterPage({ params }) {
   return (
     <div className="container">
       <div className="newsletter-container">
-        <div className="newsletter-page">
-          <div className="newsletter-title">
-            <h2>NEWSLETTER - {data.date}</h2>
-            <h1>INTERSPECIES COMMUNICATION</h1>
+        <div className="newsletter-column pagination-left">&larr;</div>
+        <div className="newsletter-column  newsletter-page">
+          <div className="newsletter-heading">
+            <div className="newsletter-title">
+              <h2>NEWSLETTER - {data.date}</h2>
+              <h1>INTERSPECIES COMMUNICATION</h1>
+            </div>
+            <div className="newsletter-subtitle">
+              <h1>Published quarterly by Interspecies Communication, Inc.</h1>
+              <h2><a href={data.pdf} target="_blank" rel="noopener noreferrer">PDF Version</a></h2>
+            </div>
           </div>
           <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}>
           </div>
-          {/* <div className="newsletter-image">
-            <img className="drawing" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992269/IN0013-6_zfdjxv.png" alt="Interspecies Logo" />
-          </div> */}
         </div>
+        <div className="newsletter-column  pagination-right">&rarr;</div>
       </div>
     </div>
   );
