@@ -9,7 +9,7 @@ import remarkRehype from 'remark-rehype';
 import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
 import NewsletterMenuBar from '@/app/components/NewsletterMenubar';
-import Footer from '@/app/components/Footer';
+import NewsletterFooter from '@/app/components/NewsletterFooter';
 
 export default async function NewsletterPage({ params }) {
   const { slug } = params;
@@ -21,24 +21,30 @@ export default async function NewsletterPage({ params }) {
   );
   const raw = fs.readFileSync(filePath, 'utf8');
 
-  // 1. Parse front-matter
   const { data, content: markdown } = matter(raw);
 
-  // 2. Convert Markdown → HTML, allowing raw HTML through
   const file = await unified()
-    .use(remarkParse)                              // parse Markdown
-    .use(remarkRehype, { allowDangerousHtml: true }) // to HAST, keep HTML
-    .use(rehypeRaw)                                 // parse that HTML
-    .use(rehypeStringify)                           // back to HTML
+    .use(remarkParse)                              
+    .use(remarkRehype, { allowDangerousHtml: true }) 
+    .use(rehypeRaw)                                 
+    .use(rehypeStringify)                           
     .process(markdown);
 
   const contentHtml = String(file);
 
-  // 3. Render
+const newsletterNum = parseInt(data.pdf.slice(-2), 10);
+
   return (
-    <div className="container">
+    <div className="newsletter-page-container">
+      <NewsletterMenuBar />
       <div className="newsletter-container">
-        <div className="newsletter-column pagination-left">&larr;</div>
+        <div className="newsletter-column pagination-left">
+          {newsletterNum > 1 && newsletterNum !== 20 && (
+            <a href={`interspecies-newsletter-${newsletterNum === 21 ? 19 : newsletterNum - 1}`}>
+              &larr;
+            </a>
+          )}
+        </div>
         <div className="newsletter-column  newsletter-page">
           <div className="newsletter-heading">
             <div className="newsletter-title">
@@ -52,9 +58,17 @@ export default async function NewsletterPage({ params }) {
           </div>
           <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}>
           </div>
+
         </div>
-        <div className="newsletter-column  pagination-right">&rarr;</div>
+        <div className="newsletter-column pagination-right">
+          {newsletterNum < 67 && newsletterNum !== 20 && (
+            <a href={`interspecies-newsletter-${newsletterNum === 19 ? 21 : newsletterNum + 1}`}>
+              &rarr;
+            </a>
+          )}
+        </div>
       </div>
+      <NewsletterFooter />
     </div>
   );
 }

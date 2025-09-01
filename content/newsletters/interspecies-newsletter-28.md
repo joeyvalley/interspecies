@@ -4,11 +4,11 @@ date: "Summer 1993"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0028"
 ---
 
-# On Exploring
-
-This newsletter is late. Sorry. I've been editing my third book: Why We Garden-acquiring a sense of place in a transient world to be published next spring by Henry Holt. IC has also been busy although, alas, preparing/or two problematic arctic expeditions. The first was scheduled for early July-to the ice floes off Baffin Island to work with narwhals. But the TV producer who won our commitment never found her funding and the expedition collapsed mere weeks before departure. The second expedition, slated/or mid-august and sponsored by a Dutch foundation, is still Shakey as this news-letter goes to press. But it is quite special, even in concept, and well worth reporting about. If not now, then surely later.
+*This newsletter is late. Sorry. I've been editing my third book: ***Why We Garden: Acquiring a Sense of Place in a Transient World*** to be published next spring by Henry Holt. IC has also been busy although, alas, preparing for two problematic arctic expeditions. The first was scheduled for early July - to the ice floes off Baffin Island to work with narwhals. But the TV producer who won our commitment never found her funding and the expedition collapsed mere weeks before departure. The second expedition, slated/or mid-August and sponsored by a Dutch foundation, is still shaky as this news-letter goes to press. But it is quite special, even in concept, and well worth reporting about. If not now, then surely later.*
 
 *- Jim Nollman*
+
+# On Exploring
 
 Our Arctic expeditions traverse the same polar latitudes encountered by Vitus Bering, Samuel Hearne, and even the ill-fated John Franklin. Our expeditions retain much of the romance that has always attached itself to Arctic travel. Once a trip is set, the volunteers seem to come out of the woodwork; willing to do just about anything for a chance to join us working with whales in the high Arctic.
 
