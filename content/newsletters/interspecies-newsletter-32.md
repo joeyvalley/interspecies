@@ -6,7 +6,7 @@ pdf: "https://archive.org/details/interspecies-communication-newsletter-0032"
 
 # The One That Got Away 
 
-*All we're trying to do with newsletter finances is break even. We're almost there for 1994, so help us achieve our goal, won't you? If your membership has lapsed, please make it current. If you appreciate this little quarterly, and "JOU receive it free-for any reason -why not send in a membership. If you don't want to send in a full $25 - for any reason-send in something less. But send in something. Thanks in advance.* 
+*All we're trying to do with newsletter finances is break even. We're almost there for 1994, so help us achieve our goal, won't you? If your membership has lapsed, please make it current. If you appreciate this little quarterly, and YOU receive it free - for any reason - why not send in a membership. If you don't want to send in a full $25 - for any reason-send in something less. But send in something. Thanks in advance.* 
 
 *- The Editor*
 
