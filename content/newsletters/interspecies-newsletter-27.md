@@ -2,6 +2,7 @@
 title: "Newsletter #27"
 date: "Spring 1993"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0027"
+link: "https://ia801006.us.archive.org/4/items/interspecies-communication-newsletter-0027/IN0026.pdf"
 ---
 
 # The Swan Song

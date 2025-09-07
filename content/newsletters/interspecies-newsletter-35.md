@@ -2,6 +2,7 @@
 title: "Newsletter #35"
 date: "Summer 1995"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0035"
+link: "https://dn721700.ca.archive.org/0/items/interspecies-communication-newsletter-0035_202508/IN0034.pdf"
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Newsletter #15"
 date: "Winter 1990"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0015"
+link: "https://ia800904.us.archive.org/0/items/interspecies-communication-newsletter-0015/IN0014.pdf"
 ---
 
 # A Winter's Tale 

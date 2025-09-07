@@ -2,6 +2,7 @@
 title: "Newsletter #31"
 date: "Spring 1994"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0031"
+link: "https://ia601600.us.archive.org/12/items/interspecies-communication-newsletter-0031/IN0030.pdf"
 ---
 
 # Sentient Garden 

@@ -2,6 +2,7 @@
 title: "Newsletter #55"
 date: "Spring 2002"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0055"
+link: "https://ia800905.us.archive.org/19/items/interspecies-communication-newsletter-0055/IN0054.pdf"
 ---
 
 # Getting the Word Out

@@ -2,6 +2,7 @@
 title: "Newsletter #23"
 date: "Spring 1992"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0023"
+link: "https://ia801001.us.archive.org/35/items/interspecies-communication-newsletter-0023/IN0022.pdf"
 ---
 
 # The Dolphin Conference

@@ -2,6 +2,7 @@
 title: "Newsletter #25"
 date: "Fall 1992"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0025"
+link: "https://ia600909.us.archive.org/34/items/interspecies-communication-newsletter-0025/IN0024.pdf"
 ---
 
 # Incident at Boat Bay: Jim's Story

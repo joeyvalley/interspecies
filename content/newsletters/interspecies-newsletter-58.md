@@ -2,6 +2,7 @@
 title: "Newsletter #58"
 date: "Winter 2003"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0058"
+link: "https://dn721502.ca.archive.org/0/items/interspecies-communication-newsletter-0058/IN0057.pdf"
 ---
 
 *As the last newsletter spelled out, Interspecies navigates by a different map than mainstream whale biology. Our oceanic research integrates the skills of a holistic community that includes biologists, but also musicians, acousticians, anthropologists, activists, poets, healers, in fact, anyone offering a sublime idea, no matter how far it wanders from mainstream pre-conceptions of what an animal is or ought to be.*

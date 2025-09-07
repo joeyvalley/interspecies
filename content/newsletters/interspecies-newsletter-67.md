@@ -2,6 +2,7 @@
 title: "Newsletter #67"
 date: "Spring 2005"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0067"
+link: "https://ia801003.us.archive.org/9/items/interspecies-communication-newsletter-0067/IN0066.pdf"
 ---
 
 # Our Last Newsletter 
@@ -219,7 +220,7 @@ Why not ask for more money from EXPO rather than whine about it in this newspape
 
 After 30 years being in reception of checks arriving to keep me alert all day long. I remain unwilling to give it up. Here how it works.
 
-Later today, as I do every day, I will ride my red bicycle a quarter mile down a gravel path to Interspecies' big blue mailbox out on the main road. I will open the little door marked #301 with drippy yellow paint, and peek in ide, looking for a check, something out of the blue, completely unexpected, a wonderful surprise, received from some unknown stranger who somehow realizes that his contribution, a small sliver of his own bulky wealth, will be immeasurably appreciated to keep Interspecies percolating.
+Later today, as I do every day, I will ride my red bicycle a quarter mile down a gravel path to Interspecies' big blue mailbox out on the main road. I will open the little door marked #301 with drippy yellow paint, and peek inside, looking for a check, something out of the blue, completely unexpected, a wonderful surprise, received from some unknown stranger who somehow realizes that his contribution, a small sliver of his own bulky wealth, will be immeasurably appreciated to keep Interspecies percolating.
 
 That story should tell you better than anything else, just how tenacious I remain to keep hold of this improbable interspecies dream.
 

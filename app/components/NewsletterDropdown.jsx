@@ -39,7 +39,7 @@ export default function NewsletterDropdown() {
         </option>
         {posts.map(({ slug, date, title }) => (
           <option key={slug} value={slug}>
-            {date}
+            {title} ({date})
           </option>
         ))}
       </select>

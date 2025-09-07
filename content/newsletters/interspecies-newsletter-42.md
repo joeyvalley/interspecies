@@ -2,6 +2,7 @@
 title: "Newsletter #42"
 date: "Spring 1998"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0042"
+link: "https://dn721508.ca.archive.org/0/items/interspecies-communication-newsletter-0042/IN0041.pdf"
 ---
 
 *This issue is dedicated to cetacean taxonomy and ethology, although this focus has been strained through the usual IC filter of myth and iconology. I present this roll call of species and behaviors in the sincere hope of granting you, our readers, a reality check to balance all the curious claims and fervid desires that so often spring up along the charged border where human nature meets whales and dolphins. In a different form, this essay appear in my next book, also called "The Charged Border: Where Human Nature Meets Whales and Dolphins", to be published next winter by Henry Holt.*

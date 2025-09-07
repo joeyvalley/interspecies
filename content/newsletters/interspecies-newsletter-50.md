@@ -2,6 +2,7 @@
 title: "Newsletter #50"
 date: "Fall 2000"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0050"
+link: "https://dn721603.ca.archive.org/0/items/interspecies-communication-newsletter-0050/IN0049.pdf"
 ---
 
 *IC's June-July expedition to Russia involved more preparation than originally anticipated, and by the time the logistics were sorted out, it was simply too late to write, print, and mail the summer issue of the Interspecies Newsletter. It's the first time in over 20 years I've missed an issue and apologize for the lapse. Hopefully my omission is compensated by reading this account of our expedition.*

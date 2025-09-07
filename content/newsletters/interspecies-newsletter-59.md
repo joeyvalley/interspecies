@@ -2,6 +2,7 @@
 title: "Newsletter #59"
 date: "Spring 2003"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0059"
+link: "https://ia800905.us.archive.org/18/items/interspecies-communication-newsletter-0059/IN0058.pdf"
 ---
 
 *Interspecies' director Jim Nollman has been on and off the road since September, showing a PowerPoint presentation entitled: "How Whales are Transforming our Idea of Animals". Recent venues hat1e included the Denver Science Museum, Naropa University, a few conferences, and symposia. If you'd like to hat1e nim present in your neighborhood, email Interspecies. In March, he gave a special et1ening presentation at the European Cetacean-Society's annual conference, speaking to one of the world's largest gatherings of whale biologists.* 

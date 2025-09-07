@@ -2,6 +2,7 @@
 title: "Newsletter #63"
 date: "Spring 2004"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0063"
+link: "https://ia801209.us.archive.org/4/items/interspecies-communication-newsletter-0063/IN0062.pdf"
 ---
 
 *I met the Norwegian cognitive scientist Preben Wik at The European Cetacean Society's 2003 coreference held in the Canary Islands. Despite the event's stated theme of cetacean acoustics, not one talk confronted the conscious depths of whale communication. No one mentioned lan9ua9e. Preben's paper, entitled Building Bridges: A Cognitive Science Approach to a Human Dolphin Dialog Protocol, was the lone exception, a clear statement. about the use of digital technology and linguistics to bridge the interface barrier between humans and dolphins. Unfortunately, the judges made the rather political decision to keep his paper off the podium, relegating it instead to the poster section of the coreference. You can read the paper for yourself at: <a href="http://bridges.prebenwik.com" target="_blank">http://bridges.prebenwik.com</a>.*

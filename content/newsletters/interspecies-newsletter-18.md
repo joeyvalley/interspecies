@@ -2,6 +2,7 @@
 title: "Newsletter #18"
 date: "Fall 1990"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0018"
+link: "https://ia800902.us.archive.org/22/items/interspecies-communication-newsletter-0018/IN0017.pdf"
 ---
 
 # The Wild Bunch

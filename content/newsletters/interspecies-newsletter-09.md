@@ -2,6 +2,7 @@
 title: "Newsletter #9"
 date: "Spring 1988"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0009"
+link: "https://dn721605.ca.archive.org/0/items/interspecies-communication-newsletter-0009/IN0008.pdf"
 ---
 
 # Yellowjacket Saints 

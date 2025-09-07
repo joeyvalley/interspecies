@@ -2,6 +2,7 @@
 title: "Newsletter #61"
 date: "Fall 2003"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0061"
+link: "https://ia600908.us.archive.org/5/items/interspecies-communication-newsletter-0061/IN0060.pdf"
 ---
 
 # Wading Through: A Letter to Our Supporters

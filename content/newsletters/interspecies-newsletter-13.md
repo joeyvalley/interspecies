@@ -2,6 +2,7 @@
 title: "Newsletter #13"
 date: "Summer 1989"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0013"
+link: "https://ia601603.us.archive.org/4/items/interspecies-communication-newsletter-0013/IN0012.pdf"
 ---
 
 # Dreaming about Ant Communication 

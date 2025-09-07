@@ -11,6 +11,7 @@ import rehypeStringify from 'rehype-stringify';
 import NewsletterMenuBar from '@/app/components/NewsletterMenubar';
 import NewsletterFooter from '@/app/components/NewsletterFooter';
 
+
 export default async function NewsletterPage({ params }) {
   const { slug } = params;
   const filePath = path.join(
@@ -38,7 +39,8 @@ const newsletterNum = parseInt(data.pdf.slice(-2), 10);
     <div className="newsletter-page-container">
       <NewsletterMenuBar />
       <div className="newsletter-container">
-        <div className="newsletter-column pagination-left">
+               <embed src={data.link} type="application/pdf" width="100%" height="100%" border="none" />
+        {/* <div className="newsletter-column pagination-left">
           {newsletterNum > 1 && newsletterNum !== 20 && (
             <a href={`interspecies-newsletter-${newsletterNum === 21 ? 19 : newsletterNum - 1}`}>
               &larr;
@@ -58,7 +60,6 @@ const newsletterNum = parseInt(data.pdf.slice(-2), 10);
           </div>
           <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}>
           </div>
-
         </div>
         <div className="newsletter-column pagination-right">
           {newsletterNum < 67 && newsletterNum !== 20 && (
@@ -66,7 +67,7 @@ const newsletterNum = parseInt(data.pdf.slice(-2), 10);
               &rarr;
             </a>
           )}
-        </div>
+        </div> */}
       </div>
       <NewsletterFooter />
     </div>

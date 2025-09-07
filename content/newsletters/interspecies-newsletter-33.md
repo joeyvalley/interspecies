@@ -2,6 +2,7 @@
 title: "Newsletter #33"
 date: "Winter 1995"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0033"
+link: "https://dn721505.ca.archive.org/0/items/interspecies-communication-newsletter-0035/IN0032.pdf"
 ---
 
 # Who Communicates

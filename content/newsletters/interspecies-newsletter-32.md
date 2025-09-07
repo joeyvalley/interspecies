@@ -2,6 +2,7 @@
 title: "Newsletter #32"
 date: "Fall 1994"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0032"
+link: "https://ia902909.us.archive.org/28/items/interspecies-communication-newsletter-0032/IN0031.pdf"
 ---
 
 # The One That Got Away 

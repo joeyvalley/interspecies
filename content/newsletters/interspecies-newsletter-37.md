@@ -2,6 +2,7 @@
 title: "Newsletter #37"
 date: "Summer 1996"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0037"
+link: "https://dn720709.ca.archive.org/0/items/interspecies-communication-newsletter-0037/IN0036.pdf"
 ---
 
 # The Lesson

@@ -2,6 +2,7 @@
 title: "Newsletter #62"
 date: "Winter 2004"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0062"
+link: "https://ia801003.us.archive.org/1/items/interspecies-communication-newsletter-0062/IN0061.pdf"
 ---
 
 *I wish to express my gratitude to all the people who have responded with funds to assure Interspecies another year of existence. One donor has pledged $2000 as matching grant. For more information about how you can help us meet this challenge, and to find other interspecies news, please take a look at page 6.*

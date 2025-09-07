@@ -2,6 +2,7 @@
 title: "Newsletter #19"
 date: "Winter 1991"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0019"
+link: "https://ia600906.us.archive.org/23/items/interspecies-communication-newsletter-0019/IN0018.pdf"
 ---
 
 # Making Media & Not Making Media

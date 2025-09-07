@@ -2,6 +2,7 @@
 title: "Newsletter #34"
 date: "Spring 1995"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0034"
+link: "https://dn720707.ca.archive.org/0/items/interspecies-communication-newsletter-0034/IN0033.pdf"
 --- 
 
 # The Sperm Whale Project: Holosonics

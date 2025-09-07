@@ -2,6 +2,7 @@
 title: "Newsletter #64"
 date: "Summer 2004"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0064"
+link: "https://dn721602.ca.archive.org/0/items/interspecies-communication-newsletter-0064/IN0063.pdf"
 ---
 
 *Over the past few years, the Interspecies website (<a href="/">interspecies.com</a>) has germinated a vibrant international network of whale aficionados, scientists, environmentalists, and artists, discussing such varied subjects as whale behavior, interspecies communication, earth art, visionary eco-politics, and the genuine promise of animal language. Please check out our site again, since it has recently been overhauled to include audio of whale calls. It also includes this newsletter in .pdf format for easy downloading and printing. Something is working, since we seem to be getting lots of traffic on the site every day.*

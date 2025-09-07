@@ -2,6 +2,7 @@
 title: "Newsletter #56"
 date: "Summer 2002"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0056"
+link: "https://ia802909.us.archive.org/19/items/interspecies-communication-newsletter-0056/IN0055.pdf"
 ---
 
 

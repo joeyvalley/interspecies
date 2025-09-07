@@ -2,6 +2,7 @@
 title: "Newsletter #40"
 date: "Fall 1997"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0040"
+link: "https://dn721704.ca.archive.org/0/items/interspecies-communication-newsletter-0040/IN0039.pdf"
 ---
 
 # The Pseudorca Book of the Dead 

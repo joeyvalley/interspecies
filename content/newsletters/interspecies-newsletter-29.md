@@ -2,6 +2,7 @@
 title: "Newsletter #29"
 date: "Fall 1993"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0029"
+link: "https://ia601003.us.archive.org/32/items/interspecies-communication-newsletter-0029/IN0028.pdf"
 ---
 
 # Resurgence

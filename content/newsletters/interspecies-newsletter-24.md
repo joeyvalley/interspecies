@@ -2,6 +2,7 @@
 title: "Newsletter #24"
 date: "Summer 1992"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0024"
+link: "https://ia601000.us.archive.org/30/items/interspecies-communication-newsletter-0024/IN0023.pdf"
 ---
 
 # The Orca Project

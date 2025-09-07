@@ -2,6 +2,7 @@
 title: "Newsletter #14"
 date: "Fall 1989"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0014"
+link: "https://ia801600.us.archive.org/9/items/interspecies-communication-newsletter-0014/IN0013.pdf"
 ---
 
 # When Whales Vanish

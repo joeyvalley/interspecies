@@ -2,6 +2,7 @@
 title: "Newsletter #53"
 date: "Fall 2001"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0053"
+link: "https://ia601004.us.archive.org/23/items/interspecies-communication-newsletter-0053/IN0052.pdf"
 ---
 
 # Beluga Project Update 

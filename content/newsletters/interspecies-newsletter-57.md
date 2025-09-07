@@ -2,6 +2,7 @@
 title: "Newsletter #57"
 date: "Fall 2002"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0057"
+link: "https://ia803208.us.archive.org/16/items/interspecies-communication-newsletter-0057/IN0056.pdf"
 ---
 
 *To significantly lower printing costs, I've decided that the ideas are the thing, and probably no one cares a whit if I print the front page using only black ink.*

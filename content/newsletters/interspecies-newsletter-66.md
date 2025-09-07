@@ -2,6 +2,7 @@
 title: "Newsletter #66"
 date: "Winter 2005"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0066"
+link: "https://ia800206.us.archive.org/19/items/interspecies-communication-newsletter-0066/IN0065.pdf"
 ---
 
 # Greetings

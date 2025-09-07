@@ -2,6 +2,7 @@
 title: "Newsletter #46"
 date: "Spring 1999"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0046"
+link: "https://dn721606.ca.archive.org/0/items/interspecies-communication-newsletter-0046/IN0045.pdf"
 ---
 
 *Everyone gets sideswiped by experiences that defy mainstream conceptions of how the world works. Once, years ago, I turned obsessive towards my garden and ended up devoting an entire newsletter issue to the fine art of conversing with cabbages and plum trees. This issue is not quite so wild and crazy, although it develops from the same nonlinear nexus of passion, innocence, and synchronicity The result is a three-part stream of consciousness essay constructed as a connect-the dots-anyway-you-wish. As John Lennon sang, "let your mind float downstream."*

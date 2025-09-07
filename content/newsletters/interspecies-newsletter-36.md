@@ -2,6 +2,7 @@
 title: "Newsletter #36"
 date: "Winter 1996"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0036"
+link: "https://dn721601.ca.archive.org/0/items/interspecies-communication-newsletter-0036/IN0035.pdf"
 ---
 
 *This piece appeared in the newsletter several years ago although in a much-simplified form. It will show up in my next book, "Not Talk­ing to Beluga", about an IC expedition to the Arctic in 1988, to be published late next year by Henry Holt. The action unfolds on the estuary of the MacKenzie River along the coast of Northern Canada. It represents one of the two or three most powerful interspecies meetings of my life.*

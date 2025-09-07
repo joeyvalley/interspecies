@@ -2,6 +2,7 @@
 title: "Newsletter #43"
 date: "Summer 1998"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0043"
+link: "https://ia801005.us.archive.org/5/items/interspecies-communication-newsletter-0043/IN0042.pdf"
 ---
 
 *Readers responded warmly to the last newsletter's account of whale and dolphin taxonomy. A few asked me to print more excerpts from my next book, "The Charged Border, Where Human Nature Meets Whales and Dolphins", which Henry Holt will publish next spring. Sure, why not? Here's part of another chapter that focuses on the horror of whaling, and how it fomented The Save the Whales Movement which, itself, evolved into the Environmental Movement.*

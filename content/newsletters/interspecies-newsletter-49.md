@@ -2,6 +2,7 @@
 title: "Newsletter #49"
 date: "Spring 2000"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0049"
+link: "https://ia800907.us.archive.org/6/items/interspecies-communication-newsletter-0049/IN0048.pdf"
 ---
 
 # Communing with Orca 

@@ -2,6 +2,7 @@
 title: "Newsletter #65"
 date: "Fall 2004"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0065"
+link: "https://ia601001.us.archive.org/11/items/interspecies-communication-newsletter-0065/IN0064.pdf"
 ---
 
 # Interspecies News 

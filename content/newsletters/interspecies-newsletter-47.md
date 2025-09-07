@@ -2,6 +2,7 @@
 title: "Newsletter #47"
 date: "Spring 1999"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0047"
+link: "https://ia601005.us.archive.org/21/items/interspecies-communication-newsletter-0047/IN0046.pdf"
 ---
 
 *My new book, "The Charged Border: Where Whales and Humans Meet", will be released next month by Henry Holt to positive pre-publication reviews. The story attempts to make sense of the unique bond that attracts human beings to cetaceans. Individual chapters focus on the work and perceptions of field biologists, environmentalists, whalers, artists, and the media. This excerpt is taken from a chapter about mystics and the growing phenomenon of dolphin, swims.*

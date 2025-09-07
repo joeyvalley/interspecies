@@ -2,6 +2,7 @@
 title: "Newsletter #48"
 date: "Winter 2000"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0048"
+link: "https://ia803203.us.archive.org/15/items/interspecies-communication-newsletter-0048/IN0047.pdf"
 ---
 
 # A Small Death

@@ -2,6 +2,7 @@
 title: "Newsletter #41"
 date: "Winter 1998"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0041"
+link: "https://dn721503.ca.archive.org/0/items/interspecies-communication-newsletter-0041/IN0040.pdf"
 ---
 
 # Swimming to Utopia

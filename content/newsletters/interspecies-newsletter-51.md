@@ -2,6 +2,7 @@
 title: "Newsletter #51"
 date: "Winter 2001"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0051"
+link: "https://ia801600.us.archive.org/9/items/interspecies-communication-newsletter-0051/IN0050.pdf"
 ---
 
 # Bear Ethics Fly Aesthetics

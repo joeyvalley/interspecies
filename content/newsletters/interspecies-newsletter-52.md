@@ -2,6 +2,7 @@
 title: "Newsletter #52"
 date: "Summer 2001"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0052"
+link: "https://dn721604.ca.archive.org/0/items/interspecies-communication-newsletter-0052/IN0051.pdf"
 ---
 
 # The Orca Workshop 

@@ -2,6 +2,7 @@
 title: "Newsletter #7"
 date: "Spring - Summer 1986"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0007"
+link: "https://dn720702.ca.archive.org/0/items/interspecies-communication-newsletter-0007_202508/IN0006.pdf"
 ---
 
 # Human/Dolphin Community 

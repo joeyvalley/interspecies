@@ -2,6 +2,7 @@
 title: "Newsletter #44"
 date: "Fall 1998"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0044"
+link: "https://dn721607.ca.archive.org/0/items/interspecies-communication-newsletter-0044/IN0043.pdf"
 ---
 
 # Zero Circles by Daniel Dancer

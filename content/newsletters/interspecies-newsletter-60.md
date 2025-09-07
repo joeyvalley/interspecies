@@ -2,6 +2,7 @@
 title: "Newsletter #60"
 date: "Summer 2003"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0060"
+link: "https://dn721605.ca.archive.org/0/items/interspecies-communication-newsletter-0060/IN0059.pdf"
 ---
 
 *Summer is Interspecies' busy season. I have just returned from a two-week trip to Berlin, headlining an event at a grand theater with a 100-foot-tall roof in the shape of a lotus flower. The show was produced to draw attention to the annual meeting of the International Whaling Commission which was occurring in Berlin at that moment. Five presentations focused on US Navy and NATO's sonar technologies that are killing whales and dolphins in all the world's oceans at an alarming rate. After the speakers finished presenting gruesome facts, I gave a brief 20 minute presentation about the communication research of interspecies.com. I then retreated to an adjoining theater, actually the world's only underwater performance venue, to do a two-hour performance to IWC delegates, activist" and whale lovers. My music was your basic techno trance loops, (ask a teenager to explain it) composed of 100% underwater creature audio samples, not only whale songs and dolphin whistles, but fish croaks, shrimp clicks, lobster bloops, and seal spirals.*

@@ -2,6 +2,7 @@
 title: "Newsletter #39"
 date: "Summer 1997"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0039"
+link: "https://ia601604.us.archive.org/8/items/interspecies-communication-newsletter-0039/IN0038.pdf"
 ---
 
 # The IC Business Plan

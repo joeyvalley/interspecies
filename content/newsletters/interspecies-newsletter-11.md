@@ -2,6 +2,7 @@
 title: "Newsletter #11"
 date: "Fall 1988"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0011"
+link: "https://dn721700.ca.archive.org/0/items/interspecies-communication-newsletter-0011/IN0010.pdf"
 ---
 
 # What the Birds Sing 

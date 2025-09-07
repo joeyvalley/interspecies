@@ -2,6 +2,7 @@
 title: "Newsletter #8"
 date: "Summer 1987"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0008"
+link: "https://ia801002.us.archive.org/19/items/interspecies-communication-newsletter-0008_202508/IN0007.pdf"
 ---
 
 # The Beluga Peace Project First Phase: Concept and Intention 

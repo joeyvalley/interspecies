@@ -2,6 +2,7 @@
 title: "Newsletter #54"
 date: "Winter 2002"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0054"
+link: "https://ia601002.us.archive.org/33/items/interspecies-communication-newsletter-0054/IN0053.pdf"
 ---
 
 *This newsletter is inspired by my recent attendance of the 14th Biennial Conference on the biology of Marine Mammals held in late November in Vancouver BC. I spent three full days sitting in an exhibitor's booth peddling books and CDs, handing out copies of this Newsletter, and meeting many other biologists and activists around the world who marvel at the mystery of cetacean intellect. What follows is an overview of current communication research with cetaceans. Take your time reading. It's worth it.*

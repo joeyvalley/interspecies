@@ -2,6 +2,7 @@
 title: "Newsletter #12"
 date: "Winter 1989"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0012"
+link: "https://ia801701.us.archive.org/31/items/interspecies-communication-newsletter-0012/IN0011.pdf"
 ---
 
 # When Nature is Larger than Life

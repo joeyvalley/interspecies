@@ -2,6 +2,7 @@
 title: "Newsletter #10"
 date: "Summer 1988"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0010"
+link: "https://dn720707.ca.archive.org/0/items/interspecies-communication-newsletter-0010/IN0009.pdf"
 ---
 
 # The Human/Dolphin Connection 

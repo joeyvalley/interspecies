@@ -2,6 +2,7 @@
 title: "Newsletter #38"
 date: "Spring 1997"
 pdf: "https://archive.org/details/interspecies-communication-newsletter-0038"
+link: "https://dn721605.ca.archive.org/0/items/interspecies-communication-newsletter-0038/IN0037.pdf"
 ---
 
 # The Sun Interview
