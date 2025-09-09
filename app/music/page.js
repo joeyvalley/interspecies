@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import MenuBar from '../components/MenuBar.jsx';
-import NewsletterDropdown from '../components/NewsletterDropdown.jsx';
 import Footer from '../components/Footer.jsx';
 
 export default function Music() {
@@ -12,10 +11,25 @@ export default function Music() {
       {/* MENU BAR */}
       <MenuBar />
       <div className="page">
-        <div className="page-header">
-          <h1>Music</h1>
-          <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+        <section className="hero-text">
+          <p>
+            Interspecies musical output includes techno, field recordings, collaborations with turkeys, wolves, and tropical birds, underwater music, old time mandolin, and songs.
+          </p>
+        </section>
+        <section className='section-block'>
+        <div className="section-header">
+          <h2>Philosophy</h2>
         </div>
+          <p className="section-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </section>
+        <section className='section-block-last'>
+        <div className="section-header">
+          <h2>Discography</h2>
+        </div>
+          <p className="section-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+        </section>
       </div>
       {/* FOOTER  */}
       <Footer />
