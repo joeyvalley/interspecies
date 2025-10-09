@@ -289,6 +289,26 @@ body {
   font-style: italic;
 }
 
+.page-section-description {
+  font-size: 1.25rem;
+  font-family: 'Slab-Mono-Light';
+  color: #010101;
+  line-height: 1.75rem;
+  text-align: left;
+  padding: 0.5rem 2rem 2.5rem 2rem;
+}
+
+.page-section-description a{
+  color: blue;
+  text-decoration: none;
+  transition: color .25s ease-in-out
+}
+.page-section-description a:hover{
+  text-decoration: underline;
+}
+
+
+
 .section-image{
   inset: 0;
   width: 100%;
@@ -949,6 +969,13 @@ width: 100%;
 }
 .section-description {
   font-size: 1rem;
+  font-family: 'Slab-Mono-Light';
+  color: #010101;
+  text-align: left;
+  padding: 0.5rem 0.75rem 2rem 0.75rem;
+}
+.page-section-description {
+    ont-size: 1rem;
   font-family: 'Slab-Mono-Light';
   color: #010101;
   text-align: left;
