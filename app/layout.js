@@ -1,28 +1,20 @@
-import { Geist, Geist_Mono } from "next/font/google";
+// app/layout.js
 import "./globals.css";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Providers from "./providers";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-export const metadata = {
-  title: "Interspecies Communication",
-  icons: {
-    icon: '/assets/favicon.png', 
-  }
-};
+export const metadata = { title: "Interspecies" };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        {children}
+      <body className="min-h-screen grid grid-rows-[auto_1fr_auto]">
+        <Header />
+        <main className="container">
+          <Providers>{children}</Providers>
+        </main>
+        <Footer />
       </body>
     </html>
   );

@@ -1,15 +1,11 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import MenuBar from '../components/MenuBar.jsx';
-import Footer from '../components/Footer.jsx';
 
 export default function Music() {
   
   return (
     <div className="container">
-      {/* MENU BAR */}
-      <MenuBar />
       <div className="page">
         <section className="hero-text">
           <p>
@@ -31,8 +27,6 @@ export default function Music() {
           </p>
         </section>
       </div>
-      {/* FOOTER  */}
-      <Footer />
     </div>
   );
 }

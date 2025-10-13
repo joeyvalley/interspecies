@@ -1,16 +1,11 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import MenuBar from '../components/MenuBar.jsx';
-import Footer from '../components/Footer.jsx';
-import SupportDropdown from '../components/SupportDropdown.jsx';
 
 export default function Contact() {
   
   return (
     <div className="container">
-      {/* MENU BAR */}
-      <MenuBar />
       <div className="page">
         <section className='section-block-last'>
         <div className="section-header">
@@ -21,8 +16,6 @@ export default function Contact() {
             </p>
         </section>
       </div>
-      {/* FOOTER  */}
-      <Footer />
     </div>
   );
 }

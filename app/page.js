@@ -12,8 +12,6 @@ export default function Home() {
   
   return (
     <div className="container">
-      {/* MENU BAR */}
-      <MenuBar />
       {/* POEM TICKER */}
       <section className="ticker">
         <div className="ticker__inner">
@@ -80,8 +78,6 @@ export default function Home() {
           <Newsletter />
         </section>
     </section>
-      {/* FOOTER  */}
-      <Footer />
     </div>
   );
 }

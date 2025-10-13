@@ -1,45 +1,72 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import MenuBar from '../components/MenuBar.jsx';
-import Footer from '../components/Footer.jsx';
+import Footnote from '../components/Footnote.jsx';
+import footnotes from "./footnotes.json"
 
 export default function History() {
+
+  const [isOpen,setIsOpen] = useState(false);
+  const [activeFootnote, setActiveFootnote] = useState("")
+
+  function footnoteClick(title){
+    setIsOpen(false);
+    const match = footnotes.find((f) => f.title === title);
+    if (match) setActiveFootnote(match);
+    setIsOpen(true);
+  }
+
+  const handleClose = () => {
+    setIsOpen(false);
+    setActiveFootnote(null);
+  };
   
   return (
+    <>
     <div className="container">
-      {/* MENU BAR */}
-      <MenuBar />
       <div className="page">
-        {/* <section className="hero-text">
+        <section className="hero-text">
           <p>
-            Interspecies was a nonprofit organization active from 1979 - 2014, founded by writer and composer Jim Nollman. Interspecies work focused on developing wilderness programs for working artists to co-create an aesthetic based on communicating with animals and habitat.
+            Interspecies was a nonprofit organization active from 1979-2005, founded by writer and composer Jim Nollman. Interspecies work focused on developing wilderness programs for working artists to co-create an aesthetic based on communicating with animals and habitat.
           </p>
-        </section> */}
-        <section className='section-block-last'>
+        </section>
+        <section className='section-block'>
         <div className="section-header">
           <h2>History</h2>
         </div>
           <p className="page-section-description">
-            Interspecies was founded and led by conceptual artist and environmentalist <a href="https://en.wikipedia.org/wiki/Jim_Nollman" target="_blank">Jim Nollman</a>. Born in Boston, Massachusetts in 1947, Nollman received an undergraduate degree in English Literature from Tufts University, where he also composed <a href="https://www.britannica.com/art/incidental-music" target="_blank">incidental music</a> for theater. After relocating to the San Francisco Bay Area in 1970, Nollman became involved with the <a href="https://en.wikipedia.org/wiki/John_Cage" target="_blank">post-Cage</a> avant-garde music scene, producing experimental radio pieces for the legendary <a href="https://kpfa.org/" target="_blank">KPFA station</a> in Berkeley, California. These pieces would become his first experiments with interspecies collaboration, famously including an acapella rendition of the folk song <a href="https://www.youtube.com/watch?v=EhgPXkWUO-s" target="_blank">“Frog Went a Courtin’”</a> accompanied by <a href="https://www.youtube.com/watch?v=GnrcRS-ljZ8" target="_blank">300 turkeys</a>, as well as pieces featuring kangaroo rats in Death Valley, California and wolves in Reno, Nevada.
+            Interspecies was founded and led by conceptual artist and environmentalist <span className="footnote" onClick={()=>footnoteClick("Jim Nollman")}>Jim Nollman</span>. Born in Boston, Massachusetts in 1947, Nollman received an undergraduate degree in English Literature from Tufts University, where he also composed <span className="footnote" onClick={()=>footnoteClick("incidental music")}>incidental music</span> for theater. After relocating to the San Francisco Bay Area in 1970, Nollman became involved with the <span className="footnote" onClick={()=>footnoteClick("post-Cage")}>post-Cage</span> avant-garde, producing experimental radio pieces for the legendary <span className="footnote" onClick={()=>footnoteClick("KPFA")}>KPFA station</span> in Berkeley, California. These pieces would become his first experiments with interspecies collaboration, famously including an acapella rendition of the folk song <span className="footnote" onClick={()=>footnoteClick("Frog Went a Courtin'")}>“Frog Went a Courtin’”</span> accompanied by <span className="footnote" onClick={()=>footnoteClick("Jim Nollman - Froggie Went a Courtin'")}>300 turkeys</span>, as well as pieces featuring <span className="footnote" onClick={()=>footnoteClick("Kangaroo Rats")}>kangaroo rats</span> in Death Valley, California and wolves in Reno, Nevada.
           </p>
           {/* <img className="section-image" src="https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992066/jim-boat_erxyp6.jpg" /> */}
           <p className="page-section-description">
-             By 1975, Nollman was living in Bolinas, California where he received a grant from the newly-founded <a href="https://www.projectjonah.org.nz/" target="_blank">Project Jonah</a> to build a buoyant percussive instrument to be used to sonically attract dolphins in the wild. It is here in Bolinas as well that Nollman begins his career as an author, penning articles for the <a href="https://en.wikipedia.org/wiki/CoEvolution_Quarterly" target="_blank">Co-Evolution Quarterly</a> (a subsidiary journal of the <a href="https://en.wikipedia.org/wiki/Whole_Earth_Catalog" target="_blank">Whole Earth Catalog</a>) documenting his experiences of playing music with animals. Through this work, Nollman develops a reputation for his interspecies endeavors and in 1977 is invited by a fledgling <a href="https://en.wikipedia.org/wiki/Greenpeace" target="_blank">Greenpeace</a> to participate in a project combatting the brutal <a href="https://en.wikipedia.org/wiki/Dolphin_drive_hunting" target="_blank">dolphin drive fishing practices</a> on Iki Island, Japan – a practice later made famous by the 2009 documentary The Cove. During his time in Japan, Nollman developed early prototypes for electronic music systems designed to protect the dolphins from local fisherman by repelling them with audio signals.
+             By 1975, Nollman was living in Bolinas, California where he received a grant from the newly-founded <span className="footnote" onClick={()=>footnoteClick("Project Jonah")}>Project Jonah</span> to build a buoyant percussive instrument to be used to sonically attract dolphins in the wild. It is here in Bolinas as well that Nollman begins his career as an author, penning articles for the <span className="footnote" onClick={()=>footnoteClick("Co-Evolution Quarterly")}>Co-Evolution Quarterly</span> (a subsidiary journal of the <span className="footnote" onClick={()=>footnoteClick("Whole Earth Catalog")}>Whole Earth Catalog</span>) documenting his experiences of playing music with animals. Through this work, Nollman develops a reputation for his interspecies endeavors and in 1977 is invited by a fledgling <span className="footnote" onClick={()=>footnoteClick("Greenpeace")}>Greenpeace</span> to participate in a project combatting the brutal <span className="footnote" onClick={()=>footnoteClick("Iki Island Protest")}>dolphin drive fishing practices</span> on Iki Island, Japan – a practice later made famous by the 2009 documentary The Cove. During his time in Japan, Nollman developed <span className="footnote" onClick={()=>footnoteClick("Dolphin Audio Deterrent")}>early prototypes</span> for electronic music systems designed to protect the dolphins from local fisherman creating acoustic "fences" around fishing boats.
           </p>
           <p className="page-section-description">
-            Interspecies Communication, Inc. was incorporated as a 501(c)(3) non-profit organization in late 1979 as means to formalize this work and develop community around a shared artistic vision of communicating with animals. The <a href="writings/newsletter/interspecies-newsletter-01">first issue</a> of the Interspecies’ Newsletter - a physical missive sent out to all Interspecies Communication members and donors - was written and published by member Susanna Scanlon in early 1980, documenting Nollman’s eco-protest and technological work at Iki Island. Newsletters were issued intermittently for several years, becoming a <a href="">quarterly publication</a> from 1983-1987 under the editorial leadership of Sandra Wilson, and from 1988-2005 with Nollman as editor and printing provided by Marshall Davis. 
+            Interspecies Communication, Inc. was incorporated as a 501(c)(3) non-profit organization in late 1979 as means to formalize this work, develop community around a shared artistic vision, and support the artists, writers, and philosophers exploring new approaches to environmental art, eco-philosophy, and other works demonstrating novel means of communicating with nature.  The <span className="footnote" onClick={()=>footnoteClick("Interspecies Newsletter #1")}>first issue</span> of the Interspecies’ Newsletter - a physical missive sent out to all Interspecies Communication members and donors - was written and published by member Susanna Scanlon in early 1980, documenting Nollman’s eco-protest and technological work at Iki Island. Newsletters were issued intermittently for several years, becoming a <span className="footnote" onClick={()=>footnoteClick()}>quarterly publication</span> from 1983-1987 under the editorial leadership of Sandra Wilson, and from 1988-2005 with Nollman as editor and printing provided by Marshall Davis. 
           </p>
           <p className="page-section-description">
-            The Interspecies Newsletter proved to be a very successful tool for developing an active international membership. Nollman provided the lion’s share of the writing, with many articles eventually being re-formatted as essays in other publications such as The <a href="https://www.utne.com/" target="_blank">Utne Reader</a>, OMNI, and <a href="https://en.wikipedia.org/wiki/Whole_Living" target="_blank">New Age Journal</a>, as well as his <a href="https://www.goodreads.com/author/list/203960.Jim_Nollman" target="_blank">own books</a> published by Bantam Press, Henry Holt Publishing, and the Sierra Club Press. Additional newsletter contributors include Paul Watson formerly of <a href="https://seashepherd.org/" target="_blank">Sea Shepherd</a>, Animal Rights advocates <a href="https://en.wikipedia.org/wiki/Marc_Bekoff" target="_blank">Mark Bekoff</a> and <a href="https://en.wikipedia.org/wiki/Ben_White_(environmentalist)" target="_blank">Ben White</a>, Greenpeace co-founder <a href="https://en.wikipedia.org/wiki/Rex_Weyler" target="_blank">Rex Wyler</a>, Mike Cohen of <a href="https://projectnatureconnect.com/" target="_blank">Project NatureConnect</a>, and artist <a href="https://www.artforthesky.com/" target="_blank">Daniel Dancer</a>.
+            The Interspecies Newsletter proved to be a very successful tool for developing an active international membership. Nollman provided the lion’s share of the writing, with many articles eventually being re-formatted as essays in other publications such as The <span className="footnote" onClick={()=>footnoteClick("Utne Reader")}>Utne Reader</span>, OMNI, and <span className="footnote" onClick={()=>footnoteClick("New Age Journal")}>New Age Journal</span>, as well as his <span className="footnote" onClick={()=>footnoteClick("Jim Nollman - Bibliography")}>own books</span> published by Bantam Press, Henry Holt Publishing, and the Sierra Club Press. Additional newsletter contributors include Paul Watson formerly of <span className="footnote" onClick={()=>footnoteClick("Sea Shepherd Project")}>Sea Shepherd</span>, Animal Rights advocates <span className="footnote" onClick={()=>footnoteClick("Mark Bekoff")}>Mark Bekoff</span> and <span className="footnote" onClick={()=>footnoteClick("Ben White")}>Ben White</span>, Greenpeace co-founder <span className="footnote" onClick={()=>footnoteClick("Rex Wyler")}>Rex Wyler</span>, Mike Cohen of <span className="footnote" onClick={()=>footnoteClick("Project NatureConnect")}>Project NatureConnect</span>, and artist <span className="footnote" onClick={()=>footnoteClick("Daniel Dancer")}>Daniel Dancer</span>.
           </p>
           <p className="page-section-description">
-            The multifaceted projects of Interspecies Communication were largely funded by the generous donations from readers of the newsletter in addition to many grants provided by arts and science organizations from around the globe. Projects include the Human/Dolphin Foundation, a collaboration with John and Toni Lilly in Careyes, Mexico; the Orca Project, an annual expedition to the Johnstone Strait in Canada to record musical interactions with wild orcas; development of custom electronics and recording equipment for in-situ recordings of animals and environment; collaborative efforts with the indigenous Aborigines of Melbourne, Australia to rescue a stranded dolphin community; using music and sound to help free gray whales caught in the Barrow Strait, Alaska; developing longterm communication programs with beluga whale populations in the Arctic Circle; as well as giving talks, leading seminars, and exhibiting work on interspecies communication internationally.
+            The multifaceted projects of Interspecies Communication were funded by the generous donations from readers of the newsletter in addition to support from various donors, grants, and media appearances. Projects include the Human/Dolphin Foundation, a collaboration with John and Toni Lilly in Careyes, Mexico; the Orca Project, an annual expedition to the Johnstone Strait in Canada to record musical interactions with wild orcas; development of custom electronics and recording equipment for in-situ recordings of animals and environment; collaborative efforts with the indigenous Aborigines of Melbourne, Australia to rescue a stranded dolphin community; using music and sound to help free gray whales caught in the Barrow Strait, Alaska; developing longterm communication programs with beluga whale populations in the Arctic Circle; as well as giving talks, leading seminars, and exhibiting work on interspecies communication internationally.
+          </p>
+          <p className="page-section-description">
+            Interspecies Communication - renamed simply interspecies.com at the dawning of the Internet Age - remained vigorously active, with members and volunteers from around the world, until its dissolution in 2005. During its tenure, the organization remained unique. With a formal research program dedicated to interfacing with animals, plants and the non-living environment through music, art and ceremony, Interspecies was in many ways ahead of its time artistically, scientifically, and spiritually, while simultaneously highlighting and honoring traditional relationships between humans and the natural world as expressed by indigenous peoples around the globe. This interdependent connection seems especially pertinent in our current moment, as we navigate an environmental crisis that demands a fundamental re-consideration of our species with and within the fabric of Nature.
+          </p>
+          <p className="page-section-description">"The world itself can only be perceived as a unity upon which we all live and die, grow and collaborate."
+          </p>
+        </section>
+        <section className='section-block-last'>
+        <div className="section-header">
+          <h2>Timeline of Events</h2>
+        </div>
+         <p className="page-section-description">
+            Interspecies Communication - renamed simply interspecies.com at the dawning of the Internet Age - remained vigorously active, with members and volunteers from around the world, until its dissolution in 2005. During its tenure, the organization remained unique. With a formal research program dedicated to interfacing with animals, plants and the non-living environment through music, art and ceremony, Interspecies was in many ways ahead of its time artistically, scientifically, and spiritually, while simultaneously highlighting and honoring traditional relationships between humans and the natural world as expressed by indigenous peoples around the globe. This interdependent connection seems especially pertinent in our current moment, as we navigate an environmental crisis that demands a fundamental re-consideration of our species with and within the fabric of Nature.
           </p>
         </section>
       </div>
-      {/* FOOTER  */}
-      <Footer />
     </div>
+    <Footnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote} />
+    </>
   );
 }

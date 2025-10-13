@@ -15,10 +15,11 @@ body {
 }
 
 .container {
- width: 100dvw;
- height: 100dvh;
- margin: 0;
- padding: 0;
+  width: 100dvw;
+  min-height: 100dvh; /* allows it to expand if content is taller */
+  margin-top: 80px;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 /* Fonts import */
@@ -74,7 +75,7 @@ body {
 
 
 .menu-bar {
-  position: sticky;
+  position: fixed;
   top: 0;
   height: 86px;
   width: 100%;
@@ -342,6 +343,7 @@ body {
 }
 /* Footer */
 .footer{
+
   width: 100%;
   height: 78px;
   background: #f1f1f1;
@@ -824,12 +826,92 @@ hr {
   font-style: italic;
 }
 
+.footnote{
+  text-decoration: underline;
+  cursor: pointer;
+  transition: color 0.25s ease-in-out;
+}
+.footnote:hover{
+  color: blue;
+}
 
+.footnote-container{
+  position: fixed;
+  top: 86px;
+  right: -50dvw;
+  bottom: 0;                 /* <- replaces height */
+  width: 50dvw;
+  background-color: #f1f1f1;
+  border-left: 1px solid black;
+  z-index: 10000;
+  transition: right 0.5s ease-in-out;
+  padding: 0.25rem 1rem 0rem 1rem;
+  overflow-y: auto;
+  box-sizing: border-box;    /* include padding in height */
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
+}
+.footnote-container.open{
+  right:0;
+  box-shadow: 0px 2rem 2rem rgba(0, 0, 0, 0.5);
+}
+
+.footnote-container-header{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  height: 40px;
+  width: calc(100% -1rem);
+  border-bottom: 1px solid lightgrey;
+  padding: 0 0.125rem;
+  margin-bottom: 1rem;
+}
+.footnote-container-header-title{
+  font-family: "U0001";
+  font-size: 1rem;
+}
+.footnote-container-header-close{
+  cursor: pointer;
+  color: black;
+  width: 1rem;
+  text-align: center;
+  font-family: 'Favorit-Mono';
+  font-size: 1rem;
+  transition: color 0.25s ease-in-out;
+}
+.footnote-container-header-close:hover{
+  color: red;
+}
+.footnote-container p{
+  font-family: 'Favorit-Mono';
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+.footnote-container-media{
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.footnote-container-source{
+  display: flex;
+  align-items: center;
+  font-family: "U0001";
+  font-size: 0.8rem;
+  justify-content: space-between;
+  border-top: 1px solid lightgrey;
+  padding: 0.5rem 0;
+  margin-bottom: 0.5rem;
+}
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
 /* Mobile *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
+
 @media (max-width: 768px) {
 .menu-bar {
   position: sticky;
