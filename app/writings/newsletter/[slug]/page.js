@@ -36,40 +36,8 @@ export default async function NewsletterPage({ params }) {
 const newsletterNum = parseInt(data.pdf.slice(-2), 10);
 
   return (
-    <div className="newsletter-page-container">
-      <NewsletterMenuBar />
       <div className="newsletter-container">
-               <embed src={data.link} type="application/pdf" width="100%" height="100%" border="none" />
-        {/* <div className="newsletter-column pagination-left">
-          {newsletterNum > 1 && newsletterNum !== 20 && (
-            <a href={`interspecies-newsletter-${newsletterNum === 21 ? 19 : newsletterNum - 1}`}>
-              &larr;
-            </a>
-          )}
-        </div>
-        <div className="newsletter-column  newsletter-page">
-          <div className="newsletter-heading">
-            <div className="newsletter-title">
-              <h2>NEWSLETTER - {data.date}</h2>
-              <h1>INTERSPECIES COMMUNICATION</h1>
-            </div>
-            <div className="newsletter-subtitle">
-              <h1>Published quarterly by Interspecies Communication, Inc.</h1>
-              <h2><a href={data.pdf} target="_blank" rel="noopener noreferrer">PDF Version</a></h2>
-            </div>
-          </div>
-          <div className="markdown-body" dangerouslySetInnerHTML={{ __html: contentHtml }}>
-          </div>
-        </div>
-        <div className="newsletter-column pagination-right">
-          {newsletterNum < 67 && newsletterNum !== 20 && (
-            <a href={`interspecies-newsletter-${newsletterNum === 19 ? 21 : newsletterNum + 1}`}>
-              &rarr;
-            </a>
-          )}
-        </div> */}
+        <embed src={data.link} type="application/pdf" width="100%" height="100%" border="none" />
       </div>
-      <NewsletterFooter />
-    </div>
   );
 }

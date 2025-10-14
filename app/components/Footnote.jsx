@@ -1,18 +1,31 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export default function Footnote({ open, onClose, footnote }){
 
+  const [videoSrc, setVideoSrc] = useState("");
+
     useEffect(() => {
-    if (open) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "";
-    }
-    // cleanup on unmount
-    return () => {
-      document.body.style.overflow = "";
-    };
+      if (open) {
+        document.body.style.overflow = "hidden";
+      } else {
+        document.body.style.overflow = "";
+      }
+      return () => {
+        document.body.style.overflow = "";
+      };
   }, [open]);
+
+  useEffect(() => {
+    if (footnote?.media_type === "video") {
+      const videoId = footnote.media_link.split("v=")[1];
+      const autoplaySrc = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+      if (open) {
+        setVideoSrc(autoplaySrc);
+      } else {
+        setVideoSrc("");
+      }
+    }
+  }, [open, footnote]);
 
     if (!footnote) return null;
 
@@ -29,15 +42,28 @@ export default function Footnote({ open, onClose, footnote }){
                     alt={footnote.title}
                     style={{ width: "100%" }}
                 />
-                )}
+            )}
+
+            {footnote.media_type === "video" && videoSrc && (
+              <div className="video-wrapper">
+                <iframe
+                  src={videoSrc}
+                  title={footnote.title}
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  width="100%;"
+                />
+              </div>
+            )}
         </div>
-            {Array.isArray(footnote.info) &&
-            footnote.info.map((text, index) => (
-            <p key={index}>{text}</p>
-            ))}
+
+        {Array.isArray(footnote.info) && footnote.info.map((text, index) => (
+          <p key={index}>{text}</p>
+        ))}
+
         <div className="footnote-container-source">
             <span>Source: {footnote.source}</span>
-            <a href={footnote.external_link} target="_blank">View more →</a>
+            {footnote.external_link ? <a href={footnote.external_link} target="_blank">View more →</a> : ""}
         </div>
     </div>
     )
