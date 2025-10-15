@@ -19,7 +19,7 @@
         "title": "John Cage",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/cage.jpg",
-        "info": ["John Milton Cage Jr. was an American composer and music theorist. A pioneer of indeterminacy in music, electroacoustic music, and non-standard use of musical instruments, Cage was one of the leading figures of the post-war avant-garde. Critics have lauded him as one of the most influential composers of the 20th century."],
+        "info": ["John Cage was an American composer and music theorist. A pioneer of indeterminacy in music, electroacoustic music, and non-standard use of musical instruments, Cage was one of the leading figures of the post-war avant-garde. Critics have lauded him as one of the most influential composers of the 20th century."],
         "source": "Wikipedia",
         "external_link": "https://en.wikipedia.org/wiki/John_Cage"
     },
@@ -35,7 +35,7 @@
         "title": "Frog Went a Courtin'",
         "media_type": "video",
         "media_link": "https://www.youtube.com/watch?v=EhgPXkWUO-s",
-        "info": ["Frog Went a-Courtin'\" (Roud No. 16) is an English-language folk song. Its first known appearance is in Wedderburn's Complaynt of Scotland (1549) under the name \"The Frog cam to the Myl dur\", though this is in Scots rather than English. There is a reference in the London Company of Stationers' Register of 1580 to \"A Moste Strange Weddinge of the Frogge and the Mouse\". There are many texts of the ballad; however the oldest known musical version is found in Thomas Ravenscroft's Melismata in 1611."],
+        "info": ["Frog Went a-Courtin'\" (Roud No. 16) is an English-language folk song. Its first known appearance is in Wedderburn's Complaynt of Scotland (1549) under the name \"The Frog cam to the Myl dur\", though this is in Scots rather than English. There is a reference in the London Company of Stationers' Register of 1580 to \"A Moste Strange Weddinge of the Frogge and the Mouse\". There are many texts of the ballad; however the oldest known musical version is found in Thomas Ravenscroft's Melismata in 1611.", "The lyrics involve a frog courting a mouse named Missie Mouse. The mouse is willing to marry the frog, but she must ask permission of Uncle Rat. In other versions such as \"King Kong Kitchie Kitchie Ki-Me-O\" by Chubby Parker, the frog fights and kills Miss Mouse's other suitors (an owl, bat and bumblebee) after they interrupt his proposal. Uncle Rat's permission received, the two work out details of the wedding. Some versions end with a cat, snake or other creature devouring or chasing the couple and wedding guests. Sometimes the frog gets away, but is later swallowed by a duck."],
         "source": "Wikipedia",
         "external_link": "https://en.wikipedia.org/wiki/Frog_Went_a-Courting"
     },
@@ -102,5 +102,21 @@
         "info": ["Interspecies Communication member Russell Frehling testing the \"Iki Machine\", an electronic music synthesizer developed to produce sounds that would deter dolphins from approaching fishing boats in an attempt to protect them from local fishermen."],
         "source": "Interspecies Newsletter",
         "external_link": "/writings/newsletter/interspecies-newsletter-01"
+    },
+    {
+        "title": "Human/Dolphin Foundation",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/human-dolphin.jpg",
+        "info": ["The Human Dolphin Foundation was established in 1976 by Dr. John C. Lilly, a neurophysiologist studying the brain.", "Looking for an intelligent being to develop a model for interspecies communication, he discovered that dolphins, specifically the bottle-nosed dolphin Tursiops truncatus, had large and highly complex brains."],
+        "source": "Human/Dolphin Foundation",
+        "external_link": "http://www.humandolphinfoundation.org/"
+    },
+    {
+        "title": "John C. Lilly",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/lilly.jpg",
+        "info": ["John Cunningham Lilly was an American physician, neuroscientist, psychoanalyst, psychonaut, philosopher, writer, and inventor. He was a member of a group of counterculture thinkers that included Timothy Leary, Ram Dass, and Werner Erhard. He often stirred controversy, especially among mainstream scientists.", "He gained renown in the 1950's after developing the sensory deprivation tank as a means of exploring the nature of human consciousness.Lilly was a pioneering researcher in the field of interspecies communication, studying bottlenose dolphins and establishing experimental research centers in the U.S. Virgin Islands and, later, San Francisco."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/John_C._Lilly"
     }
 ]
