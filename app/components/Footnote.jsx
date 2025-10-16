@@ -36,12 +36,12 @@ export default function Footnote({ open, onClose, footnote }){
             <div className="footnote-container-header-close" onClick={onClose}>x</div>
         </div>
         <div className="footnote-container-media">
-            {footnote.media_type === "image" && (
-                <img
-                    src={footnote.media_link}
-                    alt={footnote.title}
-                    style={{ width: "100%" }}
-                />
+            {footnote.media_type === "image" && footnote.media_link && (
+              <img
+                src={footnote.media_link}
+                alt={footnote.title}
+                style={{ width: "100%" }}
+              />
             )}
 
             {footnote.media_type === "video" && videoSrc && (

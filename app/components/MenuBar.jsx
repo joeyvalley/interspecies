@@ -1,5 +1,6 @@
 'use client'
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 
 export default function MenuBar() {
     const [open, setOpen] = useState(false);
@@ -12,13 +13,12 @@ export default function MenuBar() {
         <section className="menu-bar">
         <nav className="nav">
           <ul className="nav-links">
-            <li className="logo"><a href="/"><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></a></li>
+            <li className="logo"><Link href="#home" scroll={true}><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></Link></li>
             <li className="text"><a href="/history">History</a></li>
             <li className="text"><a href="/writings">Writings</a></li>
             <li className="text"><a href="/music">Music</a></li>
             <li className="text"><a href="/support">Support</a></li>
             <li className="text"><a href="/contact">Contact</a></li>
-            <li className="text"><a href="/blog">Blog</a></li>
             <li>
               <button className={`hamburger ${open ? 'open' : ''}`} onClick={toggle} aria-label="Toggle menu">
                 <span />
@@ -30,13 +30,12 @@ export default function MenuBar() {
         </nav>
         <div className={`side-menu${open ? ' open' : ''}`}>
           <ul>
-            <li><button className="close-btn" aria-label="Close menu" onClick={() => setOpen(false)}>X</button></li>
-            <li><a href="/history">History</a></li>
-            <li><a href="/writing">Writing</a></li>
-            <li><a href="/music">Music</a></li>
-            <li><a href="/support">Support</a></li>
-            <li><a href="/contact">Contact</a></li>
-            <li><a href="/blog">Blog</a></li>
+            {/* <li><button className="close-btn" aria-label="Close menu" onClick={() => setOpen(false)}>X</button></li> */}
+            <li><Link href="#history" scroll={true} onClick={() => setOpen(false)}>History</Link></li>
+            <li><Link href="#writings" scroll={true} onClick={() => setOpen(false)}>Writings</Link></li>
+            <li><Link href="#music" scroll={true} onClick={() => setOpen(false)}>Music</Link></li>
+            <li><Link href="#support" scroll={true} onClick={() => setOpen(false)}>Support</Link></li>
+            <li><Link href="#contact" scroll={true} onClick={() => setOpen(false)}>Contact</Link></li>
           </ul>
         </div>
       </section>

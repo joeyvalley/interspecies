@@ -6,6 +6,11 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 86px;
+}
+
 body {
   font-family: system-ui, -apple-system, sans-serif;
   background-color: #f1f1f1;
@@ -543,11 +548,11 @@ body {
   display: flex;
   flex-direction: column;
   position: fixed;
-  top: 0;
+  top: 86px;
   right: 0;
   padding: 0;
   height: 100vh;
-  width: 250px;     
+  width: 100dvw;    
   background: #010101;
   box-shadow: -2px 0 8px rgba(0,0,0,0.2);
   border-left: 1px solid #010101;
@@ -831,6 +836,7 @@ hr {
 .footnote{
   text-decoration: underline;
   cursor: pointer;
+  color: blue;
   transition: color 0.25s ease-in-out;
 }
 .footnote:hover{
@@ -972,8 +978,38 @@ hr {
 /* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ *//* ------ */
 
 @media (max-width: 768px) {
+  .container{
+    margin-top: 86px;
+  }
+  .catalog-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  align-items: start;
+  padding: 0 1rem 2rem;
+}
+.footnote-container{
+  position: fixed;
+  top: 86px;
+  right: -100dvw;
+  bottom: 0;                 /* <- replaces height */
+  width: 100dvw;
+  background-color: #f1f1f1;
+  border: none;
+  z-index: 10000;
+  transition: right 0.5s ease-in-out;
+  padding: 0.25rem 1rem 0rem 1rem;
+  overflow-y: auto;
+  box-sizing: border-box;    /* include padding in height */
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
+}
+.footnote-container-source{
+  padding-top: 1rem;
+}
 .menu-bar {
-  position: sticky;
+  position: fixed;
   top: 0;
   height: 86px;
   width: 100%;
@@ -1022,7 +1058,6 @@ width: 100%;
 /* Poem ticker */ 
 .ticker {
   overflow: hidden;
-  background: #8c7251;
   color: #fff;
   white-space: nowrap;
   padding: 0.75rem 0;
@@ -1075,7 +1110,7 @@ width: 100%;
 .section-block {
   width: 100%;
   height: auto;
-  padding: 1.5rem 0 0 0;
+  padding: 1rem 0 0 0;
   border-bottom: 1px solid #010101;
   background: #f1f1f1;
 }
@@ -1089,7 +1124,7 @@ width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  padding: 0.75rem;
+  padding: 0 0.75rem;
 }
 .section-header h2 {
   font-size: 1.4rem;
@@ -1116,11 +1151,11 @@ width: 100%;
   padding: 0.5rem 0.75rem 2rem 0.75rem;
 }
 .page-section-description {
-    ont-size: 1rem;
+  font-size: 1rem;
   font-family: 'Slab-Mono-Light';
   color: #010101;
   text-align: left;
-  padding: 0.5rem 0.75rem 2rem 0.75rem;
+  padding: 0.5rem 0.75rem 1rem 0.75rem;
 }
 .hero-caption-2 {
   padding: 0.5rem 0.75rem;

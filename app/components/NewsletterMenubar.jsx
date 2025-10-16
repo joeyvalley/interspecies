@@ -1,6 +1,7 @@
 'use client'
 import { useState, useEffect } from 'react';
 
+
 export default function NewsletterMenuBar() {
     const [open, setOpen] = useState(false);
 
@@ -31,7 +32,7 @@ export default function NewsletterMenuBar() {
         <div className={`side-menu${open ? ' open' : ''}`}>
           <ul>
             <li><button className="close-btn" aria-label="Close menu" onClick={() => setOpen(false)}>X</button></li>
-            <li><a href="/history">History</a></li>
+            <li><Link href="#history" scroll={true}>History</Link></li>
             <li><a href="/writings">Writings</a></li>
             <li><a href="/recordings">Recordings</a></li>
             <li><a href="/support">Support</a></li>
