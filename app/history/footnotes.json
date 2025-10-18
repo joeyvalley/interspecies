@@ -66,7 +66,7 @@
     {
         "title": "Whale Drum",
         "media_type": "image",
-        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/whale-drum.png",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/nollman-whaledrum.jpg",
         "info": ["Custom"],
         "source": "Interspecies Archives",
         "external_link": ""
@@ -98,7 +98,7 @@
     {
         "title": "The Iki Machine",
         "media_type": "image",
-        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/iki-machine.png",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/iki-machine.jpg",
         "info": ["Interspecies Communication member Russell Frehling testing the \"Iki Machine\", an electronic music synthesizer developed to produce sounds that would deter dolphins from approaching fishing boats in an attempt to protect them from local fishermen."],
         "source": "Interspecies Newsletter",
         "external_link": "/writings/newsletter/interspecies-newsletter-01"
@@ -254,5 +254,37 @@
         "info": ["John Cunningham Lilly was an American physician, neuroscientist, psychoanalyst, psychonaut, philosopher, writer, and inventor. He was a member of a group of counterculture thinkers that included Timothy Leary, Ram Dass, and Werner Erhard. He often stirred controversy, especially among mainstream scientists.", "He gained renown in the 1950's after developing the sensory deprivation tank as a means of exploring the nature of human consciousness.Lilly was a pioneering researcher in the field of interspecies communication, studying bottlenose dolphins and establishing experimental research centers in the U.S. Virgin Islands and, later, San Francisco."],
         "source": "Wikipedia",
         "external_link": "https://en.wikipedia.org/wiki/John_C._Lilly"
+    },
+    {
+        "title": "The Orca Project",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/orca-project.jpg",
+        "info": ["Lorem Ipsum"],
+        "source": "Interspecies Archive",
+        "external_link": ""
+    },
+    {
+        "title": "Interspecies history",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/petroglyph.jpg",
+        "info": ["Lorem Ipsum"],
+        "source": "Interspecies Archive",
+        "external_link": ""
+    },
+    {
+        "title": "Custom electronics",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/ferraro.jpg",
+        "info": ["Lorem Ipsum"],
+        "source": "Interspecies Archive",
+        "external_link": ""
+    },
+    {
+        "title": "The Climate Crisis",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/climate.jpg",
+        "info": ["Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun’s activity or large volcanic eruptions. But since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil and gas.", "Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures.", "The main greenhouse gases that are causing climate change include carbon dioxide and methane. These come from using gasoline for driving a car or coal for heating a building, for example. Clearing land and cutting down forests can also release carbon dioxide. Agriculture, oil and gas operations are major sources of methane emissions. Energy, industry, transport, buildings, agriculture and land use are among the main sectors causing greenhouse gases."],
+        "source": "United Nations",
+        "external_link": "https://www.un.org/en/climatechange/what-is-climate-change"
     }
 ]
