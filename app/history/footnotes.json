@@ -264,18 +264,66 @@
         "external_link": ""
     },
     {
-        "title": "Interspecies history",
+        "title": "Custom electronics",
         "media_type": "image",
-        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/petroglyph.jpg",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/ferraro.jpg",
         "info": ["Lorem Ipsum"],
         "source": "Interspecies Archive",
         "external_link": ""
     },
     {
-        "title": "Custom electronics",
+        "title": "Lake Tyers, Australia",
         "media_type": "image",
-        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/ferraro.jpg",
-        "info": ["Lorem Ipsum"],
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/lake-tyers5.jpg",
+        "info": ["The Aboriginal people of Lake Tyers are primarily the Gunaikurnai nation, specifically the Krowathunkooloong clan, who are the Traditional Owners of the area known as Bung Yarnda.",  "The site became a significant mission for Indigenous people from across Victoria, leading to a strong, enduring community fighting for land rights, which culminated in the return of the land to the Lake Tyers Aboriginal Trust in 1970.", "Working closely with Aboriginal leaders, Interspecies led an effort to help free wild dolphins stranded in a lagoon located on the Trust."],
+        "source": "Gunaikurnai Land and Water Aboriginal Corporation",
+        "external_link": "https://gunaikurnai.org"
+    },
+    {
+        "title": "Operation Breakthrough",
+        "media_type": "video",
+        "media_link": "https://www.youtube.com/watch?v=YjaH-TLQ-dY",
+        "info": ["Operation Breakthrough was a US-Soviet effort to free three gray whales stuck in pack ice in the Beaufort Sea near Point Barrow, Alaska in October, 1988. The whales' plight generated media attention that led to the collaboration of multiple governments and organizations to free them.", "Interspecies played a small role in the rescue, playing pre-recorded sounds in an attempt to coax the whales towards the open ocean."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/Operation_Breakthrough"
+    },
+    {
+        "title": "The Beluga Cafe",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/beluga-delta.png",
+        "info": ["Beginning in 1987, Interspecies sends researchers to the Bering Strait to test the possibility of establishing a longterm communication program with beluga whales. The project continues intermittently for fifteen years with nine unique expeditions to eight different remote Arctic locations.", "These efforts are described in Nollman's book, The Beluga Cafe, published in 2002 by Sierra Club Press."],
+        "source": "Interspecies Archive",
+        "external_link": "https://www.betterworldbooks.com/product/detail/the-beluga-cafe-my-strange-adventure-with-art-music-and-whales-in-the-far-north-9781578050871"
+    },
+    {
+        "title": "Micky Remann",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/remann.jpg",
+        "info": ["Micky Remann is a German-born media artist and Professor for Immersive Media at the Bauhaus-Universität Weimar.", "In the late 1980's, Remann began experimenting with underwater light and sound technology, which developed into \"Liquid Sound\", an immersive underwater performance environment."],
+        "source": "LA ACM Siggraph",
+        "external_link": "https://lasiggraph.org/bio/presenter/remann-micky"
+    },
+      {
+        "title": "Interspecies presentations",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/icerc.jpg",
+        "info": ["Beginning in 1992, Interspecies is invited to join a group of scientists and researchers – including John Lilly, Paul Spong, Rick O'Barry, and Horace Dobbs, among others – as a member of ICERC, The International Cetacean Education and Research Center.", "Over the next ten years, Nollman, on behalf of Interspecies, participates as a presenter at ICERC conferences around the globe."],
+        "source": "Interspecies Archive",
+        "external_link": ""
+    },
+    {
+        "title": "Interspecies disbanding",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/end.jpg",
+        "info": ["In 2005, Interspecies disbands following the deaths of key sponsors and in response to the increasing difficulties of institutional fundraising.", "In late 2006, Nollman begins working with the US Navy, serving as Ombudsman in an effort to research and develop sonar technologies that are less disruptive to cetaceans.", "In 2014, Nollman officially retires, though his work in interspecies collabortion continues to this day."],
+        "source": "Interspecies Archive",
+        "external_link": ""
+    },
+    {
+        "title": "Interspecies history",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/robobee.jpg",
+        "info": ["Since the beginning of human civilization, interspecies relationships have been woven into our species' survival. Paleolithic hunter-gatherers read animal tracks, postures, and calls as a shared language of the land; early agricultural societies developed symbolic relationships with animals, both domesticated and wild, interpreting behavior as omen.",  "Across cultures, humans attributed intention and meaning to nonhuman beings through animism, myth, shamanic practices, and later  natural philosophy. The advances of the Scientific Revolution reframed these beliefs through the lens of biology, replacing the storytelling of myth with the systematic observation of the scientific method. Yet even with these advances, individual thinkers from Darwin to Margulis continued to emphasized the continuity between human and nonhuman life, promoting ideas of the wholeness of existence.",  "With continued technological advances, fields such as bioacoustics, cybernetics, and systems theory further enabled researchers to record, analyze, and model nonhuman signals, from the songs of whales to the waggling dances of bees. Througout all this, artists continued to explore interspecies communication along an aesthetic, ethical, and political continuum.",  "Today, cutting edge advances in machine learning and artificual intelligence have continund to unlock new frontiers for decoding, simulating, and even dialoguing with nonhuman beings, continuing this ancient exploration with modern technology."],
         "source": "Interspecies Archive",
         "external_link": ""
     },
