@@ -2,7 +2,26 @@
 
 import { useState, useEffect } from 'react';
 
+import Discography from "../components/Discography";
+import AlbumFootnote from '../components/AlbumFootnote';
+
 export default function Music() {
+
+    const [isOpen,setIsOpen] = useState(false);
+    const [activeFootnote, setActiveFootnote] = useState("")
+  
+    function albumClick(item){
+      console.log(item);
+      setActiveFootnote(item)
+      setTimeout(()=>{
+        setIsOpen(true);
+      }, 50);
+    }
+  
+    const handleClose = () => {
+      setIsOpen(false);
+      setActiveFootnote(null);
+    };
   
   return (
     <div className="container">
@@ -13,9 +32,15 @@ export default function Music() {
           </p>
         </section>
         <section className='section-block'>
-        <div className="section-header">
-          <h2>Philosophy</h2>
-        </div>
+          <div className="section-header">
+            <h2>Discography</h2>
+          </div>
+          <Discography onItemClick={albumClick} />
+        </section>
+        <section className='section-block-last'>
+          <div className="section-header">
+            <h2>Philosophy</h2>
+          </div>
           <p className="section-description">As far back as Genesis, western Man has nearly always depicted the animals as something less than human; placed upon the Earth for man's utility and enjoyment. But what was, at best, a dubious ethic for the ancients; as of late, with the advent of overpopulation and technological proliferation, become our very undoing. We humans are a species in control of our environment; yet seriously out of sync with the currents of the Natural Order. Lately we have been directly responsible for sending species after species into the oblivion of extinction, without a clue about how to halt the descending spiral.
           </p>
           <p className="section-description">Over the past twenty years, as the environmental movement gained steam, many of us have become quite aware that something drastic must be done. Yet all too often the activities of the various organizations flying the environmental banner seem like so many Dutch boys with a finger in the dike as water pours over him from above. Short-term animal saving campaigns certainly postpone the slaughters of the moment, but all too often offer no long- term solutions or even much hope. They purvey gloom. Certainly we need to continue such campaigns; after all they do save particular species during a period of crisis. But concomitantly, we need to develop all-encompassing educational tools which will effectively alter Mankind's attitude towards the animals. We need a universal Ethic, and we need it now; so that the next generations may replenish the world of their forebears.
@@ -30,22 +55,16 @@ export default function Music() {
           </p>
           <p className="section-description">What this suggests in actual practice is that the human must first acknowledge the other animal as his or her equal. In many cases the human must sit with the animal as a student sits with a teacher. Interspecies music is certainly one of the most direct methods yet developed within the framework of human artistic endeavor, for expressing the crucial ethic of interdependence.
           </p>
-          <p className="section-description">
+          {/* <p className="section-description">
             "Interspecies Music", by Jim Nollman
             <br />from Issue of the Interspecies Newsletter
-          </p>
+          </p> */}
           <p className="section-description">
-            <img src="https://05ec48578e12534030.temporary.link/interspecies/philosophy.jpg" ></img>
-          </p>
-        </section>
-        <section className='section-block-last'>
-        <div className="section-header">
-          <h2>Discography</h2>
-        </div>
-          <p className="section-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            <img className="philosophy" src="https://05ec48578e12534030.temporary.link/interspecies/philosophy.jpg" ></img>
           </p>
         </section>
       </div>
+      <AlbumFootnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote} />
     </div>
   );
 }

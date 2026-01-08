@@ -27,7 +27,7 @@ export default function HomeMobile() {
             While Interspecies is no longer active, this pioneering interactive approach to the arts is now abundant. Please consider supporting some of the organizations continuing this important work.
             </p>
           <p>
-            This website serves as a legacy of what once was a vibrant community of artists, scientists, and activits. The <span className="ic-text">interspecies.com</span> archive is proudly brought to you by <span className="nht-text">Nonhuman Teachers</span> with the generous support of <span className="rhizome-text">Rhizome</span>. 
+            This website serves as a legacy of what once was a vibrant community of artists, scientists, and activists. The <span className="ic-text">interspecies.com</span> archive is proudly brought to you by <span className="nht-text">Nonhuman Teachers</span> with the generous support of <span className="rhizome-text">Rhizome</span>. 
           </p>
       </section>
       </section>

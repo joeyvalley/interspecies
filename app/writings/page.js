@@ -11,7 +11,7 @@ export default function Home() {
       <div className="page">
         <section className="hero-text">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            The majority of Interspecies cultural production was text-based from firsthand reportage of on-going projects, to personal essays, poetry, and fiction. These works were published primarily in a quarterly newsletter and have also appeared in various anthologies and publications internationally.
           </p>
         </section>
         <section className='section-block'>
@@ -29,15 +29,13 @@ export default function Home() {
           <h2>Published Works</h2>
         </div>
           <p className="section-description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           </p>
         </section>
         <section className='section-block-last'>
         <div className="section-header">
-          <h2>Library</h2>
+          <h2>Further Reading</h2>
         </div>
           <p className="section-description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
         </section>
       </div>
