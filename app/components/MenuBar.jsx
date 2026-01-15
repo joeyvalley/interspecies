@@ -13,12 +13,12 @@ export default function MenuBar() {
         <section className="menu-bar">
         <nav className="nav">
           <ul className="nav-links">
-            <li className="logo"><Link href="/" scroll={true}><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></Link></li>
-            <li className="text"><a href="/history">History</a></li>
-            <li className="text"><a href="/writings">Writings</a></li>
-            <li className="text"><a href="/music">Music</a></li>
-            <li className="text"><a href="/support">Support</a></li>
-            <li className="text"><a href="/contact">Contact</a></li>
+            <li className="logo"><Link href="#home" scroll={true} onClick={() => setOpen(false)}><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></Link></li>
+            <li className="text"><Link href="#history">History</Link></li>
+            <li className="text"><Link href="#writings" scroll={true} onClick={() => setOpen(false)}>Writings</Link></li>
+            <li className="text"><Link href="#music" scroll={true} onClick={() => setOpen(false)}>Music</Link></li>
+            <li className="text"><a href="#support">Support</a></li>
+            <li className="text"><a href="#contact">Contact</a></li>
             <li>
               <button className={`hamburger ${open ? 'open' : ''}`} onClick={toggle} aria-label="Toggle menu">
                 <span />

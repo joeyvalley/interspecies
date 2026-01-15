@@ -3,24 +3,46 @@
 import { useState, useEffect } from 'react';
 import NewsletterDropdown from '../components/NewsletterDropdown.jsx';
 import NewsletterGrid from '../components/NewsletterGrid.jsx';
+import Bibliography from '../components/Bibliography.jsx';
+import BookFootnote from '../components/BookFootnote.jsx';
+import WritingsSlider from '../components/WritingsSlider.jsx';
 
-export default function Home() {
+export default function Writings() {
+
+      const [isOpen,setIsOpen] = useState(false);
+    const [activeFootnote, setActiveFootnote] = useState("")
+  
+    function albumClick(item){
+      console.log(item);
+      setActiveFootnote(item)
+      setTimeout(()=>{
+        setIsOpen(true);
+      }, 50);
+    }
+  
+    const handleClose = () => {
+      setIsOpen(false);
+      setActiveFootnote(null);
+    };
   
   return (
-    <div className="container">
-      <div className="page">
-        <section className="hero-text">
-          <p>
-            The majority of Interspecies cultural production was text-based from firsthand reportage of on-going projects, to personal essays, poetry, and fiction. These works were published primarily in a quarterly newsletter and have also appeared in various anthologies and publications internationally.
-          </p>
-        </section>
-        <section className='section-block'>
+    // <div className="container">
+    //   <div className="page">
+    //     <section className="hero-text">
+    //       <p>
+    //         The large part of Interspecies cultural production was text-based, from firsthand reportage of on-going projects, to personal essays, poetry, and fiction. These works were published primarily in a quarterly newsletter and have also appeared in various anthologies and publications internationally.
+    //       </p>
+    //     </section>
+    <>
+    <section className="section-block" id="writings">
         <div className="section-header">
-          <h2>Newsletter</h2>
+          <h2>Writings</h2>
+          {/* <a href="/writings">View more →</a> */}
         </div>
-          <p className="section-description">
-            The Interspecies Communication newsletter was published quarterly for over 25 years. Many articles were later expanded and published as books, including <a href="https://www.betterworldbooks.com/product/detail/the-man-who-talks-to-whales-the-art-of-interspecies-communication-9780971078628" target="_blank">The Man Who Talked to Whales</a>, <a href="https://www.betterworldbooks.com/product/detail/spiritual-ecology-a-guide-for-reconnecting-with-nature-9780553348231" target="_blank">Spiritual Ecology</a>, <a href="https://www.betterworldbooks.com/product/detail/why-we-garden-cultivating-a-sense-of-place-9781591810254" target="_blank">Why We Garden</a>, and <a href="https://www.betterworldbooks.com/product/detail/the-beluga-cafe-my-strange-adventure-with-art-music-and-whales-in-the-far-north-9781578050871" target="_blank">The Beluga Cafe</a>, among others. Other articles about the development of a true interspecies music have appeared in numerous published anthologies and publications internationally. 
-          </p>
+        <p className="section-description">
+          The large part of Interspecies cultural production was text-based, from firsthand reportage of on-going projects, to personal essays, poetry, and fiction. These works were published primarily in a quarterly newsletter and have also appeared in numerous published anthologies and publications internationally.
+        </p>
+          <p className="section-description">The entire collection of the physical newsletters are made available here for scholarship, education, and research purposes.</p>
           <NewsletterDropdown />
           <NewsletterGrid />
         </section>
@@ -28,17 +50,10 @@ export default function Home() {
         <div className="section-header">
           <h2>Published Works</h2>
         </div>
-          <p className="section-description">
-          </p>
+          <Bibliography onItemClick={albumClick} />
         </section>
-        <section className='section-block-last'>
-        <div className="section-header">
-          <h2>Further Reading</h2>
-        </div>
-          <p className="section-description">
-          </p>
-        </section>
-      </div>
-    </div>
+      {/* </div> */}
+      <BookFootnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote} />
+    </>
   );
 }

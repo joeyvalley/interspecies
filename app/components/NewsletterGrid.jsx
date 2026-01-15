@@ -97,7 +97,7 @@ export default function NewsletterGrid() {
 
       <div>
         <span onClick={handleToggle} className="see-all">
-          {showAll ? "Show less" : "View more →"}
+          {showAll ? "Show less" : "View all →"}
         </span>
       </div>
     </div>

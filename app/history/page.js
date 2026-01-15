@@ -25,14 +25,14 @@ export default function History() {
   
   return (
     <>
-    <div className="container">
+    {/* <div className="container">
       <div className="page">
         <section className="hero-text">
           <p>
             Interspecies was a nonprofit organization active from 1979-2005, founded by writer and composer Jim Nollman. Interspecies work focused on developing wilderness programs for working artists to co-create an aesthetic based on communicating with animals and habitat.
           </p>
-        </section>
-        <section className='section-block-last'>
+        </section> */}
+        <section className='section-block' id="history">
         <div className="section-header">
           <h2>History</h2>
         </div>
@@ -66,8 +66,8 @@ export default function History() {
             Interspecies Communication - renamed simply interspecies.com at the dawning of the Internet Age - remained vigorously active, with members and volunteers from around the world, until its dissolution in 2005. During its tenure, the organization remained unique. With a formal research program dedicated to interfacing with animals, plants and the non-living environment through music, art and ceremony, Interspecies was in many ways ahead of its time artistically, scientifically, and spiritually, while simultaneously highlighting and honoring traditional relationships between humans and the natural world as expressed by indigenous peoples around the globe. This interdependent connection seems especially pertinent in our current moment, as we navigate an environmental crisis that demands a fundamental re-consideration of our species with and within the fabric of Nature.
           </p>
         </section> */}
-      </div>
-    </div>
+      {/* </div> */}
+    {/* // </div> */}
     <Footnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote} />
     </>
   );

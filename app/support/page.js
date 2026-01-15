@@ -17,7 +17,10 @@ export default function Support() {
         <div className="section-header">
           <h2>Support</h2>
         </div>
-          <p className="section-description">Please consider supporting some of the individuals and organizations carrying on the legacy of Interspecies Communication! Below you will find a list of some of those whose work we greatly admire. Please <a className="email-link" href="mailto:beluga@interspecies.com">reach out</a> if you would like to be included!</p>
+          <p className="section-description">
+            The goal of Interspecies as a non-profit organization focused on developing wilderness programs for working artists to co-create an aesthetic based on communicating and collaborating with animals, habitat, and the natural world.</p>
+<p className="section-description">
+While Interspecies is no longer active, this pioneering interactive approach to the arts is now abundant. Please consider supporting some of the individuals and organizations continuing this important work.</p>
           <SupportDropdown />
         </section>
       </div>
