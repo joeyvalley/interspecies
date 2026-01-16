@@ -643,13 +643,14 @@ body {
 .newsletter-container {
   width: 100%;
   position: fixed;
+  top:0;
   background: #f1f1f1;
-  margin-top: -33px;
-  height: calc(100dvh - 131px);
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   border-bottom: 1px solid black;
+  height: 100dvh;
+  z-index: 10000;
 }
 .newsletter-column {
   flex: 1; 

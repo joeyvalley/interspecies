@@ -19,7 +19,7 @@ export default function Providers({ children }) {
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
         transition={{
-          duration: 0.5,
+          duration: 1,
           ease: "easeInOut",
         }}
         style={{ height: "100%" }}
