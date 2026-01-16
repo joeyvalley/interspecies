@@ -8,6 +8,7 @@ import Poem from "./Poem.jsx";
 import History from "../history/page.js";
 import Writings from "../writings/page.js";
 import Music from "../music/page.js"
+import Support from "./Support.jsx";
 
 export default function Home() {
   
@@ -21,20 +22,7 @@ export default function Home() {
       <History />
       <Writings />
       <Music/>
-      {/* SUPPORT / NEWSLETTER  */}
-      <section className="section-block-support" id="support">
-        <div className="section-header">
-          <h2>Support</h2>
-        </div>
-          <section className="hero-text-bottom">
-          <p>The goal of Interspecies as a non-profit organization focused on developing wilderness programs for working artists to co-create an aesthetic based on communicating and collaborating with animals, habitat, and the natural world. 
-          </p>
-          <p>While Interspecies is no longer active, this pioneering interactive approach to the arts is now abundant. This website serves as a legacy of what once was a vibrant community of artists, scientists, and activists.</p> 
-          <p>Special thanks to Jim and Katy Nollman, The Smithsonian Institution, Internet Archive, Cactus Store, the Washington State Department of Transportation, The Orca Inn, and the fine people of Friday Harbor for their generous contributions, guidance, and hospitality.</p>
-          <p>Executive Produced by <span className="nht-text">Nonhuman Teachers</span> with the sponsorship of <span className="rhizome-text">Rhizome</span>.
-          </p>
-      </section>
-      </section>
+      <Support></Support>
       <section className="section-block-last" id="contact">
         <div className="section-header">
           <h2>Contact</h2>

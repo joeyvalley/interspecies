@@ -1,43 +1,110 @@
-'use client'
-import { useState, useEffect } from 'react';
-import Link from 'next/link';
+"use client";
+
+import { useState } from "react";
+
+function scrollToId(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.scrollIntoView({ behavior: "smooth", block: "start" });
+}
 
 export default function MenuBar() {
-    const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(false);
 
-    const toggle = () => {
-        setOpen(o => !o);
-    };
+  const go = (id) => {
+    setOpen(false);
+    scrollToId(id);
+  };
 
-    return (
-        <section className="menu-bar">
-        <nav className="nav">
-          <ul className="nav-links">
-            <li className="logo"><Link href="#home" scroll={true} onClick={() => setOpen(false)}><img src="/assets/logo.svg" alt="Interspecies" className="logo-image" /></Link></li>
-            <li className="text"><Link href="#history">History</Link></li>
-            <li className="text"><Link href="#writings" scroll={true} onClick={() => setOpen(false)}>Writings</Link></li>
-            <li className="text"><Link href="#music" scroll={true} onClick={() => setOpen(false)}>Music</Link></li>
-            <li className="text"><a href="#support">Support</a></li>
-            <li className="text"><a href="#contact">Contact</a></li>
-            <li>
-              <button className={`hamburger ${open ? 'open' : ''}`} onClick={toggle} aria-label="Toggle menu">
-                <span />
-                <span />
-                <span />
-              </button>
-            </li>
-          </ul>
-        </nav>
-        <div className={`side-menu${open ? ' open' : ''}`}>
-          <ul>
-            {/* <li><button className="close-btn" aria-label="Close menu" onClick={() => setOpen(false)}>X</button></li> */}
-            <li><Link href="#history" scroll={true} onClick={() => setOpen(false)}>History</Link></li>
-            <li><Link href="#writings" scroll={true} onClick={() => setOpen(false)}>Writings</Link></li>
-            <li><Link href="#music" scroll={true} onClick={() => setOpen(false)}>Music</Link></li>
-            <li><Link href="#support" scroll={true} onClick={() => setOpen(false)}>Support</Link></li>
-            <li><Link href="#contact" scroll={true} onClick={() => setOpen(false)}>Contact</Link></li>
-          </ul>
-        </div>
-      </section>
-    )
-}
+  return (
+    <section className="menu-bar">
+      <nav className="nav">
+        <ul className="nav-links">
+          <li className="logo">
+            <button type="button" onClick={() => go("home")} className="nav-btn">
+              <img
+                src="/assets/logo.svg"
+                alt="Interspecies"
+                className="logo-image"
+              />
+            </button>
+          </li>
+
+          <li className="text">
+            <button type="button" onClick={() => go("history")} className="nav-btn">
+              History
+            </button>
+          </li>
+
+          <li className="text">
+            <button type="button" onClick={() => go("writings")} className="nav-btn">
+              Writings
+            </button>
+          </li>
+
+          <li className="text">
+            <button type="button" onClick={() => go("music")} className="nav-btn">
+              Music
+            </button>
+          </li>
+
+          <li className="text">
+            <button type="button" onClick={() => go("support")} className="nav-btn">
+              Support
+            </button>
+          </li>
+
+          <li className="text">
+            <button type="button" onClick={() => go("contact")} className="nav-btn">
+              Contact
+            </button>
+          </li>
+
+          <li>
+            <button
+              type="button"
+              className={`hamburger ${open ? "open" : ""}`}
+              onClick={() => setOpen((o) => !o)}
+              aria-label="Toggle menu"
+              aria-expanded={open}
+            >
+              <span />
+              <span />
+              <span />
+            </button>
+          </li>
+        </ul>
+      </nav>
+
+      <div className={`side-menu${open ? " open" : ""}`}>
+        <ul>
+          <li>
+            <button type="button" onClick={() => go("history")} className="nav-btn">
+              History
+            </button>
+          </li>
+          <li>
+            <button type="button" onClick={() => go("writings")} className="nav-btn">
+              Writings
+            </button>
+          </li>
+          <li>
+            <button type="button" onClick={() => go("music")} className="nav-btn">
+              Music
+            </button>
+          </li>
+          <li>
+            <button type="button" onClick={() => go("support")} className="nav-btn">
+              Support
+            </button>
+          </li>
+          <li>
+            <button type="button" onClick={() => go("contact")} className="nav-btn">
+              Contact
+            </button>
+          </li>
+        </ul>
+      </div>
+    </section>
+  );
+} 

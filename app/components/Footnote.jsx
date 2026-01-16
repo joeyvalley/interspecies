@@ -63,7 +63,7 @@ export default function Footnote({ open, onClose, footnote }){
 
         <div className="footnote-container-source">
             <span>Source: {footnote.source}</span>
-            {footnote.external_link ? <a href={footnote.external_link} target="_blank">View more →</a> : ""}
+            {footnote.external_link ? <a href={footnote.external_link} target="_blank">More info →</a> : ""}
         </div>
     </div>
     )

@@ -32,7 +32,7 @@ export default function Music() {
         <p className="section-description">
           Interspecies musical output includes techno, field recordings, collaborations with turkeys, wolves, and tropical birds, underwater music, old time mandolin, and songs. </p>
             <p className="section-description">
-          Recordings have been issued with various labels around the world including Smithsonian Folkways Recordings (<a href="https://folkways.si.edu/playing-music-with-animals-interspecies-communication-of-jim-nollman-with-300-turkeys-12-wolves-and-20-orcas/contemporary-electronic-sounds/album/smithsonian" target="_blank">Playing Music with Animals</a>), Other Minds (<a href="https://webstore.otherminds.org/collections/the-jim-nollman-collection/products/jim-nollman-music-for-swimming-and-flying-1" target="_blank">Music for Swimming and Flying</a>), and Rural Situationism (<a href="https://ruralsituationism.bandcamp.com/track/oropendola" target="_blank">Oropendola</a>), as well as numerous compilations and self-released collections.
+          Recordings have been issued with various labels around the world including Smithsonian Folkways Recordings, Other Minds, and Rural Situationism, as well as numerous compilations and self-released collections.
         </p>
       {/* </section>
       <section className='section-block'>

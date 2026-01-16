@@ -132,6 +132,16 @@ body {
   border-bottom-color: #010101;
 }
 
+.nav-btn{
+  background: none;
+  border:none;
+  font-family: 'Favorit-Mono';
+  font-size: 1.25rem;
+}
+
+.nav-btn:hover{
+  cursor:pointer;
+}
 
 .logo-image {
   height: 3rem;
@@ -142,6 +152,8 @@ body {
 .nav-links .mobile {
   display: none;
 }
+
+
 
 /* Poem ticker */ 
 
@@ -260,14 +272,15 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  padding: 0 2rem 0;
+  padding: 0 2rem 0rem 2rem;
 }
 
 .section-header h2 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
-  color: #010101;
-  font-family: 'Favorit-Mono';
+  color: black;
+  font-family: 'Slab-Mono-Light';
+  width: 100%;
 }
 
 .section-header a {
@@ -446,6 +459,11 @@ body {
   padding-bottom: 1.5rem;
   text-align: justify;
 }
+.hero-text-bottom p a{
+  color: #36f;
+  text-decoration: underline;
+}
+
 /* Support Section Text Definitions */
 .ic-text{
   color: blue;
@@ -457,7 +475,7 @@ body {
   cursor: pointer;
 }
 .nht-text{
-  color: #010101;
+  color: #36f;
   transition: all ease-in-out 0.3s;
 }
 .nht-text:hover{
@@ -466,7 +484,7 @@ body {
   cursor: pointer;
 }
 .rhizome-text {
-  color: #010101;
+  color: #36f;
   border-bottom: 2px solid transparent;
 }
 .rhizome-text:hover {
@@ -843,13 +861,14 @@ hr {
 }
 
 .footnote{
-  text-decoration: underline;
+  /* text-decoration: underline; */
   cursor: pointer;
-  color: blue;
-  transition: color 0.25s ease-in-out;
+  color: #36f;
+  transition: all 0.25s ease-in-out;
 }
 .footnote:hover{
-  color: blue;
+  background: #36f;
+  color: black;
 }
 
 .footnote-container{
@@ -1007,6 +1026,10 @@ hr {
 @media (max-width: 640px) {
   .discography-grid {
     grid-template-columns: 1fr;
+    width: 100%;
+    margin: 0 0 2rem 0;
+    padding: 0 1rem 0 0.75rem;
+    transform: scale(1);
   }
 }
 
@@ -1023,7 +1046,6 @@ hr {
 .discography-coverWrap {
   width: 100%;
   aspect-ratio: 1 / 1;
-  overflow: hidden;
 }
 
 .discography-cover {
@@ -1038,6 +1060,7 @@ hr {
 }
 .discography-cover:hover{
   opacity: 1;
+  transform: scale(1.015);
 }
 
 .discography-meta {
@@ -1176,12 +1199,12 @@ ol{
   .container{
     margin-top: 86px;
   }
-  .catalog-grid{
+.catalog-grid{
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0.5rem;
   align-items: start;
-  padding: 0 1rem 2rem;
+  padding: 0 1rem 2rem 0.75rem;
 }
 .footnote-container{
   position: fixed;
@@ -1321,12 +1344,13 @@ width: 100%;
   justify-content: space-between;
   align-items: baseline;
   padding: 0 0.75rem;
+  margin-bottom: 1rem;
 }
 .section-header h2 {
   font-size: 1.4rem;
   margin: 0;
   color: #010101;
-  font-family: 'Favorit-Mono';
+  font-family: 'Slab-Mono-Light';
 }
 .section-header a {
   font-size: 1.2rem;
@@ -1404,14 +1428,13 @@ width: 100%;
   grid-template-columns: 3fr 1fr;
   grid-column-gap: 0.5rem;
   padding: 2rem 0 1rem 0;
+  margin-bottom: 3rem;
 }
 .subscribe {
   font-family: "Favorit-Mono";
   font-style: normal;
   font-size: 1rem;
   padding: 0.25rem;
-  color: #010101;
-  background: #FF69B4;
   border: 1px solid #010101;
   border-radius: 0;
   display: inline-block;
@@ -1448,16 +1471,34 @@ width: 100%;
   border: none;
   cursor: pointer;
   position: absolute;
-  margin-top: -12px;
-  margin-left: -55px;
+  margin-top: -13px;
+  margin-left: -45px;
   background: transparent;
 }
 .hamburger span {
   display: block;
   width: 100%;
-  height: 2px;
+  height: 1px;
   background-color: #010101;
   border-radius: 1px;
   transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.nav-btn{
+  color: white;
+}
+.newsletter-select{
+  padding: 0 1.5rem 0 0.9rem;
+  margin-bottom: 1rem;
+}
+.newsletter-picker{
+  font-size: 1rem; 
+}
+.bibliography-grid {
+	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+	gap: 1.5rem;
+  width: 100%;
+  margin: 1.5rem 0;
+  padding: 0 1rem 0 0.75rem;
+	display: grid;
 }
 }
