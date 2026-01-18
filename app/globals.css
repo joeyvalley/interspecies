@@ -889,6 +889,28 @@ hr {
   -webkit-overflow-scrolling: touch;
   padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
 }
+.footnote-container-newsletter{
+  position: fixed;
+  top: 86px;
+  right: -40dvw;
+  bottom: 0;                 /* <- replaces height */
+  width: 40dvw;
+  background-color: #f1f1f1;
+  border-left: 1px solid black;
+  z-index: 10000;
+  transition: right 0.5s ease-in-out;
+  padding: 0.25rem 1rem 0rem 1rem;
+  overflow-y: auto;
+  box-sizing: border-box;    /* include padding in height */
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
+  overflow: hidden;
+}
+.footnote-container-newsletter.open{
+  right:0;
+  box-shadow: 0px 2rem 2rem rgba(0, 0, 0, 0.5);
+}
 .footnote-container.open{
   right:0;
   box-shadow: 0px 2rem 2rem rgba(0, 0, 0, 0.5);
@@ -935,6 +957,13 @@ hr {
 .footnote-container-media img{
   border: 1px solid black;
 }
+
+.footnote-container-media-newsletter{
+  height: calc(100% - 104px);
+  padding-bottom: 0rem;
+  margin-bottom: 12px;
+  border: 1px solid lightgrey;
+}
 .footnote-container-source{
   display: flex;
   align-items: center;
@@ -968,6 +997,10 @@ hr {
   gap: 1rem;
   align-items: start;
   padding: 0 2rem 2rem;
+}
+
+.catalog-grid img:hover{
+  cursor: pointer;
 }
 
 .tile{
@@ -1223,6 +1256,31 @@ ol{
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
   padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
+}
+
+.footnote-container-newsletter{
+  position: fixed;
+  top: 86px;
+  right: -100dvw;
+  bottom: 0;                 /* <- replaces height */
+  width: 100dvw;
+  background-color: #f1f1f1;
+  border: none;
+  z-index: 10000;
+  transition: right 0.5s ease-in-out;
+  padding: 0.25rem 1rem 0rem 1rem;
+  overflow-y: auto;
+  box-sizing: border-box;    /* include padding in height */
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
+}
+
+.footnote-container-media-newsletter{
+  height: calc(100% - 118px);
+  padding-bottom: 0rem;
+  margin-bottom: 12px;
+  border: 1px solid lightgrey;
 }
 .footnote-container-source{
   padding-top: 1rem;

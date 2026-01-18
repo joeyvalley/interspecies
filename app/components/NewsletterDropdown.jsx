@@ -1,30 +1,24 @@
-// app/components/NewsletterDropdown.jsx
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useMemo } from 'react';
 import { useRouter } from 'next/navigation';
+import newsletters from '../writings/newsletters.json'; // adjust path if needed
 
-export default function NewsletterDropdown() {
-  const [posts, setPosts] = useState([]);
+export default function NewsletterDropdown({ onItemSelect }) {
   const router = useRouter();
 
-  useEffect(() => {
-    async function loadPosts() {
-      try {
-        const res = await fetch('/api/newsletters');
-        if (!res.ok) throw new Error(`Fetch error ${res.status}`);
-        setPosts(await res.json());
-      } catch (err) {
-        console.error(err);
-      }
-    }
-    loadPosts();
+  // Normalize + sort once
+  const posts = useMemo(() => {
+    return [...newsletters]
+      .filter((n) => typeof n.number === 'number')
+      .sort((a, b) => a.number - b.number)
   }, []);
 
   const handleChange = (e) => {
-    const slug = e.target.value;
-    if (slug) router.push(`writings/newsletter/${slug}`);
-  };
+  const selectedId = e.target.value;
+  const selectedItem = posts.find((item) => item.id === selectedId);
+  if (selectedItem) onItemSelect?.(selectedItem);
+};
 
   return (
     <div className="newsletter-select">
@@ -37,9 +31,10 @@ export default function NewsletterDropdown() {
         <option value="" disabled>
           Select issue
         </option>
-        {posts.map(({ slug, date, title }) => (
-          <option key={slug} value={slug}>
-            {title} ({date})
+
+        {posts.map((item) => (
+          <option key={item.id} value={item.id}>
+            {item.title} - ({item.date})
           </option>
         ))}
       </select>

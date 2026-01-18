@@ -5,12 +5,15 @@ import NewsletterDropdown from '../components/NewsletterDropdown.jsx';
 import NewsletterGrid from '../components/NewsletterGrid.jsx';
 import Bibliography from '../components/Bibliography.jsx';
 import BookFootnote from '../components/BookFootnote.jsx';
-import WritingsSlider from '../components/WritingsSlider.jsx';
+import NewsletterFootnote from '../components/NewsletterFootnote.jsx';
 
 export default function Writings() {
 
-      const [isOpen,setIsOpen] = useState(false);
+    const [isOpen,setIsOpen] = useState(false);
     const [activeFootnote, setActiveFootnote] = useState("")
+
+    const [newsletterOpen,setNewsletterOpen] = useState(false);
+    const [activeNewsletter, setActiveNewsletter] = useState("")
   
     function albumClick(item){
       console.log(item);
@@ -24,15 +27,16 @@ export default function Writings() {
       setIsOpen(false);
       setActiveFootnote(null);
     };
+
+    const newsletterClick = (item) =>{
+      console.log(item);
+      setActiveNewsletter(item)
+      setTimeout(()=>{
+        setNewsletterOpen(true);
+      }, 50);
+    }
   
   return (
-    // <div className="container">
-    //   <div className="page">
-    //     <section className="hero-text">
-    //       <p>
-    //         The large part of Interspecies cultural production was text-based, from firsthand reportage of on-going projects, to personal essays, poetry, and fiction. These works were published primarily in a quarterly newsletter and have also appeared in various anthologies and publications internationally.
-    //       </p>
-    //     </section>
     <>
     <section className="section-block" id="writings">
         <div className="section-header">
@@ -43,8 +47,8 @@ export default function Writings() {
           The large part of Interspecies cultural production was text-based, from firsthand reportage of on-going projects, to personal essays, poetry, and fiction. These works were published primarily in a quarterly newsletter and have also appeared in numerous published anthologies and publications internationally.
         </p>
           <p className="section-description">The entire collection of the physical newsletters are made available here for scholarship, education, and research purposes.</p>
-          <NewsletterDropdown />
-          <NewsletterGrid />
+          <NewsletterDropdown onItemSelect={newsletterClick} />
+          <NewsletterGrid onItemClick={newsletterClick} />
         </section>
         <section className='section-block'>
         <div className="section-header">
@@ -54,6 +58,7 @@ export default function Writings() {
         </section>
       {/* </div> */}
       <BookFootnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote} />
+      <NewsletterFootnote open={newsletterOpen} onClose={() => setNewsletterOpen(false)} newsletter={activeNewsletter} />
     </>
   );
 }
