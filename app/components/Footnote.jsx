@@ -35,6 +35,7 @@ export default function Footnote({ open, onClose, footnote }){
             <div className="footnote-container-header-title">Reference: {footnote.title}</div>
             <div className="footnote-container-header-close" onClick={onClose}>x</div>
         </div>
+        <div className="footnote-midsection">
         <div className="footnote-container-media">
             {footnote.media_type === "image" && footnote.media_link && (
               <img
@@ -60,7 +61,7 @@ export default function Footnote({ open, onClose, footnote }){
         {Array.isArray(footnote.info) && footnote.info.map((text, index) => (
           <p key={index}>{text}</p>
         ))}
-
+        </div>
         <div className="footnote-container-source">
             <span>Source: {footnote.source}</span>
             {footnote.external_link ? <a href={footnote.external_link} target="_blank">More info →</a> : ""}

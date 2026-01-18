@@ -889,6 +889,9 @@ hr {
   -webkit-overflow-scrolling: touch;
   padding-bottom: max(0rem, env(safe-area-inset-bottom)); /* iOS safe area */
 }
+.footnote-midsection{
+  min-height: calc(100% - 98px);
+}
 .footnote-container-newsletter{
   position: fixed;
   top: 86px;
