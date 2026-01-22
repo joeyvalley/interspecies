@@ -19,6 +19,8 @@ body {
   margin: 0;
 }
 
+
+
 .container {
   width: 100dvw;
   min-height: calc(100dvh -  164px); /* allows it to expand if content is taller */
@@ -77,7 +79,12 @@ body {
 }
 
 /* Menu */
-
+.image-credit{
+  font-family: 'Helveesti';
+  font-size: 0.7rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
 
 .menu-bar {
   position: fixed;
@@ -958,7 +965,7 @@ hr {
   margin-bottom: 0.5rem;
 }
 .footnote-container-media img{
-  border: 1px solid black;
+  border: 1px solid darkgrey;
 }
 
 .footnote-container-media-newsletter{
@@ -1043,7 +1050,7 @@ hr {
   margin-left: 2rem;
   margin-bottom: 2rem;
   cursor: pointer;
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid black;
   transition: border-color 0.2s;
   display: inline-block;
 }

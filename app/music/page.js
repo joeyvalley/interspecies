@@ -4,11 +4,14 @@ import { useState, useEffect } from 'react';
 
 import Discography from "../components/Discography";
 import AlbumFootnote from '../components/AlbumFootnote';
+import Footnote from '../components/Footnote.jsx';
+import footnotes from "../history/footnotes.json"
 
 export default function Music() {
 
     const [isOpen,setIsOpen] = useState(false);
     const [activeFootnote, setActiveFootnote] = useState("")
+    const [activeFootnote2, setActiveFootnote2] = useState("")
   
     function albumClick(item){
       console.log(item);
@@ -17,6 +20,16 @@ export default function Music() {
         setIsOpen(true);
       }, 50);
     }
+
+    function footnoteClick(title){
+        const match = footnotes.find((f) => f.title === title);
+        if (match) setActiveFootnote2(match);
+        else setActiveFootnote2(null);
+        setTimeout(()=>{
+          setIsOpen(true);
+        }, 50);
+         console.log(activeFootnote2);
+      }
   
     const handleClose = () => {
       setIsOpen(false);
@@ -30,15 +43,10 @@ export default function Music() {
           <h2>Music</h2>
         </div>
         <p className="section-description">
-          Interspecies musical output includes techno, field recordings, collaborations with turkeys, wolves, and tropical birds, underwater music, old time mandolin, and songs. </p>
+          Interspecies musical output includes techno, <span className="footnote" onClick={()=>footnoteClick("Field recording")}>field recordings</span>, collaborations with turkeys, wolves, and tropical birds, <span className="footnote" onClick={()=>footnoteClick("Hydroacoustics")}>underwater music</span>, old time mandolin, and songs. </p>
             <p className="section-description">
-          Recordings have been issued with various labels around the world including Smithsonian Folkways Recordings, Other Minds, and Rural Situationism, as well as numerous compilations and self-released collections.
+          Recordings have been issued with various labels around the world including <span className="footnote" onClick={()=>footnoteClick("Smithsonian Folkways")}>Smithsonian Folkways Recordings</span>, <span className="footnote" onClick={()=>footnoteClick("Other Minds")}>Other Minds</span>, <span className="footnote" onClick={()=>footnoteClick("Red Newt")}>Red Newt</span>, and <span className="footnote" onClick={()=>footnoteClick("Rural Situationism")}>Rural Situationism</span>, as well as numerous compilations and self-released collections.
         </p>
-      {/* </section>
-      <section className='section-block'>
-        <div className="section-header">
-          <h2>Discography</h2>
-        </div> */}
         <Discography onItemClick={albumClick} />
       </section>
       <section className='section-block'>
@@ -59,14 +67,11 @@ export default function Music() {
         </p>
         <p className="section-description">What this suggests in actual practice is that the human must first acknowledge the other animal as his or her equal. In many cases the human must sit with the animal as a student sits with a teacher. Interspecies music is certainly one of the most direct methods yet developed within the framework of human artistic endeavor, for expressing the crucial ethic of interdependence.
         </p>
-        {/* <p className="section-description">
-          "Interspecies Music", by Jim Nollman
-          <br />from Issue of the Interspecies Newsletter
-        </p> */}
         <p className="section-description">
           <img className="philosophy" src="https://05ec48578e12534030.temporary.link/interspecies/philosophy.jpg" ></img>
         </p>
       </section>
+      <Footnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote2} />
       <AlbumFootnote open={isOpen} onClose={() => setIsOpen(false)} footnote={activeFootnote} />
     </>
   );

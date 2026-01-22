@@ -16,7 +16,7 @@ export default function Home() {
     <div className="container">
       <Poem />
       <section className="hero-text">
-        <p>Interspecies was a nonprofit organization active from 1979 - 2014, founded by writer and composer Jim Nollman. Interspecies work focused on developing wilderness programs for working artists to co-create an aesthetic based on communicating with animals and habitat.</p>
+        <p>Interspecies was a nonprofit organization active from 1979 - 2014 focused on developing wilderness programs that gave artists access to nature with the objective of co-creating an aesthetic based on interactive relationships with wild animals and habitat.</p>
       </section>
       <HeroSlider interval={6000} />
       <History />

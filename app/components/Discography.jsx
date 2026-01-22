@@ -36,7 +36,7 @@ export default function Discography({ onItemClick }) {
             year: 1987,
             coverSrc: "https://05ec48578e12534030.temporary.link/interspecies/discography/ogh.jpg",
             href: "https://webstore.otherminds.org/collections/the-jim-nollman-collection/products/orcas-greatest-hits",
-            description: "During the 1980s, Interspecies sponsored over 100 musicians to attempt communication with orcas off western Canada. Our CD, Orcas Greatest Hits, contains the best interactions from the project, Musicians include pros, talented amateurs, and even an 8 year old girl. We used hydrophones and underwater speakers to build a recording studio in a boat, which was anchored, so the whales had to come to us if they were interested.",
+            description: "During the 1980s, Interspecies sponsored over 100 musicians to attempt communication with orcas off western Canada. This compilation, Orcas Greatest Hits, contains the best interactions from the first few years of the experiment. Musicians included recording artists – from Grammy winners to gifted amateurs – Tibetan Lamas, children, and everyday people. To achieve these recordings, Interspecies members used hydrophones and underwater speakers to build a mobile recording studio inside an anchored fishing vessel, which allowed the whales to approach the boat and interact with the music when interested. The original compilation, released in 1987, is no longer in circulation; the original cassette tapes are now coveted collectors’ items. A much expanded version with the same title, encompassing the years 1984-2002 will be released both digitally and physically by Smithsonian Folkways Recordings in the summer of 2026.",
             tracklisting: [],
             source: "Other Minds"
         },
@@ -80,7 +80,7 @@ export default function Discography({ onItemClick }) {
             year: 2000,
             coverSrc: "https://05ec48578e12534030.temporary.link/interspecies/discography/ab67616d0000b273603a0f47adabf66e274556c6.jpg",
             href: "https://open.spotify.com/album/4TaiG3bKdlYCXHfePOQsbs",
-            description: "",
+            description: "Original compositions written and performed by Jim Nollman. Produced and engineered by Richard Schoenherz. With Ethan Okamura, Paul McCandless, and Christian Swenson.",
             tracklisting: [
             "Man In Black",
             "Faultline",
@@ -134,7 +134,7 @@ export default function Discography({ onItemClick }) {
             year: 2011,
             coverSrc: "https://05ec48578e12534030.temporary.link/interspecies/discography/the-new-old-time.jpg",
             href: "https://webstore.otherminds.org/collections/the-jim-nollman-collection/products/jim-nollman-the-new-old-tme",
-            description: "A collection of world fiddle tunes adapted for mandolin and experimental electronics. The original source material is deconstructed and re-constituted through the use of looped phrases, track offsets, conversion of mandolin into MIDI files to mix with field recordings.",
+            description: "A collection of world fiddle tunes adapted for mandolin and experimental electronics. The original source material is deconstructed and re-constituted through the use of looped phrases, track offsets, and conversion of mandolin into MIDI information to mix with archival field recordings.",
             tracklisting: [
             "Winderslide",
             "Wild Rose of the Mountain",
@@ -180,7 +180,7 @@ export default function Discography({ onItemClick }) {
             year: 2023,
             coverSrc: "https://05ec48578e12534030.temporary.link/interspecies/discography/oropendola.jpg",
             href: "https://ruralsituationism.bandcamp.com/album/oropendola",
-            description: "",
+            description: "This piece comes from a series of contemporary field recordings produced and released by artist Andrew Weathers on his now-defunct label Rural Situationism. Nollman’s contribution was drawn from a collection of recordings of oropendola birds he made during his time in Bolivia's Amboró cloud forest.",
             tracklisting: [
                 "Oropendola"
             ],

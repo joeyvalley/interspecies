@@ -64,10 +64,10 @@
         "external_link": "https://en.wikipedia.org/wiki/Bolinas,_California"
     },
     {
-        "title": "Whale Drum",
+        "title": "Whale drum",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/nollman-whaledrum.jpg",
-        "info": ["Custom"],
+        "info": ["Interspecies founder Jim Nollman in the water, communicating with nearby orca whales with the whale drum."],
         "source": "Interspecies Archives",
         "external_link": ""
     },
@@ -163,7 +163,7 @@
         "title": "Environmental movement",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/environment.jpg",
-        "info": ["The environmental movement is a social movement that aims to protect the natural world from the harmful environmental practices of the modern world. In its recognition of humanity as a participant in ecosystems and not seperate from them, the movement is centered on ecology and health as well as animal and human rights.", "The environmental movement is an international movement, represented by a range of environmental organizations, from the enterprise level to grassroots efforts, varying widely from country to country. At its broadest, the movement includes private citizens, professionals, religious devotees, politicians, scientists, nonprofit organizations, and individual advocates."],
+        "info": ["The environmental movement is a social movement that aims to protect the natural world from the harmful environmental practices of the modern world. In its recognition of humanity as a participant in ecosystems and not separate from them, the movement is centered on ecology and health as well as animal and human rights.", "The environmental movement is an international movement, represented by a range of environmental organizations, from the enterprise level to grassroots efforts, varying widely from country to country. At its broadest, the movement includes private citizens, professionals, religious devotees, politicians, scientists, nonprofit organizations, and individual advocates."],
         "source": "Wikipedia",
         "external_link": "https://en.wikipedia.org/wiki/Environmental_movement"
     },
@@ -171,7 +171,7 @@
         "title": "Utne Reader",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/utne.jpg",
-        "info": ["The Utne Reader is a magazine founded in 1984 by Eric Utne. Over time, the megazine transformed \"from a tiny New Age newsletter to a thick, ad-rich magazine with more than 300,000 subscribers.\"",  "Physical publication ceased in 2019 and today, the Utne Reader is a digital digest that collects and reprints articles on politics, culture, and the environment, generally from alternative media sources. "],
+        "info": ["The Utne Reader is a magazine founded in 1984 by Eric Utne. Over time, the magazine transformed \"from a tiny New Age newsletter to a thick, ad-rich magazine with more than 300,000 subscribers.\"",  "Physical publication ceased in 2019 and today, the Utne Reader is a digital digest that collects and reprints articles on politics, culture, and the environment, generally from alternative media sources. "],
         "source": "Wikipedia",
         "external_link": "https://www.utne.com/"
     },
@@ -259,7 +259,7 @@
         "title": "The Orca Project",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/orca-project.jpg",
-        "info": ["Lorem Ipsum"],
+        "info": ["Starting in 1983, Interspecies Communication sponsored a large group of musicians to attempt communication with orcas off western Canada. The organization assembled a volunteer crew to build a temporary wilderness camp, called Orcananda, along the shore of a small cove along Johnstone Strait, British Columbia. They anchored a medium-sized trawler offshore of the base camp and there assembled an underwater recording studio inside the fishing vessel's main cabin.", "The objective of this project was to document the musicians, as well as children, sponsors, and other guests, as they played or recited the music, poetry, or prayer of their choosing. The sound was then transmitted directly into the water in an attempt to interact with the local pods of wild orcas as they passed through the Strait each evening. The program ended in 1993 after ten seasons.", "A compilation of some of the highlights of the many hours of original recordings will be released as Orcas Greatest Hits by Smithsonian-Folkways records in 2026." ],
         "source": "Interspecies Archive",
         "external_link": ""
     },
@@ -267,7 +267,7 @@
         "title": "Custom electronics",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/ferraro.jpg",
-        "info": ["Lorem Ipsum"],
+        "info": ["Starting in the late 1970s, and over the next 25 years, Interspecies Communication was in the forefront of the design and implementation of custom sound systems for performing and recording underwater music. This included a hydrophone design that has long since become the standard for all bio-acoustic recording.", "\"To attempt to play music with cetaceans from any boat, one must have access to a sound system that connects one or two hydrophones, and one or two underwater speakers. If the system needs to be available for use on any boat, and if it will ever travel by airplane, it also needs to be portable and lightweight. A 12-volt system is the most savvy choice, since far more boats offer 12-volt batteries than wall current. Any boat-bound sound system will also last longer if the cables connect using waterproof connectors.\""],
         "source": "Interspecies Archive",
         "external_link": ""
     },
@@ -283,7 +283,7 @@
         "title": "Operation Breakthrough",
         "media_type": "video",
         "media_link": "https://www.youtube.com/watch?v=YjaH-TLQ-dY",
-        "info": ["Operation Breakthrough was a US-Soviet effort to free three gray whales stuck in pack ice in the Beaufort Sea near Point Barrow, Alaska in October, 1988. The whales' plight generated media attention that led to the collaboration of multiple governments and organizations to free them.", "Interspecies played a small role in the rescue, playing pre-recorded sounds in an attempt to coax the whales towards the open ocean."],
+        "info": ["Operation Breakthrough was a US-Soviet effort to free three gray whales stuck in pack ice in the Beaufort Sea near Point Barrow, Alaska in October, 1988. The whales' plight generated media attention that led to the collaboration of multiple governments and organizations to free them.", "Interspecies played a role in the rescue, amplifying recordings of Ladysmith Black Mambazo, a South African male choral group, into the water, which quickly coaxed the whales out of their ice hole and towards the open ocean."],
         "source": "Wikipedia",
         "external_link": "https://en.wikipedia.org/wiki/Operation_Breakthrough"
     },
@@ -291,7 +291,7 @@
         "title": "The Beluga Cafe",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/beluga-delta.png",
-        "info": ["Beginning in 1987, Interspecies sends researchers to the Bering Strait to test the possibility of establishing a longterm communication program with beluga whales. The project continues intermittently for fifteen years with nine unique expeditions to eight different remote Arctic locations.", "These efforts are described in Nollman's book, The Beluga Cafe, published in 2002 by Sierra Club Press."],
+        "info": ["Beginning in 1991, Interspecies sent researchers to the Arctic to test the possibility of establishing a long term communication program with beluga whales. The project continued intermittently over twelve years time, with nine unique expeditions to eight different remote Arctic locations.", "These efforts are described in Nollman's book, The Beluga Cafe, published in 2002 by Sierra Club Press."],
         "source": "Interspecies Archive",
         "external_link": "https://www.betterworldbooks.com/product/detail/the-beluga-cafe-my-strange-adventure-with-art-music-and-whales-in-the-far-north-9781578050871"
     },
@@ -315,7 +315,7 @@
         "title": "Interspecies disbanding",
         "media_type": "image",
         "media_link": "https://05ec48578e12534030.temporary.link/interspecies/end.jpg",
-        "info": ["In 2005, Interspecies disbands following the deaths of key sponsors and in response to the increasing difficulties of institutional fundraising.", "In late 2006, Nollman begins working with the US Navy, serving as Ombudsman in an effort to research and develop sonar technologies that are less disruptive to cetaceans.", "In 2014, Nollman officially retires, though his work in interspecies collabortion continues to this day."],
+        "info": ["In 2005, Interspecies disbands following the deaths of key sponsors and in response to the increasing difficulties of institutional fundraising.", "From 2006 - 2014, Nollman was contracted full-time with the United States Navy, serving as a whale behaviorist and Ombudsman in a program to develop new technologies to better protect cetaceans during sonar exercises.", "In 2014, Nollman officially retired, though his work in interspecies collaboration continues to this day. He has continued to release recordings of his own digital compositions based mostly on animal calls and songs.", "Orcas Greatest Hits, a compilation of interspecies music garnered from over 65 hours of field recordings with orcas during the course of Interspecies operational period, will be released by Smithsonian-Folkways Recordings in the summer of 2026. The original, unedited recordings now reside in the permanent collection of the Smithsonian Institution."],
         "source": "Interspecies Archive",
         "external_link": ""
     },
@@ -334,5 +334,107 @@
         "info": ["Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun’s activity or large volcanic eruptions. But since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil and gas.", "Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures.", "The main greenhouse gases that are causing climate change include carbon dioxide and methane. These come from using gasoline for driving a car or coal for heating a building, for example. Clearing land and cutting down forests can also release carbon dioxide. Agriculture, oil and gas operations are major sources of methane emissions. Energy, industry, transport, buildings, agriculture and land use are among the main sectors causing greenhouse gases."],
         "source": "United Nations",
         "external_link": "https://www.un.org/en/climatechange/what-is-climate-change"
+    },
+    {
+        "title": "Smithsonian Folkways",
+        "media_type": "image",
+        "media_link": "https://folkways-media.si.edu/images/page_thumbs_large/CFP11118.jpg",
+        "info": ["Smithsonian Folkways is the nonprofit record label of the Smithsonian Institution. It is a part of the Smithsonian's Smithsonian Center for Folklife and Cultural Heritage, located at Capital Gallery in downtown Washington, D.C.", "The label was founded in 1987 after the family of Moses Asch, founder of Folkways Records, donated the entire Folkways Records label to the Smithsonian. Since then, the label has expanded on Asch's vision of documenting the sounds of the world, adding six other record labels to the collection, as well as releasing over 300 new recordings.", "Due to the unique nature of its recordings, which include an extensive collection of traditional American music, children's music, and international music, Smithsonian Folkways has become an important collection to the musical community, especially to ethnomusicologists, who utilize the recordings of \"people's music\" from all over the world."],
+        "source": "Wikipedia",
+        "external_link": "https://folkways.si.edu/folkways-recordings/smithsonian"
+    },
+    {
+        "title": "Other Minds",
+        "media_type": "image",
+        "media_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Amirkhanian.JPG/1280px-Amirkhanian.JPG",
+        "info": ["Other Minds is an American nonprofit organization based in San Francisco. Founded in 1992 by Charles Amirkhanian and Jim Newman, Other Minds is dedicated to the encouragement and propagation of contemporary music in all its forms through concerts, recordings, broadcasts, audio preservation, and public discussions that bring together artists and audiences of diverse traditions, generations, and cultural backgrounds. By fostering cross-cultural exchange and creative dialogue, and by encouraging exploration of areas in new music seldom touched upon by mainstream music institutions, Other Minds is committed to expanding and reshaping the definition of what constitutes \"serious music.\"", "Other Minds also operates a record label, with a continually expanding catalog of releases focused on unearthing archival works by the unsung pioneers of electronic music from the Bay Area and beyond."],
+        "source": "Other Minds",
+        "external_link": "https://www.otherminds.org/"
+    },
+    {
+        "title": "Red Newt",
+        "media_type": "image",
+        "media_link": "https://www.frederickproductions.com/ready%20images/logo2%20red%20newt_bestclean_%20transparent1copy%20copy%20copy.jpg",
+        "info": ["Red Newt is a record label dedicated to preserving the Portland music scene of the 1970s and 1980s."],
+        "source": "Frederick Productions",
+        "external_link": "https://www.frederickproductions.com/red%20newt%20music.html"
+    },
+    {
+        "title": "Rural Situationism",
+        "media_type": "image",
+        "media_link": "https://f4.bcbits.com/img/0030181094_10.jpg",
+        "info": ["Rural Situationism was a record label founded and operated by Andrew Weathers, a composer, improviser, and intermedia artist based in Pueblo, Colorado.", "Life is the medium. Awareness of self as space. Cultivate the Deep Map."],
+        "source": "Rural Situationism",
+        "external_link": "https://ruralsituationism.bandcamp.com/"
+    },
+    {
+        "title": "Field recording",
+        "media_type": "image",
+        "media_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ecoacoustics_recording_in_Rural_Illinois%2C_USA.jpg/1280px-Ecoacoustics_recording_in_Rural_Illinois%2C_USA.jpg",
+        "info": ["Field recording is the production of audio recordings outside of recording studios, and the term applies to recordings of both natural and human-produced sounds. It can also include the recording of electromagnetic fields or vibrations using different microphones like a passive magnetic antenna for electromagnetic recordings or contact microphones, or underwater field recordings made with hydrophones to capture the sounds of sealife."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/Field_recording"
+    },
+    {
+        "title": "Hydroacoustics",
+        "media_type": "image",
+        "media_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish0204_-_Flickr_-_NOAA_Photo_Library.jpg/1280px-Fish0204_-_Flickr_-_NOAA_Photo_Library.jpg",
+        "info": ["Hydroacoustics is the study of the propagation of sound in water and the interaction of the mechanical waves that constitute sound with the water, its contents and its boundaries. The field of underwater acoustics is closely related to a number of other fields of acoustic study, including sonar, transduction, signal processing, acoustical oceanography, bioacoustics, and physical acoustics."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/Underwater_acoustics"
+    },
+    {
+        "title": "Paul Spong",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/spong.jpg",
+        "info": ["Paul Spong is a New Zealand-born Canadian cetologist and neuroscientist. He has been researching orca whales in British Columbia since 1967, and is credited with increasing public awareness of whaling, through his involvement with Greenpeace.", "In the summer of 1970, he established the OrcaLab on Hanson Island, British Columbia. This research station, located about 200 miles northwest of Vancouver on Blackney Pass, is frequented by resident orca pods en route to the Johnstone Strait where they feed on migrating salmon, socialize with other pods of their community, and visit special \"rubbing beaches\"."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/Underwater_acoustics",
+        "image_credit": "The University of British Columbia"
+    },
+    {
+        "title": "Bernie Krause",
+        "media_type": "image",
+        "media_link": "https://chronicle.brightspotcdn.com/dims4/default/ac879af/2147483647/strip/true/crop/1000x1500+0+0/resize/1000x1500!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fc1%2Fae%2Fae1bdc4773cbcc0b158dcc026469%2F6214-krause2015-03.jpg",
+        "info": ["Bernard Krause is an American musician and soundscape ecologist. In 1968, he founded Wild Sanctuary, an organization dedicated to the recording and archiving of natural soundscapes. Krause is an author, bio-acoustician, speaker, and sound artist who coined the terms geophony, biophony, and anthropophony."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/Bernie_Krause",
+        "image_credit": "BESIDE Magazine"
+    },
+    {
+        "title": "Paul Winter",
+        "media_type": "image",
+        "media_link": "https://paulwinter.xyz/wp-content/uploads/PWbyBeverlyHall.jpeg",
+        "info": ["Paul Winter is an American saxophonist, composer, and bandleader. He is a pioneer of world music and earth music, which interweaves the voices of the natural world with instrumental voices from classical, jazz and world music. The music is often improvised and recorded in nature to reflect the qualities brought into play by the environment."],
+        "source": "Wikipedia",
+        "external_link": "https://paulwinter.xyz/",
+        "image_credit": "BESIDE Magazine"
+    },
+    {
+        "title": "Whole Earth Catalog",
+        "media_type": "image",
+        "media_link": "https://ia600509.us.archive.org/BookReader/BookReaderImages.php?id=wholeearthcatalo00unse_8&itemPath=%2F21%2Fitems%2Fwholeearthcatalo00unse_8&server=ia600509.us.archive.org&page=n0_medium.jpg",
+        "info": ["The Whole Earth Catalog was an American counterculture magazine and product catalog published by Stewart Brand several times a year between 1968 and 1972, and occasionally thereafter, until 1998. The magazine featured essays and articles, but was primarily focused on product reviews. The editorial focus was on self-sufficiency, ecology, alternative education, “do it yourself,” and holism, featuring the slogan \"access to tools.\""],
+        "source": "Whole Earth Index",
+        "external_link": "https://wholeearth.info/",
+        "image_credit": "BESIDE Magazine"
+    },
+     {
+        "title": "Lubell Labs",
+        "media_type": "image",
+        "media_link": "https://05ec48578e12534030.temporary.link/interspecies/lubell.jpg",
+        "info": ["Lubell Labs is an American company founded in 1969 by electronic inventor Alan H. Lubell. It is best known for the production of underwater loudspeakers, invented and patented by Lubell in 1968."],
+        "source": "Lubell Labs",
+        "external_link": "https://www.lubell.com/",
+        "image_credit": "BESIDE Magazine"
+    },
+     {
+        "title": "Iñupiat",
+        "media_type": "image",
+        "media_link": "https://cdn.britannica.com/98/197898-050-E0FF9F10/family-Eskimo-fur-parkas-Alaska.jpg",
+        "info": ["The Iñupiat are a group of Alaska Natives whose traditional territory roughly spans northeast from the Norton Sound on the Bering Sea to the northernmost part of the US/Canada border."],
+        "source": "Wikipedia",
+        "external_link": "https://en.wikipedia.org/wiki/I%C3%B1upiat",
+        "image_credit": "BESIDE Magazine"
     }
 ]

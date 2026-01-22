@@ -61,6 +61,7 @@ export default function Footnote({ open, onClose, footnote }){
         {Array.isArray(footnote.info) && footnote.info.map((text, index) => (
           <p key={index}>{text}</p>
         ))}
+        {/* {footnote.image_credit ? <span className="image-credit">Image credit: {footnote.image_credit}</span> : ""} */}
         </div>
         <div className="footnote-container-source">
             <span>Source: {footnote.source}</span>
